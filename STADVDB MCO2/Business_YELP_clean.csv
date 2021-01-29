@@ -1,0 +1,2225 @@
+,business_id,full_address,active,city,review_count,business_name,latitude,longitude,state,stars
+0,--4Pe8BZ6gj57VFL5mUE8g,"21001 North Tatum Blvd. #24
+Phoenix, AZ 85050",True,Phoenix,5,Office Max,33.678615,-111.974607,AZ,3.0
+1,--5jkZ3-nUPZxUvtcbr8Uw,"1336 N Scottsdale Rd
+Scottsdale, AZ 85257",True,Scottsdale,31,Mika's Greek,33.463373,-111.92690800000001,AZ,4.5
+2,--BlvDO_RG2yElKu9XA1_g,"14870 N Northsight Blvd
+Ste 103
+Scottsdale, AZ 85260",True,Scottsdale,54,Asian Island,33.621463,-111.89830500000001,AZ,4.0
+3,--eIGtjp5iVWXeeCnhVNRA,"5237 W Glendale Ave
+Glendale, AZ 85301",True,Glendale,3,Pratt's Pets & Feed,33.538196,-112.17211,AZ,4.0
+4,--Ol5mVSMaW8ExtmWRUmKA,"7110 E Thomas Rd
+Ste D
+Scottsdale, AZ 85251",True,Scottsdale,3,Dave's Barber Shop,33.480509999999995,-111.92896699999999,AZ,5.0
+5,--qeSYxyn62mMjWvznNTdg,"1747 E Florence Blvd
+Casa Grande, AZ 85122",True,Casa Grande,4,Panda Express,32.879219,-111.712176,AZ,4.0
+6,--XBxRlD92RaV6TyUnP8Ow,"7510 W Thomas Rd Ste 108
+Phoenix, AZ 85033",True,Phoenix,3,Sprint,33.480678999999995,-112.22105400000001,AZ,3.5
+7,-0bUDim5OGuv8R0Qqq6J4A,"7023 N 19th Ave
+Phoenix, AZ 85021",True,Phoenix,7,International House of Pancakes,33.539644,-112.09936,AZ,2.0
+8,-0D_CYhlD2ILkmLR0pBmnA,"9832 W Northern Ave
+Ste 1660
+Peoria, AZ 85345",True,Peoria,8,Olive Gourmet,33.551491,-112.27013600000001,AZ,4.0
+9,-0QBrNvhrPQCaeo7mTo0zQ,"2526 W Van Buren Street
+Phoenix, AZ 85009",True,Phoenix,3,La Salcita,33.451163,-112.11428000000001,AZ,4.5
+10,-0xwm_AwS0d_5rwUprHGuw,"1710 W Southern Ave
+Ste B7
+Mesa, AZ 85202",True,Mesa,22,Cup O'Karma,33.393794,-111.86831200000002,AZ,4.0
+11,-1-sUowC7fJ-cn7mCxvJ5w,"7121 E 5th Ave
+Ste 1
+Scottsdale, AZ 85251",True,Scottsdale,3,The Angel Store & More...,33.497981,-111.92741299999999,AZ,2.5
+12,-1bOb2izeJBZjHC7NWxiPA,"61 W. Thomas Road
+Phoenix, AZ 85013",True,Phoenix,75,First Watch,33.479996,-112.07714399999999,AZ,3.5
+13,-1N0Z3uM8xbxKS8XiAnaog,"7047 E Greenway Parkway
+Suite 250
+Scottsdale, AZ 85254",True,Scottsdale,3,Corporate Office Centers,33.622546,-111.92857,AZ,2.5
+14,-1qDklczWpxON-3_Nj9NgA,"525 W Broadway Rd
+Tempe, AZ 85282",True,Tempe,4,Arby's,33.407373,-111.94703999999999,AZ,3.0
+15,-24unjUhdfbFW43xD8l-aA,"1900 W Germann Rd
+Ste 3
+Chandler, AZ 85286",True,Chandler,13,Bikram Yoga Chandler,33.276678000000004,-111.875125,AZ,4.5
+16,-2xCV0XGD9NxfWaVwA1-DQ,"9008 N 99th Ave
+Peoria, AZ 85345",True,Peoria,8,Nino's Pizzeria 2,33.566264000000004,-112.27661499999999,AZ,4.0
+17,-2_O3_WKgO5In5XO5extNQ,"1107 E Bell Rd
+Ste 16
+Phoenix, AZ 85022",True,Phoenix,6,Balkan Bakery,33.639493,-112.057685,AZ,5.0
+18,-34jE_5dujSWMIOBudQsiQ,"9377 E Bell Rd
+Scottsdale, AZ 85260",True,Scottsdale,5,"Dairiki Tami, MD",33.637203,-111.88219099999999,AZ,5.0
+19,-3frEL8Vo8kyq4kfgTn0GA,"6185 W Chandler Blvd
+Chandler, AZ 85226",True,Chandler,4,Filiberto's,33.304775,-111.947948,AZ,3.5
+20,-3jSU7oWrDqRgV68TWtlOg,"3557 W Dunlap Ave
+Phoenix, AZ 85051",True,Phoenix,3,International 88 Market,33.567232000000004,-112.136127,AZ,2.0
+21,-3WVw1TNQbPBzaKCaQQ1AQ,"302 E Flower St
+Phoenix, AZ 85012",True,Phoenix,198,China Chili,33.48585,-112.069181,AZ,4.0
+22,-3xbryp44xhpN4BohxXDdQ,"21001 N Tatum Blvd
+Phoenix, AZ 85050",True,Phoenix,89,The Keg Steakhouse + Bar,33.678615,-111.974607,AZ,4.0
+23,-4A5xmN21zi_TXnUESauUQ,"2613 N Scottsdale Rd
+Scottsdale, AZ 85257",True,Scottsdale,374,D'lish,33.477178,-111.925799,AZ,4.5
+24,-4BtfPW3_v092G8pqHrv4w,"1175 W Chandler Blvd
+Chandler, AZ 85224",True,Chandler,6,Wendy's ,33.305578999999994,-111.86218899999999,AZ,4.0
+25,-4QayefhaPXm6wPp-Zpb0A,"8399 W Lynwood St
+Tolleson, AZ 85353",True,Tolleson,3,Premier Inn,33.464189000000005,-112.238571,AZ,3.5
+26,-4zMr3jk0ykmsk5sxsQMlA,"1996 N Alma School Road
+Chandler, AZ 85224",True,Chandler,5,99 Cents Only Store,33.335144,-111.859078,AZ,4.0
+27,-50sQyEuqRFKYTc1QHOZoQ,"13200 W McDowell Rd
+Goodyear, AZ 85395",True,Goodyear,4,Desert Schools Federal Credit Union,33.464887,-112.3432,AZ,4.0
+28,-5bLhMLNGbIVyoPOVl0yLg,"1215 W Broadway Rd
+Mesa, AZ 85202",True,Mesa,3,Enterprise Rent-A-Car,33.407467,-111.85722700000001,AZ,4.5
+29,-5EWgRkudDlcCbQSIL_twA,"408 E Roosevelt St
+Phoenix, AZ 85004",True,Phoenix,12,Phoenix Food Truck Festival,33.459022999999995,-112.068175,AZ,2.0
+30,-5IgAihccTd8_iENVgpd9A,"8473 W Paradise Ln
+Peoria, AZ 85382",True,Peoria,4,Comfort Suites,33.636835999999995,-112.236722,AZ,3.5
+31,-5rFC4EVrT-v8g1PSEf6Xg,"3145 N Dysart Rd
+Ste C102
+Avondale, AZ 85392",True,Avondale,59,Eest Asian Bistro,33.482389000000005,-112.340851,AZ,4.0
+32,-5XAZC1hC6G0NDkmPyhmUg,"714 S Val Vista Drive
+Gilbert, AZ 85296",True,Gilbert,6,Fry's Food & Drug Stores & Fry's Marketplace,33.337382,-111.757057,AZ,3.5
+33,-6m6SqygK0Ak-PSN5pRqjA,"900 S Gilbert Rd
+Gilbert, AZ 85296",True,Gilbert,3,Bank of America,33.333858,-111.790644,AZ,2.5
+34,-6O53B-ksqSKzWM6Y9moEQ,"75 W Baseline Rd
+Ste 12
+Gilbert, AZ 85233",True,Gilbert,10,Mesquite Grill and Sports Bar,33.37833,-111.83238700000001,AZ,3.5
+35,-6Roo-EHgSdUa4rP3tWyRw,"2800 W Chandler Blvd
+Chandler, AZ 85224",True,Chandler,61,Mimis Cafe,33.306411,-111.89307,AZ,3.5
+36,-73hx2hut_2KPcGpCTO5YA,"6204 N Scottsdale Rd
+Ste 103
+Scottsdale, AZ 85253",True,Scottsdale,22,U-Swirl,33.528911,-111.92586399999999,AZ,3.0
+37,-7beeoZO7ehfJgpu09CZAA,"2501 W Happy Valley Rd
+Phoenix, AZ 85085",True,Phoenix,3,Styles For Less No 216,33.711090999999996,-112.112277,AZ,3.0
+38,-7DxAxnXkAlTXUrtByoXAg,"5833 E McKellips Rd
+Mesa, AZ 85215",True,Mesa,3,Kohl's Department Stores,33.450196999999996,-111.70315900000001,AZ,5.0
+39,-7smFzvh2E2fOOYs-0Dl8w,"3440 E Baseline Rd
+Mesa, AZ 85234",True,Mesa,14,Chipotle,33.379624,-111.755987,AZ,4.0
+40,-89RyOPC5YszPxL5u8eYaw,"3841 E Superior Ave
+Phoenix, AZ 85040",True,Phoenix,3,Arizona Foundation Solutions,33.415789000000004,-111.997677,AZ,5.0
+41,-8ESeBPSgUI736sd9ajn6Q,"7585 E Redfield Rd
+Ste 112
+Scottsdale, AZ 85260",True,Scottsdale,3,SuperSlow of Scottsdale,33.613583,-111.917961,AZ,3.5
+42,-8IvK1VBMRqYY6CQzD6arg,"701 E Thunderbird Trl
+Phoenix, AZ 85042",True,Phoenix,15,Vistal Golf Club,33.358207,-112.064195,AZ,3.0
+43,-8PVP-Pnv232xPOUgPrxmg,"2727 W Agua Fria Fwy
+Phoenix, AZ 85027",True,Phoenix,8,Target Stores,33.666610999999996,-112.118879,AZ,3.0
+44,-8vrk9UzM2oIey95PZOHuA,"9251 W Union Hills Dr
+Peoria, AZ 85382",True,Peoria,6,KFC,33.652158,-112.25728400000001,AZ,1.5
+45,-8wyZkzfBmCFkMwCGcR4PQ,"4700 N 16th St
+Phoenix, AZ 85016",False,Phoenix,32,Pugzie's,33.505884,-112.04790700000001,AZ,3.5
+46,-8Z6AiHwXInpnl6Q1Ey_5w,"4727 E Bell Rd
+Phoenix, AZ 85032",True,Phoenix,4,Palo Verde Bike Shop,33.638405,-111.97983700000002,AZ,2.0
+47,-92fePI5W6MwOaxMxphFjA,"Arrowhead Mall
+7700 W Arrowhead Towne Center Rd
+Glendale, AZ 85308",True,Glendale,7,My Big Fat Greek Express,33.664516,-112.20263500000001,AZ,3.5
+48,-98noPZy1sH6NndWmdtuDw,"21001 North Tatum Blvd
+Phoenix, AZ 85073",True,Phoenix,6,Port of Subs,33.4499,-112.0739,AZ,2.5
+49,-9E9RphlavSPtYl4JECSkg,"10953 N Frank Lloyd Wright B
+Scottsdale, AZ 85259",True,Scottsdale,3,Park Discount Cleaners,33.586434999999994,-111.834973,AZ,4.5
+50,-9KmkVrh7p4jyPMfICzh5w,"2015 W Apache Trl
+Ste W
+Apache Junction, AZ 85120",True,Apache Junction,4,Bad Moon's Gaming,33.4148,-111.56782199999999,AZ,4.5
+51,-9meXYVIw8yFg_yMG5RvCw,"7171 W. Chandler Blvd.
+Chandler, AZ 85226",True,Chandler,5,Super 8 Motel - Chandler / Phoenix,33.305197,-111.96601499999998,AZ,3.5
+52,-9pVS__IliMA2aNEYzrQrg,"4363 N 75th St
+Scottsdale, AZ 85251",True,Scottsdale,132,American Junkie,33.500169,-111.919817,AZ,3.0
+53,-A5CFmkgdMEggaihtyxX4Q,"901 N 4th St
+Phoenix, AZ 85004",False,Phoenix,12,nextDOOR,33.457863,-112.06835900000002,AZ,3.5
+54,-A82xEVAjOYZtDdRQw1FQw,"4727 E Bell Rd
+Ste 47
+Phoenix, AZ 85032",True,Phoenix,8,Best Home Appliances,33.638405,-111.97983700000002,AZ,4.5
+55,-AAig9FG0s8gYE4f8GfowQ,"4404 N Central Ave
+Phoenix, AZ 85012",True,Phoenix,343,Pane Bianco,33.500621,-112.07431100000001,AZ,4.0
+56,-aBTFWuluGAJId7C4KNqeQ,"3505 E Union Hills Dr
+Phoenix, AZ 85050",True,Phoenix,9,Paradise Valley Park Golf Course,33.654307,-112.007407,AZ,2.5
+57,-AcBphGFzYILy1XhnAwQTw,"510 S 52nd St
+Ste 105
+Tempe, AZ 85281",True,Tempe,5,Affordable Party & Event Rentals,33.424281,-111.92408799999998,AZ,5.0
+58,-aDuOZelvBHWKh-NrXooow,"2737 W Thunderbird Rd
+Phoenix, AZ 85053",True,Phoenix,16,Port of Subs,33.609811,-112.119194,AZ,3.5
+59,-AEvCwVegPstHNAkhds-UA,"1854 S Val Vista Dr
+Mesa, AZ 85204",True,Mesa,5,Hottie World,33.38143,-111.75686699999999,AZ,4.5
+60,-Al9ySAoa5iDhrYWddkL4g,"1221 N Central Ave
+Phoenix, AZ 85004",True,Phoenix,9,Phoenix Public Library,33.462917,-112.07307800000001,AZ,4.5
+61,-AW_tud7yzJyyK9jDFQN0g,"4510 E Cactus Rd
+Phoenix, AZ 85032",True,Phoenix,13,JCPenney,33.6016,-111.98666200000001,AZ,3.5
+62,-Bb1Xwd677TBSIPjw4x7oA,"857 N Dobson Rd
+Mesa, AZ 85201",True,Mesa,30,Walmart,33.432086,-111.864778,AZ,2.5
+63,-bd26a1QEEpqUZjBmtBUiQ,"849 W University Dr
+Tempe, AZ 85281",True,Tempe,225,Caf? Lalibela,33.421336,-111.95161499999999,AZ,4.0
+64,-bDVHwEw-CULe4ki6UM5Mg,"5435 E Tapekim Rd
+Cave Creek, AZ 85331",True,Cave Creek,3,Wise Mechanical,33.789606,-111.963752,AZ,5.0
+65,-bLYfQ30phOC_znU8vyCpg,"University Dr
+Mesa, AZ 85203",True,Mesa,3,Elite Mobile Auto Detailing,33.422405,-111.805279,AZ,2.5
+66,-BQHw828VNrNZ7LtFnFJCA,"18625 N Reems Rd
+Surprise, AZ 85374",True,Surprise,10,Fletcher's Tire & Auto Service,33.653328,-112.375846,AZ,5.0
+67,-Bt99QgCCzmoZbchuDG_ew,"2651 W Guadalupe Rd
+Ste 202
+Mesa, AZ 85202",True,Mesa,4,Valley Movie Group,33.363319,-111.890878,AZ,5.0
+68,-b_VjHZmA7-8LVWp6z36VA,"2707 E Broadway Rd
+Phoenix, AZ 85040",True,Phoenix,23,Mim's Burger & Mexican Food,33.406834,-112.023595,AZ,3.5
+69,-c-qfgM7OWavhLe1wwSR9Q,"6442 S McClintock Dr
+Tempe, AZ 85283",True,Tempe,4,Backstage Salon & Spa,33.362297,-111.91123700000001,AZ,5.0
+70,-C4uFGbo6N1UOhf_tqX5tQ,"5036 W Cactus Rd
+Glendale, AZ 85304",True,Glendale,3,Arizona Hair Company,33.596329,-112.166905,AZ,4.5
+71,-cKWUXE-16M1R15UOt6sqQ,"7014 E Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,14,Banana Republic,33.502594,-111.929676,AZ,3.5
+72,-cnpSvl4FAUIWeXuSdJwww,"2900 S Country Club Dr
+Mesa, AZ 85210",True,Mesa,4,Treeland Nurseries,33.361016,-111.841991,AZ,4.0
+73,-cy8EpdXs44iT3FR4En0QA,"20851 Rittenhouse Rd.
+Ste 101
+Queen Creek, AZ 85142",True,Queen Creek,39,Firehouse Subs,33.254731,-111.633504,AZ,4.0
+74,-CYr479M7Y49UqIPwFcjEg,"23425 N 39th Dr
+Ste 106
+Glendale, AZ 85310",True,Glendale,8,Starbucks Corporation,33.713276,-112.14196000000001,AZ,5.0
+75,-CZ78c-H3tTxpP-uQ09CWw,"2817 S 46th St
+Phoenix, AZ 85040",False,Phoenix,3,"American Dream Plumbing, Heating & Air Conditioning",33.421231,-111.982371,AZ,4.5
+76,-d1I0dwtCg1IIjnI3DZ38Q,"4044 S 16th St
+Phoenix, AZ 85040",True,Phoenix,8,Susie's Mexican Cafe & Lounge,33.408843,-112.047101,AZ,3.5
+77,-DGbZCnfEiHUy-ksKeJ72Q,"1400 S McClintock
+Tempe, AZ 85281",True,Tempe,16,Starters Sports Bar and Grill,33.412825,-111.90911899999999,AZ,3.5
+78,-DgcMdW6wc3UAu2c0tJFfg,"201 W Guadalupe
+Ste 200
+Gilbert, AZ 85233",True,Gilbert,3,East Valley Family Medical,33.363146,-111.793796,AZ,3.5
+79,-dlVtdzpjjc4o-OJ4S6xtg,"2717 E Lehi Rd
+Mesa, AZ 85213",True,Mesa,4,Orange Patch,33.475226,-111.77253999999999,AZ,5.0
+80,-dz2h55a0SdnBJEXQm9CAQ,"700 W Ray Rd
+Gilbert, AZ 85233",True,Gilbert,15,Prestige Animal Clinic,33.321564,-111.80485700000001,AZ,4.5
+81,-E6NMzhMX4YScGCNwbycPg,"3501 N Scottsdale Rd Ste 226
+Scottsdale, AZ 85251",True,Scottsdale,3,Southwest Jaw Surgeons of Arizona,33.488869,-111.92575,AZ,5.0
+82,-E6XYf1ce1NCtV3QQI-3xA,"1434 S Alma School Rd
+Mesa, AZ 85210",True,Mesa,30,LongHorn Steakhouse,33.388376,-111.857698,AZ,3.5
+83,-EctXOb3B7T177jGYUhjVA,"530 W Broadway
+Tempe, AZ 85282",True,Tempe,181,Boulders On Broadway,33.407561,-111.947525,AZ,4.0
+84,-eE4PAWu5FBRnAvbIMzWqg,"6316 N Scottsdale Road
+Paradise Valley, AZ 85253",False,Paradise Valley,4,Quilted Bear,33.529798,-111.925816,AZ,2.0
+85,-eim7j3MfRWxhatv-udhYw,"7120 N 12th St
+Phoenix, AZ 85020",True,Phoenix,5,The Urban Farm Nursery,33.540306,-112.056652,AZ,4.5
+86,-EOZn5fbMKUo_3QEDFfedQ,"2626 E Pecos Road
+Chandler, AZ 85225",True,Chandler,7,Chandler-Gilbert Community College,33.292753999999995,-111.796167,AZ,3.0
+87,-ev01HlCKf7CYsh8ZXG_7w,"2442 E Camelback Rd
+Ste 8
+Phoenix, AZ 85016",False,Phoenix,8,Three Dog Bakery,33.509445,-112.02906899999999,AZ,3.5
+88,-f5EhKQb7jPtDl1eYDwV0w,"3329 E Bell Rd
+Phoenix, AZ 85032",True,Phoenix,3,Domino's Pizza,33.639969,-112.010011,AZ,4.0
+89,-F9-dpfu6eVuS7HGs1ptsQ,"5000 S Arizona Mills Cir
+Tempe, AZ 85282",True,Tempe,12,Neiman Marcus Last Call,33.383123,-111.96448500000001,AZ,3.5
+90,-fgp41smAIXPBzmWzpY1aQ,"5960 W Bell Rd
+Glendale, AZ 85308",True,Glendale,5,Stein Mart,33.638757,-112.1879,AZ,4.0
+91,-fIGHIUdHX-T_ZGh2IQz4Q,"7014 East Camelback Rd., Space 1056
+Scottsdale Fashion Square
+Phoenix, AZ 85251",True,Phoenix,8,Gucci,33.502509,-111.929023,AZ,2.0
+92,-fpBB1Oa7fVi7liNUd8qow,"3825 West Ray Rd.
+Chandler, AZ 85226",True,Chandler,13,AMF McRay Plaza Lanes,33.319492,-111.90813200000001,AZ,4.0
+93,-fsCfTYEnJ4s6yStgBnQig,"14202 N Scottsdale Rd
+Scottsdale, AZ 85254",False,Scottsdale,46,Farrelli's Cinema Supper Club,33.615158,-111.926433,AZ,4.0
+94,-ftQeUsqwDkExRg6IYrubQ,"717 W Union Hills
+Ste 1
+Phoenix, AZ 85027",True,Phoenix,135,Chicago Gyros,33.654353,-112.08358,AZ,4.5
+95,-Fv9yPpyBd2Ophih6b2mTw,"4515 N 16th St
+Phoenix, AZ 85016",True,Phoenix,7,Celebrity Tanning,33.502638,-112.047094,AZ,4.0
+96,-g5leVOzKA33Ruabe2Zo9w,"1605 S Gilbert Rd
+Gilbert, AZ 85295",True,Gilbert,14,B&G Caf?,33.334868,-111.78958100000001,AZ,3.5
+97,-gefwOTDqW9HWGDvWBPSMQ,"18 W Monroe St
+Phoenix, AZ 85003",True,Phoenix,156,Seamus McCaffrey's,33.450457,-112.074344,AZ,3.5
+98,-gIVoMNqvKWcBpQkpg-10w,"1028 W Grand Ave
+Phoenix, AZ 85007",True,Phoenix,4,Red House Pub,33.455169,-112.08680600000001,AZ,5.0
+99,-GPiLRLH0MWH6Pjs0WDglg,"7606 W. Bell Rd
+Glendale, AZ 85308",True,Glendale,20,Black Angus Steakhouse,33.638337,-112.222939,AZ,3.0
+100,-Gse8l_ec33gkWgotCLsew,"1721 E Warner Rd
+Tempe, AZ 85284",False,Tempe,5,The Magic Wok,33.334634,-111.91301499999999,AZ,3.5
+101,-GYx5GAx_-4XEsn7mFwdkA,"1636 South Stapley
+Mesa, AZ 85206",True,Mesa,23,Red Robin Gourmet Burgers,33.383884,-111.805901,AZ,3.0
+102,-h-q6zTIdPlkz9BDP11sBg,"2502 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,208,Seasons 52,33.510234000000004,-112.02749399999999,AZ,4.0
+103,-H0JvSyF8r8vGDEBjRNArg,"1468 N Litchfield Rd.
+Suite M-5
+Goodyear, AZ 85395",True,Goodyear,11,European Wax Center,33.462861,-112.35822900000001,AZ,3.5
+104,-h1WpfgqAmJcJDqyXXJ2og,"6455 East Southern Ave.
+Mesa, AZ 85206",True,Mesa,22,Fuddruckers,33.393738,-111.69164599999999,AZ,4.5
+105,-h9LochyBgKpsLwNXfTiOw,"5010 W Olive Ave
+Glendale, AZ 85302",False,Glendale,9,Phoenix BBQ & Deli,33.567498,-112.167096,AZ,3.0
+106,-HnNSLlmNbesJ7NF5CmgFg,"10402 N Black Canyon Hwy
+Phoenix, AZ 85051",False,Phoenix,3,Buffalo Wild Wings,33.580605,-112.11811100000001,AZ,2.0
+107,-hQ8iZygzi0iiTFUkHgiEA,"1628 E Southern Ave
+Ste 2
+Tempe, AZ 85282",True,Tempe,58,Back East Bagels,33.392998,-111.912764,AZ,3.5
+108,-HSVYFf0h868QQnLMHZWNw,"8408 West Paradise Ln
+Peoria, AZ 85382",True,Peoria,6,Hampton Inn,33.635686,-112.235956,AZ,3.5
+109,-hWSt4JO2zT7zd7QzLZY9Q,"16572 W Greenway Rd
+Bldg C
+Ste 101
+Surprise, AZ 85388",False,Surprise,5,Over Coffee,33.623982,-112.415966,AZ,4.5
+110,-hyRIQfgdwhPdNw8PTWMYw,"7400 S Power Rd Ste 112
+Gilbert, AZ 85297",True,Gilbert,3,Restore Physical Therapy & Sports Medicine,33.281514,-111.68683200000001,AZ,3.5
+111,-hzkQ8YIkExQse3vX0HOcg,"4306 N 7th Ave
+Phoenix, AZ 85013",False,Phoenix,7,Lil' Mama's Soul Food Cafe,33.498858,-112.083502,AZ,3.0
+112,-I3Cu9rLQXtL5us5wdy8tA,"6030 S Kings Ranch Rd
+Gold Canyon, AZ 85118",False,Gold Canyon,3,Open Range Deli and BBQ,33.360621,-111.442431,AZ,2.5
+113,-IEBe1UpCz8-dTAp8_fClw,"8787 N Scottsdale Rd
+Ste 102
+Paradise Valley, AZ 85253",False,Paradise Valley,20,Garduno's Margarita Factory & Blue Agave,33.546,-111.96828000000001,AZ,2.5
+114,-iGegnCdHR1IWw4D_240_Q,"14071 W Bell Rd
+Surprise, AZ 85374",True,Surprise,4,Cold Stone Creamery,33.638145,-112.365227,AZ,4.5
+115,-IGtjjf8lF9PpeF9S-9Lnw,"5421 W Thunderbird Rd
+Glendale, AZ 85306",True,Glendale,3,Walgreens,33.610613,-112.176455,AZ,1.5
+116,-ijqzP5H4UCk2CEa6RRKQA,"21001 N Tatum Boulevard
+Phoenix, AZ 85050",True,Phoenix,5,Sports Authority,33.674646,-111.974853,AZ,4.5
+117,-iJZ-PEnOw2oVUBFfg5wJw,"221 N Litchfield Road
+Goodyear, AZ 85338",True,Goodyear,4,Doggie Door,33.448357,-112.35706100000002,AZ,3.0
+118,-IptYYZVDxgJgDB_eHJo1A,"4055 S Arizona Ave Ste 5
+Chandler, AZ 85248",True,Chandler,5,Signature Nail and Spa,33.258734000000004,-111.841214,AZ,2.5
+119,-IpX9jcMdSaf4HEsYWtDhA,"1727 E Cortez Dr
+Gilbert, AZ 85234",True,Gilbert,4,Aspen Plumbing & Rooter,33.365809000000006,-111.75324499999999,AZ,4.5
+120,-iyXLstr5tP_oPdxDQjKHg,"830 E Greenway Pkwy Ste 103
+Phoenix, AZ 85022",True,Phoenix,3,Brown Eyed Girlz Boutique,33.637685,-112.06238,AZ,1.0
+121,-J0jhpG0rv4saq9OMh8gXw,"891 N Val Vista Dr
+Ste D101
+Gilbert, AZ 85234",False,Gilbert,5,Seattle Espresso,33.366715,-111.75611200000002,AZ,4.5
+122,-j3BF7gOIi-1tAHoFA3WIw,"Charlie's Phoenix
+727 W Camelback Rd
+Phoenix, AZ 85013",True,Phoenix,18,La Parilla Villa Catering,33.508834,-112.083991,AZ,5.0
+123,-JaNk2DOQdpjTl5Bu-iehg,"21001 N Tatum Blvd
+Phoenix, AZ 85050",True,Phoenix,9,PetSmart,33.678626,-111.97461499999999,AZ,3.5
+124,-jBymA8tI-WURtSBcuUdXQ,"408 W Juanita Ave
+Mesa, AZ 85210",True,Mesa,15,Schlotzsky's,33.382674,-111.84073899999999,AZ,4.0
+125,-jcfE58jX6-7ZiGazhWjgw,"Scottsdale, AZ 85271",True,Scottsdale,3,Crown Sedan,33.47,-111.92,AZ,5.0
+126,-JL0CWSLkkzFHZXlctnf8A,"1410 East Southern Ave
+Tempe, AZ 85282",True,Tempe,72,Sweet Tomatoes,33.393496,-111.914905,AZ,3.5
+127,-JpZiiGPKOuCEiODGNyovw,"3200 E Sky Harbor Blvd
+Ste  3300
+Phoenix, AZ 85034",True,Phoenix,8,Wendy's Old Fashioned Hamburgers,33.434933,-112.010747,AZ,3.5
+128,-KcEUiwXi4uHoa6VV6KMuA,"7221 East Princess Blvd
+Suite 118
+Scottsdale, AZ 85255",True,Scottsdale,5,Ideal Image,33.646602,-111.925097,AZ,2.0
+129,-KEU36ohRQb19mrbA65Y3Q,"2957 W Bell Rd
+Phoenix, AZ 85053",False,Phoenix,26,The Good Egg,33.714327000000004,-112.13983300000001,AZ,3.5
+130,-KF9RQPkmIOHfE0tzUu9bg,"2910 N Hayden Rd
+Scottsdale, AZ 85251",True,Scottsdale,32,Dunkin Donuts,33.480996000000005,-111.909292,AZ,3.5
+131,-KR8uHx8mq-ogiFX7TITIw,"8233 N 7th St
+Phoenix, AZ 85020",True,Phoenix,6,QuikTrip,33.558759,-112.065221,AZ,4.5
+132,-KSjEAnm5w8TBdRVLVwi9Q,"1528 E Southern Ave
+Tempe, AZ 85282",True,Tempe,47,Los Reyes de la Torta,33.393008,-111.914,AZ,4.0
+133,-kVXDEqGHOWKxQ3EhvFgVA,"14747 N Northsight Blvd
+Ste 116
+Scottsdale, AZ 85260",False,Scottsdale,13,Kokopelli Mexican Grill,33.61949,-111.89643600000001,AZ,4.0
+134,-KySU-TyscoMMRNgzx4LaQ,"7014 Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,6,Zara,33.502509,-111.929023,AZ,3.0
+135,-KZC-59mP5Kcr52Zk7W89w,"715 W Baseline Road
+Tempe, AZ 85283",True,Tempe,3,Chavez Barber Shop,33.377289000000005,-111.95001299999998,AZ,5.0
+136,-KzyOiFK4SM9I1vmuTSsuA,"4816 E Ray Rd
+Phoenix, AZ 85044",True,Phoenix,12,Fresh & Easy Neighborhood Market,33.319947,-111.97966000000001,AZ,4.0
+137,-L39pGMPP1kM3DI0Z0oZSw,"120 E Taylor St
+Phoenix, AZ 85004",True,Phoenix,9,Starbucks,33.453507,-112.072278,AZ,2.5
+138,-lDo_9oU_xna4_idQP1r4A,"4415 N Civic Center Plz
+Scottsdale, AZ 85251",True,Scottsdale,94,Hotel Indigo Scottsdale,33.501019,-111.920829,AZ,3.5
+139,-lOSaCuBRAvX5JBifx-EMw,"455 N 3rd St
+Phoenix, AZ 85004",True,Phoenix,80,Mi Amigo's Mexican Grill,33.452796,-112.069318,AZ,3.0
+140,-Lsdg-qZl_Lj3dj6VQI_Dg,"21001 N Tatum Blvd
+Phoenix, AZ 85050",True,Phoenix,3,Cold Stone Creamery,33.678615,-111.974607,AZ,4.0
+141,-luJmoJUWtS4iQh7Bbbblw,"5066 W Olive Ave
+Glendale, AZ 85302",True,Glendale,7,HoneyBaked Ham,33.567784,-112.167253,AZ,4.0
+142,-LunygEblxqpInmp6N801A,"Phoenix, AZ 85018",True,Phoenix,4,Carpet World,33.49393,-112.024598,AZ,4.0
+143,-L_rzBx627AcIFqZsPnsQQ,"7140 E Shea Blvd
+Scottsdale, AZ 85254",True,Scottsdale,3,Circle K Stores,33.582454999999996,-111.92661299999999,AZ,4.0
+144,-M1rR1Ip7NOlMn5EbUkuog,"11425 E Via Linda
+Scottsdale, AZ 85259",True,Scottsdale,7,McDonald's,33.588985,-111.83549199999999,AZ,2.5
+145,-MaIpPCz4153Uh1pnzI3AA,"5350 E Marriott Dr
+Phoenix, AZ 85054",True,Phoenix,5,Stonegrill,33.683440999999995,-111.96603600000002,AZ,3.5
+146,-Mf4I8Jr_Vly37Z3Mgf0zQ,"409 N Scottsdale Rd
+Scottsdale, AZ 85257",False,Scottsdale,10,JJ's Sports Cantina,33.452268,-111.926128,AZ,3.5
+147,-MFnc3jvLEduvqkOlaylHQ,"3893 S Arizona Ave
+Chandler, AZ 85286",True,Chandler,9,Wendy's,33.249190000000006,-111.840842,AZ,2.5
+148,-Mi86BZenY9IROFUdVy8bA,"2902 N 44th St
+Phoenix, AZ 85018",True,Phoenix,4,Bank of America,33.480834,-111.98753700000002,AZ,2.5
+149,-mLcpJYfX8tw8LR9bq018w,"20928 N John Wayne Pkwy
+Ste C1
+Maricopa, AZ 85139",True,Maricopa,26,Great Wall,33.069076,-112.045814,AZ,2.5
+150,-mQ8to8Y4MSMS5tIjgsV3g,"23610 N 20th Dr
+Ste 12
+Phoenix, AZ 85085",True,Phoenix,6,Safelite AutoGlass,33.700398,-112.102149,AZ,4.5
+151,-mz0Zr0Dw6ZASg7_ah1R8A,"27 W Madison St
+Phoenix, AZ 85003",True,Phoenix,58,Sing High Chop Suey House,33.446088,-112.074128,AZ,2.5
+152,-N6XWiSuFKv-AXT7C3n6Yw,"2310 E Highland Ave
+Phoenix, AZ 85016",True,Phoenix,26,Hampton Inn Phoenix-Biltmore,33.505864,-112.03221299999998,AZ,4.0
+153,-NbEHP2GHFNb5PnmJnd4qQ,"3111 W Chandler Boulevard
+Chandler, AZ 85226",True,Chandler,3,The Buckle,33.305681,-111.897553,AZ,4.0
+154,-nC13Bk7eJJN1likqJRY1w,"4414 E Camelback Rd
+Ste 106A
+Phoenix, AZ 85018",True,Phoenix,15,The Body Lab,33.50956,-111.98566799999999,AZ,4.5
+155,-Nd5eId2iqnFvAMNgRBgpA,"1526 E Main St
+Mesa, AZ 85203",True,Mesa,70,Casa Ramos,33.41572,-111.798461,AZ,4.0
+156,-NGrzJp0dX5pK3qdGSaspw,"756 S Gilbert Rd Ste 103
+Gilbert Retail Shopping Center
+Gilbert, AZ 85296",True,Gilbert,10,Cool Cuts 4 Kids,33.335923,-111.790094,AZ,4.5
+157,-nHYKkSJuQ7zzFZ1veRfPg,"10608 N 32nd St
+Phoenix, AZ 85028",True,Phoenix,25,Little Peking,33.583579,-112.01366599999999,AZ,4.0
+158,-njvGjJacPJMJ9YWSr6G3Q,"7318 W Indian School Rd
+Phoenix, AZ 85033",True,Phoenix,3,Rollero Family Roller Skating Center,33.495195,-112.21686399999999,AZ,2.5
+159,-nmr-3l0EmQaZAGEoXgk4w,"7272 E Indian School Rd
+Scottsdale, AZ 85251",True,Scottsdale,4,Pacific's Cafe,33.495574,-111.92446100000001,AZ,3.0
+160,-NOet8xJLGhX-eUzSIDc2Q,"2836 E Indian School Rd
+Ste A5-6
+Phoenix, AZ 85016",True,Phoenix,50,Firehouse Subs,33.495437,-112.01977600000001,AZ,4.0
+161,-NrEcXQ0qioMwkRsgoq8Kw,"3303 E Baseline Rd
+Ste 112
+Gilbert, AZ 85234",True,Gilbert,9,Brewer Caldwell Property Management,33.37876,-111.760998,AZ,2.0
+162,-nWigG5EhFLjdSgGZthS3Q,"2333 E Thomas Rd
+Phoenix, AZ 85016",True,Phoenix,29,Embassy Suites Hotel Phoenix-Airport At 24th Street,33.480017,-112.031501,AZ,3.0
+163,-N_i2F9BDyIt9e1iihVr1w,"1628 E Southern Ave
+Phoenix, AZ 85040",True,Phoenix,4,La Croix Louisiana Fish Market,33.392933,-112.046305,AZ,4.5
+164,-O7H5LhBkE13VQZB0QZI0Q,"680 S Mill Ave
+Tempe, AZ 85281",True,Tempe,75,Fat Tuesday,33.424008,-111.94018700000001,AZ,3.0
+165,-O7Szp08dATVv71IuDt1bA,"6525 W Happy Valley Rd
+Glendale, AZ 85310",True,Glendale,21,Times 3 Sports Grille,33.711040000000004,-112.200034,AZ,3.5
+166,-Ogv7rpcgUHkFaSy3vD8Sw,"4909 E Chandler Blvd
+Phoenix, AZ 85048",True,Phoenix,82,Hong Kong Gourmet Buffet,33.303967,-111.97838999999999,AZ,3.5
+167,-OjA9Wvnn-XExG-9Djj2og,"1945 E. Camelback Road
+Phoenix, AZ 85016",True,Phoenix,5,Men's Wearhouse and Tux,33.50887,-112.04078799999999,AZ,4.0
+168,-orgn4aQoie80CiWcoqkqg,"7525 E Camelback Road
+Scottsdale, AZ 85251",False,Scottsdale,3,Clayton Companies,33.502459,-111.91922199999999,AZ,5.0
+169,-PisznY2s13FyX3tASY4aA,"5555 N 7th St
+Phoenix, AZ 85014",True,Phoenix,17,Ace Hardware,33.511525,-112.05553799999998,AZ,3.0
+170,-pJVjm0t4F6sNHo77HlQKA,"5070 S Gilbert Rd
+Ste 400
+Chandler, AZ 85249",True,Chandler,30,The Cove Grill,33.23389,-111.789496,AZ,4.0
+171,-PoxCIqlN6tX98AxC0aPTQ,"1118 E Southern Ave
+Mesa, AZ 85204",True,Mesa,32,Pro's Ranch Market,33.39348,-111.80828600000001,AZ,4.0
+172,-pujUWl_QknGnW6x_hvWUg,"16605 E Avenue Of The Fountains
+Fountain Hills, AZ 85268",True,Fountain Hills,3,United States Post Office,33.604585,-111.72251899999999,AZ,2.5
+173,-QdMyyV-GY3qXcXuLiqVqg,"45 E Broadway Rd
+Tempe, AZ 85282",True,Tempe,14,Nancy's Nail Salon,33.407464000000004,-111.939444,AZ,4.0
+174,-qGdnh3p6T3wZr3ZJwQEQA,"13203 S 48th St
+Phoenix, AZ 85044",True,Phoenix,3,SkinFIT,33.326652,-111.98008200000001,AZ,5.0
+175,-qv60txNVfg5pJ0b0w-QJw,"414 S Mill Ave
+Ste 119
+Tempe, AZ 85281",True,Tempe,32,Candy Addict,33.426382000000004,-111.94018600000001,AZ,4.5
+176,-q_VodbABJygOSuv86LOtw,"1830 W Glendale Ave
+Phoenix, AZ 85021",False,Phoenix,9,Chik A Ribs,33.538808,-112.09865500000001,AZ,3.5
+177,-R2_pheIa-K4DMzf67Zl-A,"15205 W Vineyard
+Goodyear, AZ 85338",True,Goodyear,3,Estrella Mountain Golf Course,33.386994,-112.38148100000001,AZ,3.0
+178,-R7PFBKnKNx6pOYpUdVTzA,"Scottsdale, AZ 85259",True,Scottsdale,3,En Blum Catering,33.50741,-112.031029,AZ,3.5
+179,-Rb9vXZjET2PfWMjLzZgvg,"663 W Warner Rd
+Gilbert, AZ 85233",True,Gilbert,6,Sonic Drive-In,33.335425,-111.80446599999999,AZ,3.0
+180,-Rj4yXguyZ06ZMPMmoR9tg,"1095 W Queen Creek Rd
+Chandler, AZ 85248",True,Chandler,41,Keegan's Grill,33.261396000000005,-111.86150900000001,AZ,3.5
+181,-rOS0SknqQRJabyEX6r_TQ,"2475 E Baseline Rd
+Phoenix, AZ 85042",True,Phoenix,5,Banfield Pet Hospital,33.377658000000004,-112.02821399999999,AZ,3.5
+182,-sAoGZTnFtDZUY9JYWHqlg,"7277 East Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,159,W Scottsdale,33.501546999999995,-111.92414699999999,AZ,3.5
+183,-sC66z4SO3tR7nFCjfQwuQ,"401 W Clarendon Ave
+Phoenix, AZ 85013",True,Phoenix,731,Gallo Blanco,33.491112,-112.079198,AZ,4.0
+184,-SfUBPZcJ6uw2cVlc6dk-Q,"16089 N Bullard Ave
+Surprise, AZ 85374",True,Surprise,6,Northwest Regional Library,33.629967,-112.375897,AZ,4.5
+185,-sHaV6At__T1RJQXiR6d0g,"1 N 1st St
+Ste 100
+Phoenix, AZ 85004",False,Phoenix,28,First Watch,33.4492,-112.0696,AZ,3.0
+186,-SS0C3OoPhVVBFCFfDWB2A,"9802 N 7th Street
+Phoenix, AZ 85020",False,Phoenix,4,Tacos Jalisco,33.575297,-112.065316,AZ,3.5
+187,-ssS6vsRYRvJgTRt5BawTw,"Glendale, AZ 85308",True,Glendale,8,"Renaissance Plumbing, LLC",33.664516,-112.20263500000001,AZ,5.0
+188,-sTBvM1pOpZts9dnJ6_5Xw,"2200 N Arizona Ave
+Ste 7
+Chandler, AZ 85225",True,Chandler,6,Subway,33.340579999999996,-111.84193400000001,AZ,4.0
+189,-SxeUGqnKy8YiEV5YA42Jw,"8160 N 91St Avenue
+Peoria, AZ 85345",True,Peoria,10,LA Fitness,33.554311,-112.25500600000001,AZ,3.0
+190,-SZ3_2pAN9Ax6QdulaCUTw,"19615 N 15th Ave
+Phoenix, AZ 85027",True,Phoenix,5,Beast Printing,33.664365000000004,-112.09115200000001,AZ,5.0
+191,-tBiXT917wKlr6n9wSqViw,"2240 E Williams Field Rd
+Gilbert, AZ 85295",True,Gilbert,98,The Keg Steakhouse + Bar,33.307325,-111.741712,AZ,3.5
+192,-TBJtsdtDlNhNsmdRZ4_nA,"3777 E McDowell Rd
+Phoenix, AZ 85008",True,Phoenix,4,Indigo Palms Apartment,33.464397,-112.001318,AZ,1.5
+193,-Tc8XH5AovlSX3_tEmGerg,"3440 E Hawes Rd
+Mesa, AZ 85212",True,Mesa,4,Mooster's Mootique,33.352666,-111.653604,AZ,5.0
+194,-TcEs-q39n1LC3kJBXZp0w,"29815 N Tatum Blvd
+Cave Creek, AZ 85331",True,Cave Creek,3,Jack In the Box,33.756925,-111.99081299999999,AZ,2.0
+195,-tGrdYQlmuxhvKjQXScA5Q,"Ahwatukee, AZ 85048",True,Ahwatukee,4,Healthy and Clean Living Environments,33.342667,-111.983997,AZ,4.5
+196,-tNGtyL1Tx20Od4npKkdcg,"16815 E Shea Blvd
+Unit 107
+Fountain Hills, AZ 85268",True,Fountain Hills,3,Suburban Sole,33.574774,-111.719558,AZ,2.5
+197,-tNKk-eCLk_acdp4vEYcpw,"5679 W Northern Ave
+Glendale, AZ 85301",True,Glendale,26,Golden Corral Steak & Buffet House,33.552624,-112.181592,AZ,3.0
+198,-TNwWa_OGPmZoBFl25zdYA,"17650 W Elliot Rd
+Ste A-155
+Goodyear, AZ 85338",True,Goodyear,16,Oasis Bagels,33.357452,-112.42965900000002,AZ,4.0
+199,-u-B9Rm3DHpLThpakVXH3w,"Phoenix, AZ 85003",True,Phoenix,6,World Adult Kickball Association - WAKA,33.449188,-112.0772,AZ,4.0
+200,-U55QDYTmKykIZ5xbuDi_A,"8414 E Shea Blvd
+Ste 103
+Scottsdale, AZ 85260",True,Scottsdale,3,Simplicity Laser Hair Removal,33.583123,-111.899346,AZ,1.0
+201,-uGyt_hSdjy4obBZRhOmRQ,"9868 W Northern Ave
+Peoria, AZ 85345",True,Peoria,63,Sandbar Mexican Grill,33.551358,-112.2727,AZ,3.0
+202,-uhD_azwEWzZJJd5hnDYxA,"21809 N Scottsdale Rd
+Ste 102
+Scottsdale, AZ 85255",True,Scottsdale,4,Brannon Waldman Dental Group,33.685168,-111.92549299999999,AZ,3.0
+203,-UnYs8XvV1M983xZoREdng,"7035 E Main St
+Scottsdale, AZ 85251",True,Scottsdale,102,Su Vino Winery,33.492517,-111.93003700000001,AZ,4.0
+204,-uSHlr8Wk6f8ewVEgsvcWQ,"640 S Mill Ave
+Ste 118
+Tempe, AZ 85281",True,Tempe,19,Devil's Diner,33.424281,-111.92408799999998,AZ,4.0
+205,-UT6IHfVW_2yzz1bf8WI5g,"110 E Roosevelt Ave
+Ste C
+Phoenix, AZ 85004",False,Phoenix,28,Tediberto's,33.458781,-112.072275,AZ,4.0
+206,-ux2HqhfQqldjxSt8vdSwQ,"2121 N 83rd Ave
+Phoenix, AZ 85035",False,Phoenix,25,Cricket Wireless Pavilion,33.470822999999996,-112.232875,AZ,3.5
+207,-v8FrfMccLpIzong9XpiuQ,"990 N Arizona Ave
+Chandler, AZ 85225",True,Chandler,5,McDonald's,33.3181,-111.8332,AZ,2.0
+208,-vaGR2CXNS4NZrMdctSkGA,"4333 W Indian School Rd
+Phoenix, AZ 85031",True,Phoenix,28,Los Reyes de la Torta,33.494785,-112.15292600000001,AZ,4.0
+209,-vBrVSZBtqbDgPAbGQ4ZYQ,"Phoenix, AZ 85034",True,Phoenix,8,The Junk Guys,33.421714,-111.977901,AZ,5.0
+210,-vHWAsiX0iHWJw-pkqv32Q,"3111 W Chandler Blvd
+Chandler Fashion Center
+Chandler, AZ 85226",True,Chandler,118,Kona Grill,33.302246000000004,-111.897967,AZ,3.5
+211,-Vp12-UIQIh2zeM6SPj9FA,"14740 N Northsight Boulevard
+Scottsdale, AZ 85260",False,Scottsdale,9,Prickly Pear Fresh Mexican Grill,33.619412,-111.89809299999999,AZ,4.0
+212,-Vy3rqieuSkEb50q73rQaQ,"1222 E Bartlett Way
+Chandler, AZ 85249",True,Chandler,3,A Aachen Tree Service,33.234235999999996,-111.820182,AZ,3.5
+213,-WDAJKr6345nJF5ZZIBLDg,"15820 N 35th Ave
+Phoenix, AZ 85053",True,Phoenix,29,Le Napoleon,33.629698,-112.13375,AZ,5.0
+214,-Wlx9n3nFB0Je9Dk9-LQbA,"1481 N Eliseo Felix Jr Way
+Ste 125
+Avondale, AZ 85323",True,Avondale,3,Auto Transport Team,33.452117,-112.33617199999999,AZ,3.5
+215,-wwJIaO7-diyEqxGwZKVuQ,"2155 E University Dr
+Tempe, AZ 85281",True,Tempe,7,Sub Factory,33.421385,-111.893092,AZ,3.5
+216,-WXH-j7_Ugm6phJDdY5bzw,"2053 S Alma School Rd
+Mesa, AZ 85210",True,Mesa,15,Applebee's Neighborhood Grill & Bar,33.377594,-111.859711,AZ,2.5
+217,-wymeGehHwL9ALaE_NFCXA,"1646 W Montebello Ave
+Phoenix, AZ 85015",True,Phoenix,33,Costco,33.520692,-112.09518899999999,AZ,4.0
+218,-WZIxGXJHMGidZXRhKxP3w,"21001 N Tatum Blvd #88
+Phoenix, AZ 85050",True,Phoenix,49,Mimi's Cafe,33.678615,-111.974607,AZ,3.0
+219,-xBv8p9jzOkMyGlY07FMTA,"3210 W Bell Rd
+Ste 100
+Phoenix, AZ 85053",True,Phoenix,6,Subway,33.64017,-112.128851,AZ,3.0
+220,-xfC8kvDn3TN5uhkeTT0JA,"15410 S Mountain Pkwy
+Ste 112
+Phoenix, AZ 85044",True,Phoenix,3,Foothills Sports Medicine Physical Therapy,33.306722,-111.998224,AZ,3.5
+221,-xFO1E3OiDMmdqdjwUM_DA,"3001 N Hayden Rd
+Scottsdale, AZ 85251",True,Scottsdale,51,Losbetos Mexican Food,33.482095,-111.90851200000002,AZ,3.5
+222,-XlBQrxN_ZB3MZKxLBeAjA,"2420 W Northern Ave
+Phoenix, AZ 85021",False,Phoenix,4,Marie Callender's,33.553314,-112.11078400000001,AZ,3.5
+223,-xLwGUmmyKgsTtFOOXzjeg,"17222 N Cave Creek Rd
+Phoenix, AZ 85032",True,Phoenix,56,Brigett's Last Laugh,33.643007,-112.03131599999999,AZ,4.0
+224,-XoFkjdXb5ZIXwoZdjJtoQ,"2009 N Scottsdale Rd
+Scottsdale, AZ 85257",True,Scottsdale,5,Papa John's,33.472758,-111.926506,AZ,3.5
+225,-XQAYmeTFv4MR-M5XAZmWw,"2531 S Gilbert Rd
+Ste 109
+Gilbert, AZ 85296",True,Gilbert,97,Sushiya Sushi,33.305748,-111.78966499999999,AZ,4.0
+226,-Xt7W-mrOxl5MOd1czahCQ,"1995 N Arizona Ave
+Chandler, AZ 85225",True,Chandler,12,QuikTrip,33.334505,-111.84076100000001,AZ,4.5
+227,-x_jL2OCWPdObGTOwIpN4w,"891 E Baseline Rd
+Gilbert, AZ 85233",True,Gilbert,46,It's A Grind Coffee House,33.378839,-111.81200700000001,AZ,4.0
+228,-Y2rZMPttQqKXD_XJPQerA,"844 N Promenade Pkwy
+Casa Grande, AZ 85294",True,Casa Grande,9,Rubio's Fresh Mexican Grill,32.881698,-111.681409,AZ,4.0
+229,-yPdEze6bYRV2Sm1t4XJhg,"1928 E Highland Ave
+Phoenix, AZ 85016",False,Phoenix,3,Fuddruckers,33.505691999999996,-112.040429,AZ,4.0
+230,-YtGU_1Sc1E57-gJfUcDTw,"4501 N. Scottsdale Rd.
+Scottsdale, AZ 85251",True,Scottsdale,15,American Apparel,33.502583,-111.925817,AZ,3.5
+231,-yxfBYGB6SEqszmxJxd97A,"6106 S 32nd St
+Phoenix, AZ 85042",True,Phoenix,122,Quiessence Restaurant,33.390677000000004,-112.01291100000002,AZ,3.5
+232,-YYlBL2gDXXIahbkayglvw,"7120 E Indian School Rd
+Scottsdale, AZ 85251",True,Scottsdale,81,teres : A NAIL BAR,33.49536,-111.927458,AZ,4.0
+233,-yYsRoSWS3pQUmiHZXuxnQ,"1505 E Warner Rd
+Gilbert, AZ 85296",True,Gilbert,3,Regis Salons,33.333624,-111.756945,AZ,4.5
+234,-yzbXeIf2QuN19kC-M-KFQ,"5023 N 18th Street
+Phoenix, AZ 85016",True,Phoenix,3,Aimco Colonnade Gardens Apt,33.510436,-112.042033,AZ,1.0
+235,-yzl8Zm-MmSqx31VN7vB0Q,"1640 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,74,Corleone's,33.509237,-112.046554,AZ,3.0
+236,-zcZNlO0JwZHppan8rGkBQ,"Phoenix Sky Harbor Int'l Airport
+Terminal 4
+Phoenix, AZ 85073",True,Phoenix,29,Chili's Too,33.4499,-112.0739,AZ,2.5
+237,-zHQip1ka7ak6yjWYOOqwg,"5712 N 7th St
+Phoenix, AZ 85014",True,Phoenix,3,Heldt Lumber Company,33.520534999999995,-112.065366,AZ,5.0
+238,-zjZJKEY5f3do29GVcA1Qw,"751 N Monterey St
+Ste 120
+Gilbert, AZ 85233",True,Gilbert,3,Arizona Wholesale Bikes,33.363447,-111.79926699999999,AZ,5.0
+239,-ZMSVXCUr51w3JaKzArCAA,"936 West Chandler Blvd.
+Suite 3
+Chandler, AZ 85225",True,Chandler,3,American Laser Skincare,33.306490999999994,-111.85795900000001,AZ,2.5
+240,-ZN2OT0TcgjzRAQlBvGEBQ,"3420 E Bell Rd
+Phoenix, AZ 85032",True,Phoenix,24,Harkins North Valley 16,33.641282000000004,-112.008357,AZ,3.5
+241,-zN3p-HA7jBnjJUfjCgGyw,"5524 N 7th Ave
+Phoenix, AZ 85013",True,Phoenix,11,International Supper Club UYE - Hanna Japanese Eatery,33.517399,-112.08246799999999,AZ,4.5
+242,-zRuiAAK1FpbQDcw1fbrUA,"17010 N Scottsdale Road
+Scottsdale, AZ 85255",True,Scottsdale,9,Courtyard by Marriott,33.639953999999996,-111.926245,AZ,4.0
+243,-ZtFs3P1zKFv4RtY7iyssA,"4747 N 7th St
+Ste 424
+Phoenix, AZ 85014",True,Phoenix,7,Movin' 97.5 - KMVA FM,33.507348,-112.06423400000001,AZ,3.5
+244,-ZUEwUytc63ZWvgXJz7gHQ,"4250 W Anthem Way
+Ste 100
+Anthem, AZ 85086",True,Anthem,4,Calvin Klein,33.874003,-112.15016200000001,AZ,3.5
+245,-ZXq0YMt2iOK4VRIqPcSCw,"One E Washington
+Phoenix, AZ 85004",True,Phoenix,51,CityScape,33.448428,-112.073177,AZ,3.0
+246,-_0Dx-cEvnQ0w2mauUpyXA,"111 W Monroe St
+Ste 131
+Phoenix, AZ 85003",True,Phoenix,43,Downtown Phoenix Dental,33.450047,-112.075677,AZ,4.5
+247,-_Ex8L_ZN-BwEtKFtaXs9A,"9550 N 90th Street, Suite B-2
+Scottsdale, AZ 85258",True,Scottsdale,5,Just Brakes,33.572205,-111.88686200000001,AZ,3.0
+248,-_JBgygYYD_UkuD-GVTp6A,"395 N Litchfield Rd
+Goodyear, AZ 85338",True,Goodyear,10,Schlotzsky's,33.451414,-112.35759499999999,AZ,3.0
+249,-_K8AE722c1u9Dsa8jo_vg,"10520 E Apache Trl
+Apache Junction, AZ 85120",True,Apache Junction,6,Tropica Mango Rare and Exotic Tropical Fruit Tree Nursery,33.415352,-111.603996,AZ,5.0
+250,-_Ke8q969OAwEE_-U0qUjw,"18555 N 59th Ave
+Glendale, AZ 85308",False,Glendale,6,Jug 'n Barrel Wine Shop,33.65387,-112.18627099999999,AZ,4.5
+251,-_LReJW6VV2RBIPS_TaZWQ,"1900 E Rio Salado Pkwy
+Ste 140
+Tempe, AZ 85281",True,Tempe,15,JCPenney,33.430763,-111.90156100000002,AZ,4.5
+252,-_npP9XdyzILAjtFfX8UAQ,"6025 N 27th Ave
+Ste 24
+Phoenix, AZ 85073",True,Phoenix,16,Thao's Sandwiches,33.525635,-112.116215,AZ,3.0
+253,-_v2x-BHC0awbCykFJEmHg,"Lakeshore Towers
+60 E Rio Salado Pkwy, 9th Fl
+Tempe, AZ 85281",True,Tempe,5,Cloud Nine Labs,33.431043,-111.93923899999999,AZ,4.0
+254,-_zn-4DqxLWRU3pviT0QCw,"2652 E Hopi Ave
+Mesa, AZ 85204",True,Mesa,6,Green Ninja Pest Control LLC,33.388084,-111.773812,AZ,5.0
+255,0-A_cxbEmlkkq0362cvi3A,"6032 E Cave Creek Rd
+Cave Creek, AZ 85331",True,Cave Creek,8,Hot Dog Guy,33.833659000000004,-111.950347,AZ,4.5
+256,0-lJQCSwnHmIczjcSw_N_g,"1155 S Power Rd
+Mesa, AZ 85206",True,Mesa,37,Kokobelli Bagel Cafe,33.39501,-111.68463999999999,AZ,4.0
+257,0-NeOhR_aywiV8N4pl2rjQ,"3401 W Frye Road
+Chandler, AZ 85226",True,Chandler,3,Carters Childwear,33.297354,-111.898555,AZ,4.5
+258,00eGk1ntf4RiDxVRY3gaIw,"6821 E Superstition Springs
+Mesa, AZ 85209",True,Mesa,23,Old Chicago,33.383225,-111.683746,AZ,3.0
+259,00FGafv0TKfmH_QhVxh4FQ,"11611 W Bell Rd
+Surprise, AZ 85378",True,Surprise,3,Tom's Camperland,33.638571,-112.310622,AZ,4.5
+260,015GCpe-tMj1En4NORROzA,"4801 E Indian School Rd
+Ste 6
+Phoenix, AZ 85018",True,Phoenix,12,Elite Cleaners,33.49413,-111.977756,AZ,4.5
+261,01cEFI5Pq_RyEwM3GSTopQ,"7293 N Scottsdale Rd
+Scottsdale, AZ 85258",True,Scottsdale,95,Blue 32 Sports Grill,33.542167,-111.92506100000001,AZ,3.5
+262,01cQQpeEwWpzTgv6YUQhAQ,"20280 N 59th Avenue
+Glendale, AZ 85308",True,Glendale,5,Mario's Hair Company,33.670438,-112.18793000000001,AZ,3.5
+263,01euuGhBwvcDhl9KcPTang,"35 N Country Club Dr
+Mesa, AZ 85201",True,Mesa,5,El Salsita,33.416183000000004,-111.839574,AZ,2.5
+264,01kU7NKzfCP3tgYmgzXbjQ,"12801 W Bell Road
+Suite 3
+Surprise, AZ 85374",True,Surprise,3,Water Fountain,33.638584,-112.35546299999999,AZ,3.5
+265,022T8YSRmb3b1BfwzO3F7Q,"9027 E Via Linda
+Scottsdale, AZ 85258",True,Scottsdale,24,Brunswick Via Linda Lanes,33.569371999999994,-111.885574,AZ,4.0
+266,02Fijjr_ccD42E-5aGOXWQ,"Phoenix, AZ",True,Phoenix,4,Pure Air Service Arizona,33.448377,-112.074037,AZ,2.0
+267,02rrDia_FTc8jN7LGqzIbQ,"14401 W Arena Dr
+Goodyear, AZ 85338",True,Goodyear,4,Corral West Arena,33.370398,-112.37189199999999,AZ,5.0
+268,03CbXZiV5s840DdwX2PX8Q,"16214 E Pecos Rd
+Gilbert, AZ 85295",True,Gilbert,4,Pdq Mechanical,33.292931,-111.73308600000001,AZ,4.5
+269,03m0CGFwEInR8ZBGrqmO7w,"6426 S McClintock Dr
+#104
+Tempe, AZ 85283",True,Tempe,11,Turn Style Consignment,33.362442,-111.91123600000002,AZ,3.0
+270,04HakCR6gEeRYNAoKxkppQ,"1602 E Mcdowell Rd
+Phoenix, AZ 85006",True,Phoenix,5,Hacienda Restaurant,33.466038,-112.04734099999999,AZ,3.0
+271,04Jrd2zSzwHwmBqdKQDmIw,"929 N Dobson Rd
+Ste 102
+Mesa, AZ 85201",True,Mesa,10,Yogis Grill,33.433887,-111.868132,AZ,3.5
+272,04SKYBXRAqeYIuuVDzwKNg,"325 W Elliot Rd
+Tempe, AZ 85284",False,Tempe,10,Moe's Southwest Grill,33.349084000000005,-111.94491799999999,AZ,3.0
+273,05aRozN6msYyyJIh8UEahQ,"8047 N 35th Avenue
+Phoenix, AZ 85051",True,Phoenix,3,Pure Fitness,33.554189,-112.133785,AZ,2.5
+274,05znNZZrJXlp64r-R3S7Ug,"1007 Grand Ave
+Phoenix, AZ 85007",True,Phoenix,3,Jordre Studio,33.454619,-112.08636899999999,AZ,4.5
+275,066DMYkFeK3ccv_94ijzfw,"4760 East Thunderbird Rd
+Suite 102
+Phoenix, AZ 85032",False,Phoenix,4,Eyeglass World,33.611964,-111.978401,AZ,2.0
+276,06A3s7Ji-kJQbVxC6QbdNg,"10802 N 43rd Ave
+Glendale, AZ 85304",False,Glendale,3,Trickshot Billiards And Hookah,33.58328,-112.15153600000001,AZ,4.0
+277,06kfoeRs9Acj82Yl3i9p_w,"3425 E Baseline Rd
+Ste 101
+Gilbert, AZ 85234",True,Gilbert,61,Wildflower Bread Company,33.378983000000005,-111.75825800000001,AZ,4.5
+278,06Rbm5JrkxQHz7yNTaPwaQ,"14239 W Bell Rd
+Ste 210
+Surprise, AZ 85374",True,Surprise,5,Premier Care for Women,33.637391,-112.366887,AZ,3.5
+279,06YP_JnJzns84fOyQ0HA0Q,"6845 S Central Ave
+Phoenix, AZ 85042",True,Phoenix,3,Playas Del Novilleros,33.383398,-112.07326200000001,AZ,4.5
+280,07a5t3hYhtPHlBviiETUpA,"5120 S Lakeshore Dr
+Tempe, AZ 85282",True,Tempe,5,Wells Fargo Bank,33.378803999999995,-111.92100500000001,AZ,5.0
+281,07cTodzpVqswCRGCHG7aHg,"5511 W Bell Rd
+Glendale, AZ 85308",True,Glendale,6,Quality Inn & Suites At Talavi,33.638806,-112.17831100000001,AZ,1.5
+282,07OyvsOpqTWuyTtvE4_gcA,"1245 W Baseline Rd
+Ste 101
+Mesa, AZ 85202",False,Mesa,60,Palee's Crown,33.37831,-111.861418,AZ,4.0
+283,07UqHgBkJ4Kach2sVT2FdQ,"16918 E Colony Dr
+Fountain Hills, AZ 85268",True,Fountain Hills,4,Cummings Termite & Pest Control,33.597132,-111.71526399999999,AZ,3.5
+284,08eBj_o6oTncJR0ylM8qSg,"8053 E Indian School Rd
+Scottsdale, AZ 85251",True,Scottsdale,9,Rice Garden,33.494859999999996,-111.90645400000001,AZ,4.0
+285,08In-bFs8JOmSTDlQ0BfFw,"4825 E Warner Rd
+Phoenix, AZ 85044",True,Phoenix,7,Chuck E Cheese's Pizza,33.330765,-111.981399,AZ,3.0
+286,08MvFb65fOz2iET3iRqUOQ,"2755 W Southern Ave
+Tempe, AZ 85282",True,Tempe,3,Arby's Roast Beef,33.392334000000005,-111.977897,AZ,2.5
+287,08NQu7YaKY3m500DS7e5Tw,"7700 W Arrowhead Towne Center
+Glendale, AZ 85308",True,Glendale,3,Bourbon Street Grill,33.639790999999995,-112.224556,AZ,2.5
+288,08OcGan0xiT6I_oJ2loLMA,"50 W Jefferson St
+Ste 100
+Phoenix, AZ 85004",False,Phoenix,16,Oakville Grocery,33.4492,-112.0696,AZ,4.0
+289,08rnfiKapdsELiv-_RW1CA,"36889 N Tom Darlington Dr
+Carefree, AZ 85377",True,Carefree,3,Cactus Flower Florists,33.820937,-111.922845,AZ,5.0
+290,08u8R53F7kT6avQbIrLhvQ,"3850 S McQueen Rd
+Chandler, AZ 85286",True,Chandler,15,Paseo Vista Recreational Area,33.250775,-111.826076,AZ,4.5
+291,08Z_Zzp8PyEmWWpYurIO-Q,"8787 N Scottsdale Rd
+Paradise Valley, AZ 85253",True,Paradise Valley,13,Pei Wei Asian Diner Shops At Gainey Ranch,33.56715,-111.925924,AZ,3.0
+292,09dr3kXV8Ff42Ur3mCh3LA,"4940 E Ray Rd
+Chandler, AZ 85044",True,Chandler,11,Peter Piper Pizza,33.319842,-111.97566,AZ,3.5
+293,09Kv1q51BlUyLznzNnL5Xw,"4440 N Miller Road
+Scottsdale, AZ 85251",True,Scottsdale,3,Circle K Stores,33.50165,-111.91785700000001,AZ,3.5
+294,09nlgfIqh29b_zVXPdmySg,"1720 S Power Rd
+Mesa, AZ 85206",False,Mesa,9,T.G.I. Friday's,33.384488,-111.68518,AZ,3.5
+295,09op0x7OYGvGprwoDbgfrg,"5006 N Dysart Rd
+Litchfield Park, AZ 85340",True,Litchfield Park,3,Chase,33.508111,-112.340981,AZ,2.0
+296,09QAAACarx9CzLsbRjOuUg,"1425 S Alma School Rd Ste 102
+Mesa, AZ 85210",True,Mesa,4,Verizon Wireless,33.389010999999996,-111.84401899999999,AZ,3.0
+297,09YNMPANM20sCJkVvMC1vg,"109 E Southern Ave
+Tempe, AZ 85282",True,Tempe,9,Club Tanning,33.392875,-111.93757099999999,AZ,4.0
+298,0a8hLC1V7jgOjRigoBohAg,"155 W Hampton Ave
+Mesa, AZ 85210",True,Mesa,67,Golfland Sunsplash,33.388095,-111.83648600000001,AZ,3.5
+299,0A8myHrHPpiZGvGyFIBA1w,"10599 N Tatum Blvd
+Ste F150
+Paradise Valley, AZ 85253",True,Paradise Valley,3,Arizona Arthritis & Rheumatology Associates,33.581742999999996,-111.97662,AZ,1.0
+300,0aHXJJlivcWH7J-M1xQW_g,"5110 N Dysart Road
+Litchfield Park, AZ 85340",True,Litchfield Park,4,Ace Hardware,33.509729,-112.34125300000001,AZ,4.0
+301,0aKii4YS6MYZlPCsKPaF5w,"Desert Ridge
+21001 N Tatum Blvd, Ste 36-1210
+Phoenix, AZ 85050",True,Phoenix,12,Garbanzo Mediterranean Grill,33.676054,-111.972385,AZ,4.0
+302,0ALS_XfNAcPVMg8mB_TWPg,"9940 W Happy Valley Rd
+Ste 1080
+Peoria, AZ 85383",True,Peoria,5,Dunkin Donuts,33.711445,-112.27314799999999,AZ,3.5
+303,0Apb1P7RzbQEkeJDuywlPQ,"4230 S 48th St
+Phoenix, AZ 85040",False,Phoenix,11,George & Dragon II English Restaurant Pub,33.408904,-111.978349,AZ,2.0
+304,0AZiq_OMKs3I9lTmwd5PSg,"3223 E Camelback Rd
+Phoenix, AZ 85018",True,Phoenix,42,Tommy V's Osteria and Pizzeria,33.509871999999994,-112.011425,AZ,4.0
+305,0b-zTb8lUrUAOTyGLuZ2KA,"21705 N 19th Ave
+Ste 114
+Phoenix, AZ 85027",False,Phoenix,4,Deluxe Dry Cleaners,33.681515000000005,-112.099643,AZ,3.5
+306,0BC6l8Dql-lXVGcBGo47Mg,"7014 E Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,3,Xpress Tailoring,33.502790000000005,-111.92924,AZ,3.0
+307,0Bilf-3-J8hIekQVWyRGWg,"17191 N Litchfield Rd
+Surprise, AZ 85374",False,Surprise,7,Mike's Greek & Italian Cuisine,33.640318,-112.35943200000001,AZ,3.0
+308,0bQEsXnD6y38Fissudcq3g,"5000 S Arizona Mills Cir
+Tempe, AZ 85282",True,Tempe,6,Marshalls,33.383123,-111.96448500000001,AZ,4.0
+309,0bQiWdKxj2EmsGYRVC9qyA,"8877 N 107th Ave
+Ste 309
+Peoria, AZ 85345",True,Peoria,30,T & J Asian Cuisine,33.564316,-112.28764699999999,AZ,4.0
+310,0BRORnn7ydzOR8ZZPyeWxQ,"5311 S Superstition Mtn Dr
+Gold Canyon, AZ 85218",True,Gold Canyon,4,Bashas'markets Inc,33.366421,-111.47479299999999,AZ,4.5
+311,0BScRHEa2lVBCY4spkhmvQ,"7555 E Eagle Crest Dr
+Mesa, AZ 85207",True,Mesa,10,Grille At Las Sendas Golf Club,33.48904,-111.670883,AZ,3.5
+312,0btslkqA-YJQjLH6GFjU-g,"8480 E Butherus Dr
+Ste 102
+Scottsdale, AZ 85260",True,Scottsdale,3,Scottsdale Golf Place,33.622510999999996,-111.89845700000001,AZ,4.5
+313,0BXtWaDWN6Lh7T8mbbZniw,"4105 E Mcdowell Rd
+Phoenix, AZ 85008",True,Phoenix,4,Pizza & Krispy Krunchy Chicken,33.465665,-111.99261399999999,AZ,3.5
+314,0BYd3__2b-OhB49F_QW2FA,"Davis Miles McGuire Gardner, PLLC
+80 E Rio Salado Pkwy, Ste 401
+Tempe, AZ 85281",True,Tempe,3,John W Skabelund,33.43175,-111.93813300000001,AZ,5.0
+315,0BYuj1cOFkqdcnd653bcbw,"7120 E Indian School Rd
+Scottsdale, AZ 85251",True,Scottsdale,3,Michael V Salon,33.495013,-111.92751200000001,AZ,4.5
+316,0CFBeDV58e3uH4vsKggEmQ,"668 N 44th St
+Phoenix, AZ 85008",True,Phoenix,9,Healthy Chinese Herbs,33.455290999999995,-111.98787,AZ,4.5
+317,0CG3ns3gwWV5nOnfzSfUIQ,"980 N Dysart Rd
+Goodyear, AZ 85338",True,Goodyear,95,Black Bear Diner,33.456555,-112.341609,AZ,4.0
+318,0cGR_hlO7rOjnV4Hmumuvg,"1455 S Stapley Dr
+Mesa, AZ 85204",False,Mesa,3,The Play Factory,33.388238,-111.804557,AZ,2.5
+319,0CHZQpLljhYz2hBcwDHECQ,"4848 E Cactus Rd Ste 500
+Phoenix, AZ 85254",True,Phoenix,6,Dutch Girl Dry Cleaners,33.598768,-111.97668999999999,AZ,2.0
+320,0COaKgRuDzBisc2AxcLzMA,"7770 E Mcdowell Rd
+Scottsdale, AZ 85257",True,Scottsdale,18,Fry's & Fry's Marketplace,33.465858000000004,-111.913374,AZ,4.0
+321,0czPekgbjlhM_8aeEZDiRg,"1490 S Price Rd
+Ste 104
+Chandler, AZ 85286",True,Chandler,3,Wilson Parker Homes,33.283589,-111.891302,AZ,1.0
+322,0db71MbrvcJnyk71COCJBg,"5057 N 35th Ave
+Phoenix, AZ 85017",True,Phoenix,156,Great Wall Cuisine,33.510874,-112.134184,AZ,3.5
+323,0De3TQ_uSOXwgduKL0va3w,"748 E Mcdowell Rd
+Phoenix, AZ 85006",True,Phoenix,7,Sonic Drive-In,33.466215000000005,-112.063247,AZ,3.5
+324,0DeBHTh15YSFLX9JXO6grg,"1025 W Broadway Rd
+Tempe, AZ 85282",True,Tempe,4,Sam's Liquors,33.407117,-111.954931,AZ,4.0
+325,0deS4g2xR4SjvjHNeHUc-A,"6170 W Chandler Boulevard
+Chandler, AZ 85226",True,Chandler,12,Ashoka Indian Groceries,33.306057,-111.94842299999999,AZ,3.0
+326,0dL5UMd7ds3JfLuDIz6RRA,"9802 N 59th Ave
+Glendale, AZ 85302",True,Glendale,3,Saguaro Ranch Park,33.574712,-112.186401,AZ,4.5
+327,0dORc6ckZw5HezR3BuSsqw,"2022 N 7th St
+Phoenix, AZ 85004",True,Phoenix,212,Green New American Vegetarian,33.47014,-112.065474,AZ,4.5
+328,0EBR4wDqtkbMC-wghpctEg,"550 W Bell Rd
+Phoenix, AZ 85023",True,Phoenix,8,Samurai Sam's Teriyaki Grill,33.64059,-112.081199,AZ,3.0
+329,0EE3BohGb4lxWRnHLiqNnw,"124th St & Via Linda
+Scottsdale, AZ 85255",True,Scottsdale,25,Lost Dog Wash Trail,33.589622,-111.81343000000001,AZ,4.5
+330,0eQbLuTmlkIzOF85LsGfsA,"3931 S Gilbert Road
+Gilbert, AZ 85296",True,Gilbert,6,Target Optical,33.278958,-111.785922,AZ,3.5
+331,0erbONkOO256HNzuIllFig,"12621 N Tatum Blvd
+Phoenix, AZ 85032",False,Phoenix,4,Atomic Comics,33.602982,-111.978306,AZ,4.5
+332,0eSkAhHp8w94G4SqwfsU8w,"7014 E Camelback Rd
+Scottsdale, AZ 85251",False,Scottsdale,10,G-Star Raw Store Scottsdale,33.502509,-111.929023,AZ,4.0
+333,0EsThEHD8nqv4qdsnVeGyQ,"17007 N Scottsdale Rd
+Scottsdale, AZ 85255",True,Scottsdale,9,Carraba's Italian Grill,33.63884,-111.92423500000001,AZ,3.5
+334,0eX3fQIVekKGbEISfhcQwg,"2333 E Campbell Ave
+Phoenix, AZ 85016",True,Phoenix,7,Artistic Dental at the Biltmore,33.501794,-112.030828,AZ,5.0
+335,0f4IQo7Odn7nvvO4TCAGAw,"2985 S Alma School Rd
+Chandler, AZ 85286",True,Chandler,7,Carl's Jr,33.262488,-111.85713100000001,AZ,2.5
+336,0F8fCVDXfGU5OOKWWQbr0w,"13048 W Rancho Santa Fe Blvd
+Ste 114
+Avondale, AZ 85392",True,Avondale,3,Rancho Santa Fe Dental Group,33.460927000000005,-112.33820700000001,AZ,4.0
+337,0fcAt0wsVwvGSj8SDt7chA,"22005 S Ellsworth Rd
+Queen Creek, AZ 85242",False,Queen Creek,5,Discount Beverage Outlet,33.248287,-111.63448400000001,AZ,4.0
+338,0FChuNtgjojqWvBzgfuTyg,"1420 N Scottsdale Rd
+Scottsdale, AZ 85257",True,Scottsdale,4,Oceans7 Nightclub,33.464316,-111.926353,AZ,3.0
+339,0FK6AbpZrQ8VV6Cy8FR20w,"213 E Dunlap Avenue
+Phoenix, AZ 85020",True,Phoenix,3,Dollar Tree,33.567751,-112.071262,AZ,3.5
+340,0flaoi5DDGt-FLbmhVprmA,"20930 N Tatum Blvd
+Ste 110
+Phoenix, AZ 85050",True,Phoenix,3,FedEx Office Print & Ship Center,33.675424,-111.978571,AZ,3.5
+341,0fVa2_tXqxsCWfGhE0lG9g,"4325 E Southern Ave
+Mesa, AZ 85206",True,Mesa,3,Mountain America Credit Union,33.393187,-111.73806299999998,AZ,3.5
+342,0G-zqtH6hRTu4uxRwA-Gpg,"2325 N 7th St
+Phoenix, AZ 85006",False,Phoenix,36,Drip Coffee Lounge,33.474137,-112.064967,AZ,3.5
+343,0g0Z7doVpASXNiQDn9b6EA,"Phoenix, AZ 85018",True,Phoenix,5,A Dog's Life Photography,33.49622,-111.964173,AZ,5.0
+344,0GaDryqh_sf7cwl1TPMMIw,"9151 E Bell Rd
+Ste 101
+Scottsdale, AZ 85260",True,Scottsdale,4,"Scottsdale Martial Arts Center, Inc",33.63947,-111.884437,AZ,5.0
+345,0GHzsPl-NjCdGjr678_Kvg,"1925 E Brown Rd
+Mesa, AZ 85203",True,Mesa,3,Malibu Tanning Club,33.437176,-111.789654,AZ,4.5
+346,0GhZtUCQnSDIHlIRdG6LtQ,"10613 N 43rd Ave
+Phoenix, AZ 85029",True,Phoenix,4,Ham Radio Outlet,33.583356,-112.151499,AZ,4.5
+347,0gQrhOYWdO0XVZEKtOrvaA,"3004 E Bell Rd
+Phoenix, AZ 85032",True,Phoenix,53,Red Devil,33.640667,-112.01768999999999,AZ,4.0
+348,0GQYnzFrnRKFxTnlTd5d4w,"5620 N 7th St
+Ste 2
+Phoenix, AZ 85014",True,Phoenix,5,Flowers by Joe Gregory,33.518917,-112.065197,AZ,4.0
+349,0GRYyMRzwA9WYc8UTB2nRA,"1435 W Southern Ave
+Mesa, AZ 85202",True,Mesa,24,Dillard's Clearance Center,33.389255,-111.862726,AZ,4.0
+350,0Gu2cpJ5x9ZZfDDHohBY_A,"16223 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,14,Cost Plus World Market,33.63409,-111.92537800000001,AZ,4.0
+351,0GYl7vTZcfx3cBxdBeC3Fw,"3442 E Wood Street
+Phoenix, AZ 85040",True,Phoenix,3,Competition Engineering,33.409075,-112.006124,AZ,5.0
+352,0gym3RIt0GZICNr_VpbVsA,"Tanger Outlet Center Westgate
+6800 N 95th Ave
+Glendale, AZ 85305",True,Glendale,4,White House Black Market,33.534314,-112.264994,AZ,2.0
+353,0gzSwcQRN74I1R_Jr0CBhw,"624 N Alma School Rd
+Mesa, AZ 85201",True,Mesa,3,TNP Gate & Repair,33.426433,-111.857335,AZ,5.0
+354,0g_KFvnPIkA8ywTXPPeRCg,"9880 S Rural Rd
+Tempe, AZ 85284",True,Tempe,21,Hong Kong Asian Diner,33.321976,-111.928947,AZ,4.0
+355,0hINUlmBRV42wWnhmUN7Bw,"5656 E Greenway Road
+Scottsdale, AZ 85254",True,Scottsdale,10,Rancho Solano Private Schools,33.626964,-111.95879599999999,AZ,2.5
+356,0HIOVPAD0NngfT1_zrUh5w,"1445 W Southern Ave
+Fiesta Mall
+Mesa, AZ 85202",True,Mesa,3,Sahara Express,33.388915000000004,-111.860945,AZ,4.5
+357,0hoHNh8rN2D3A0wpNCGtZA,"8386 W Thunderbird Rd
+Peoria, AZ 85381",False,Peoria,9,It's a Grind,33.610448999999996,-112.239434,AZ,3.0
+358,0hqePOGHVhmgpJ8W1h_SqA,"32607 N Scottsdale Rd
+Suite 101
+Scottsdale, AZ 85262",True,Scottsdale,4,Massage Envy Carefree,33.781166,-111.923629,AZ,5.0
+359,0HTnlz0k8vK4V1mXc9TPzg,"6315 E Thunderbird Rd
+Scottsdale, AZ 85254",True,Scottsdale,3,Scottsdale Academy,33.611114,-111.944252,AZ,2.5
+360,0Hu9kAo0FYaap3rYGDUOyg,"5321 S Superstition Mt Dr
+Ste 104
+Gold Canyon, AZ 85218",True,Gold Canyon,3,The Salon At Gold Canyon,33.39926,-111.36425,AZ,4.0
+361,0hY0qoXHcI3czshcrZPpYg,"15229 N 35th Ave
+Phoenix, AZ 85053",True,Phoenix,4,Del Taco,33.623245000000004,-112.13368999999999,AZ,4.5
+362,0hYTkJtgQGu-ysCZnmFZDQ,"5034 S Price Rd
+Tempe, AZ 85282",True,Tempe,36,The Siamese Cat,33.379517,-111.893423,AZ,4.0
+363,0hZLn2MG_mRPoyrt66JnLQ,"1929 N Power Rd
+Mesa, AZ 85205",True,Mesa,31,Lucky Lou's,33.450517,-111.684032,AZ,4.0
+364,0iDFiC3ThklulFzSlJqaOw,"8969 E Indian Bend Rd
+Scottsdale, AZ 85250",True,Scottsdale,18,Pavillion Barber Shop,33.536458,-111.888328,AZ,4.5
+365,0ieEqGInYunNBaBzg8j_WQ,"21001 N Tatum Blvd
+Phoenix, AZ 85050",True,Phoenix,30,Slices,33.678615,-111.974607,AZ,3.5
+366,0IojJ5ZpxhX_BFJdgUk0Nw,"500 W Southern Ave
+Ste 12
+Mesa, AZ 85210",True,Mesa,7,Septembers,33.393840999999995,-111.84203899999999,AZ,4.0
+367,0iWfPm7jgGeFe_Gt8G3DAg,"5000 S Arizona Mills Cir
+Tempe, AZ 85282",True,Tempe,7,Rocky Mountain Chocolate Factory,33.385284999999996,-111.96455800000001,AZ,4.0
+368,0Ixna4nrrayLUFK2UZ_w1w,"1900 W Chandler Blvd
+Chandler, AZ 85224",True,Chandler,15,Gelato Spot,33.30737,-111.874776,AZ,2.5
+369,0IZjWk03ARkjRccop1gYAA,"8425 N 90th St
+Ste 3
+Scottsdale, AZ 85258",True,Scottsdale,6,CrossFit Infinite Strength,33.557051,-111.887662,AZ,5.0
+370,0j2UisBk89SHqihr0IdlJw,"922 E Apache Blvd
+Tempe, AZ 85281",True,Tempe,20,Sal's Pizza,33.414929,-111.92499,AZ,3.0
+371,0jDkXQdprSgbx8GeK0dcTg,"1625 E Glendale Ave
+Phoenix, AZ 85020",False,Phoenix,8,Bashas',33.538076000000004,-112.046448,AZ,2.5
+372,0jFiXsSwdvanL1HLkNwd0A,"6606 E McKellips Rd
+Ste 103
+Mesa, AZ 85215",True,Mesa,5,Sport Clips,33.452295,-111.688446,AZ,3.5
+373,0JFKxuixFnJen6MwOCi8Lg,"817 N Arizona Ave
+Chandler, AZ 85225",True,Chandler,7,Churchs Chicken,33.317777,-111.841123,AZ,3.5
+374,0JhyZ4cN2BUlYTCYdohcjg,"3164 S Country Club Dr
+Mesa, AZ 85210",True,Mesa,3,AZM Tint Audio & Alarm,33.357516,-111.84274599999999,AZ,4.5
+375,0jmOBiqdtUl93D8qRWG01w,"4804 E Chandler Blvd
+Ste 106
+Phoenix, AZ 85048",True,Phoenix,31,First Class Reflexology,33.305766,-111.979651,AZ,4.5
+376,0Jouvs4G3d6CcG3pYGZ20A,"2539 W Bethany Home Rd
+Phoenix, AZ 85017",True,Phoenix,8,Lunch Box,33.523784,-112.113899,AZ,3.0
+377,0jPDeGGcCjX2BXj0DEuWIQ,"106 W Osborn Rd
+Phoenix, AZ 85013",True,Phoenix,9,Staples,33.487951,-112.075428,AZ,3.0
+378,0JS32I8PvxfVIAqS77jcGA,"7700 W Arrowhead Towne Center Dr
+Glendale, AZ 85308",True,Glendale,3,Chipotle Mexican Grilll,33.538652,-112.18598700000001,AZ,4.0
+379,0K35eGvzVRZEirNo5v_WfA,"5101 N 16th St
+Phoenix, AZ 85016",True,Phoenix,71,Ajo Al's Mexican Cafe,33.511305,-112.047142,AZ,3.0
+380,0K634ehk41ZRc4kj3NTAEQ,"1160 E University Dr
+Tempe, AZ 85281",True,Tempe,286,Chompie's Deli,33.422413,-111.919903,AZ,3.5
+381,0k6wQvOkc7aioBcAvX7dEA,"240 E Coury Ave
+Ste 131
+Mesa, AZ 85210",True,Mesa,12,Sound Xpression,33.38261,-111.826218,AZ,5.0
+382,0kgNIHlu170EE_Ik4KsirA,"21001 N Tatum Blvd
+Ste 80-168
+Phoenix, AZ 85050",True,Phoenix,6,T-Mobile,33.678615,-111.974607,AZ,2.0
+383,0kj_VTrKrYhRNBfRL0_aZA,"7055 W Bell Rd
+Ste B6
+Glendale, AZ 85308",True,Glendale,7,Sapphire Bookkeeping And Accounting,33.638244,-112.208615,AZ,5.0
+384,0KpfB2WH6NvThfp2J98sAQ,"265 S Power Rd
+Mesa, AZ 85206",True,Mesa,4,Jiffy Lube,33.410716,-111.684322,AZ,3.0
+385,0KVhPwEheGlBU8vjw1kE1w,"Phoenix, AZ",True,Phoenix,4,Alaskan Pride Seafood,33.448377,-112.074037,AZ,4.5
+386,0kZ4aYmqf5fzTt9Yvz8Kvw,"4824 E Chandler Blvd
+Phoenix, AZ 85048",True,Phoenix,24,Waffle House,33.305797999999996,-111.97913600000001,AZ,3.5
+387,0L3qEjF0jkFQkDIT4linUA,"Glendale, AZ 85308",True,Glendale,4,"Canyon Kitchen Cabinets, LLC",33.664516,-112.20263500000001,AZ,4.0
+388,0L6MiLWLBGKLRhgQ7mnJQw,"2990 N Alma School Rd
+Chandler, AZ 85224",True,Chandler,6,Darling Nails,33.348383,-111.859172,AZ,3.5
+389,0l9e2aBYZfogiSUyxJEL3Q,"5509 N 7th St
+Phoenix, AZ 85014",False,Phoenix,3,Manuel's Mexican Restaurant & Cantina,33.517438,-112.06384399999999,AZ,3.5
+390,0LBv0QQK9L6ArPkO4eXjJA,"510 E Baseline Rd
+D3
+Phoenix, AZ 85042",True,Phoenix,12,Hong Kong Kitchen 3,33.377761,-112.066322,AZ,4.5
+391,0LCqaCnEGesFEhpa6qNauQ,"12645 N Saguaro Blvd
+Fountain Hills, AZ 85268",True,Fountain Hills,8,Grapeables Fine Wines,33.600562,-111.716311,AZ,4.5
+392,0le8kj4gIHe9aZ1NfS2_Ag,"6820 E Superstition Springs
+Mesa, AZ 85209",True,Mesa,4,Burger King,33.384081,-111.684228,AZ,2.0
+393,0lEp4vISRmOXa8Xz2pWhbw,"1935 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,120,Cafe Zupas,33.508736,-112.04148899999998,AZ,4.0
+394,0lfA2GcxcvdhvVKvVXN40w,"25062 S Meridian Rd
+Queen Creek, AZ 85142",True,Queen Creek,13,Superstition Coffee,33.221019,-111.58323899999999,AZ,5.0
+395,0LLaVEXjtW0aW0FzU9uRoA,"1950 W Indian School Road
+Phoenix, AZ 85015",True,Phoenix,9,Yin's Chinese Resturant,33.495018,-112.10100600000001,AZ,4.0
+396,0Llpzg85OhJF2CqJPU08Ew,"15440 N 35th Ave
+Phoenix, AZ 85033",True,Phoenix,6,Euro Bakery,33.626197999999995,-112.134029,AZ,3.5
+397,0LtHfB8zZqo7Dd_Y-j907Q,"9786 W Peoria Ave
+Peoria, AZ 85374",True,Peoria,4,One Hobbies,33.580426,-112.26973500000001,AZ,4.0
+398,0m0KmAYGvC34MfwJIEgCEA,"7470 South Priest Dr.
+Tempe, AZ 85283",True,Tempe,43,Fuddruckers,33.351139,-111.963499,AZ,3.5
+399,0m5c7vKiex-mV17hmkAJuw,"7514 E Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,7,Heng Hong Custom Tailor,33.502410999999995,-111.919595,AZ,4.0
+400,0m5RGYm5QSOnhA7auPLjUQ,"Palma Riccobono's Cookies & Cakes
+21805 S Ellsworth Rd, Ste 7
+Queen Creek, AZ 85142",False,Queen Creek,4,Rachel's Bake Shop,33.249775,-111.634477,AZ,4.0
+401,0mCWVfVw2O2nIkG8gADcBQ,"9617 N Metro Pkwy W
+Phoenix, AZ 85051",False,Phoenix,3,Forever 21,33.573646999999994,-112.12468899999999,AZ,4.5
+402,0MepUkozmPI0YQp8Bp7p8g,"1290 N Scottsdale Rd
+Tempe, AZ 85281",True,Tempe,11,Hoookah Mania,33.442624,-111.92657700000001,AZ,4.0
+403,0mfzvWnfnm_ErQfMDXJ_Vg,"Scottsdale, AZ 85259",True,Scottsdale,5,Leah Joy Hair & Makeup,33.595334,-111.79964199999999,AZ,4.5
+404,0mipXeIcQaqhkpseD8-0vQ,"7720 W Bell Rd
+Glendale, AZ 85308",True,Glendale,45,Trader Joe's,33.638706,-112.22739399999999,AZ,4.0
+405,0MoKiXqYSvyJu_BFugwFqg,"1960 W Ray Rd
+Chandler, AZ 85224",True,Chandler,7,Great Clips For Hair,33.321726,-111.87581100000001,AZ,2.5
+406,0MQ3inDAuiq43TN9hw_Rbw,"3411 W Union Hills Dr
+Phoenix, AZ 85027",True,Phoenix,3,Sonic Drive-In,33.653966,-112.132377,AZ,4.0
+407,0NexsCzH4bcc_OM31Ns-jg,"1515 E. Tierra Ct.
+Gilbert, AZ 85297",True,Gilbert,4,Elite Pool Management,33.269408,-111.75718400000001,AZ,5.0
+408,0nGjXTpUtpIJl10PL0eBGg,"2 E Jefferson St
+Phoenix, AZ 85004",True,Phoenix,108,Breakfast Club,33.447336,-112.073424,AZ,3.5
+409,0NhcabzEyeCIMsNCPOX-MQ,"5128 Rural Rd
+Tempe, AZ 85282",True,Tempe,36,Jimmy John's,33.392384,-111.92650800000001,AZ,3.0
+410,0NJ-yssWQ-QDcyPULYCX8w,"7815 W Thomas Rd
+Phoenix, AZ 85033",False,Phoenix,6,Steve & Barry's,33.480075,-112.226804,AZ,3.0
+411,0NK4kC0drp660PZgtfFBYg,"13681 Litchfield Rd
+Ste 135
+Surprise, AZ 85379",True,Surprise,5,Cold Stone Creamery,33.608375,-112.35908899999998,AZ,3.0
+412,0NKRV1kMtzHNpNbl8TYPDA,"7320 W Bell Rd
+Glendale, AZ 85308",False,Glendale,6,Borders,33.639699,-112.21629399999999,AZ,3.0
+413,0NlTmTzKYXbE6Hx2iGEb5A,"1112 E Carefree Hwy
+Phoenix, AZ 85085",True,Phoenix,62,El Encanto DOS,33.800053000000005,-112.05858,AZ,3.0
+414,0nT6cj3YBJIJSwHL4mKlJw,"3557 W Dunlap Ave
+Phoenix, AZ 85051",True,Phoenix,3,Pho Viet,33.567232000000004,-112.136127,AZ,2.5
+415,0Nukt8oxwHZgBRpc1b8Skw,"Phoenix, AZ",True,Phoenix,8,Ride The Dougie,33.448377,-112.074037,AZ,4.5
+416,0nyaKW_6QHSJ74OVnDmyhA,"8801 N 7th St
+Phoenix, AZ 85020",False,Phoenix,4,China Super Buffet,33.564306,-112.065091,AZ,3.0
+417,0NYKE2qvRQAuE09bIQAViQ,"1065 W Queen Creek Rd
+Chandler, AZ 85248",False,Chandler,6,Bol Italia,33.2618,-111.860274,AZ,4.0
+418,0o8qmCKnd7MomSnDGeGGyQ,"23623 N Scottsdale Rd
+Ste D3-246
+Scottsdale, AZ 85255",True,Scottsdale,4,KW Plumbing,33.701961,-111.92528,AZ,5.0
+419,0O9Un17ZGVm5_JKkyHytSQ,"2131 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,4,FedEx Office Print & Ship Center,33.509276,-112.03626899999999,AZ,4.0
+420,0ONypOKIhttBz9IJzBE8jg,"905 N 54th St
+Chandler, AZ 85226",True,Chandler,106,Fleming's Prime Steakhouse & Wine Bar,33.318467,-111.968255,AZ,4.0
+421,0OPIZYPi3qmFvt_5RYN8LA,"Phoenix, AZ 85003",True,Phoenix,6,Ftd Flowers by Wire,33.449188,-112.0772,AZ,1.0
+422,0PHtGlX__H_XHe9638DtLg,"11420 N 19th Ave
+Phoenix, AZ 85029",True,Phoenix,8,The Human Bean,33.590424,-112.099769,AZ,4.0
+423,0PO74pfETLFUs0AcdvdCdQ,"1436 N 44th St
+Phoenix, AZ 85008",True,Phoenix,6,Lonnie's Inc,33.464958,-111.987478,AZ,2.5
+424,0QEpZi6AelUOXfk3-lCd1A,"124 S 24th St
+Phoenix, AZ 85034",True,Phoenix,4,Down South Restaurant,33.446028000000005,-112.030826,AZ,2.5
+425,0QFxzJAd_6SQ55LSTc_v4g,"4550 E.Cactus Road
+Phoenix, AZ 85032",True,Phoenix,7,The Body Shop,33.599043,-111.98120700000001,AZ,4.0
+426,0qiGyzxHr5wDDJLXbSRYAA,"810 E Greenway Pkwy
+Phoenix, AZ 85022",True,Phoenix,8,Advanced Auto Service & Tire Centers,33.638124,-112.063404,AZ,5.0
+427,0qPmDwHa9NdvvIOgerR8HQ,"7144 E Stetson Drive
+Ste 250
+Scottsdale, AZ 85251",False,Scottsdale,41,Canal Restaurant,33.499705,-111.927222,AZ,3.5
+428,0QrA-Klgp1R-GzUr6uJS7Q,"4923 E Chandler Blvd
+Phoenix, AZ 85048",True,Phoenix,24,Dunkin Donuts,33.304808,-111.97771200000001,AZ,3.5
+429,0QRvOpNbrHfik3wBupGFmg,"4573 E Cactus Road
+Phoenix, AZ 85032",False,Phoenix,4,Marie Callender's Restaurants & Bakeries,33.599012,-111.98168999999999,AZ,2.0
+430,0qTluM4Hs4uLMJSxesnLqQ,"37636 N Tom Darlington Rd
+Cave Creek, AZ 85331",False,Cave Creek,3,Dinkey Donkey,33.827193,-111.923721,AZ,4.5
+431,0qUesn1TBPpPjW20h5Lqfg,"6645 W Bell Rd
+Ste 103
+Glendale, AZ 85308",True,Glendale,98,Fresh Wasabi,33.637161,-112.19973999999999,AZ,4.0
+432,0R5F2Gz3ymot-YNWt_0_cQ,"23425 N Scottsdale Rd
+Ste A 4
+Scottsdale, AZ 85255",True,Scottsdale,9,Spa 810 Laser & Skin,33.69952,-111.92331399999999,AZ,4.0
+433,0r6fqT3DqwkJ2Uu6YDjEIw,"7237 E Main St
+Scottsdale, AZ 85251",True,Scottsdale,4,Royal Palace Jewelry,33.493024,-111.925053,AZ,2.5
+434,0rbT0Nf-A56t4DnYIIvy-Q,"3420 E Baseline Rd
+Ste 107
+Mesa, AZ 85204",True,Mesa,50,Cafe Zupas,33.379618,-111.75704499999999,AZ,4.0
+435,0rd-jRz43JDkx1ghoHnEXQ,"7131 W Ray Rd
+Chandler, AZ 85226",True,Chandler,8,Urbayn,33.317906,-111.96413799999999,AZ,4.5
+436,0ROrgaauL7hmivzyd34iKA,"5949 E University Dr
+Mesa, AZ 85205",True,Mesa,4,Rx Formulations,33.422387,-111.702347,AZ,5.0
+437,0RqNRc6RiILzZxK9J8Kqug,"2501 W. Happy Valley Road
+Phoenix, AZ 85085",True,Phoenix,46,Red Robin Gourmet Burgers,33.711090999999996,-112.112277,AZ,3.5
+438,0Rrih6W3LGrNGB_3cQaplg,"39508 N Daisy Mountain
+Phoenix, AZ 85086",True,Phoenix,14,Fry's Marketplace,33.842804,-112.13778899999998,AZ,4.0
+439,0rsqPxFdZuOXYmZz9nDP1g,"4237 N Craftsman Court
+Scottsdale, AZ 85251",True,Scottsdale,4,Craftsman Court Ceramics,33.497375,-111.927406,AZ,4.5
+440,0SGgz8jHkSCcxcYOXOAkLw,"9814 W Peoria Ave
+Peoria, AZ 85345",False,Peoria,4,Der Kaffee Kuchen,33.580376,-112.270416,AZ,4.5
+441,0sIny0nBV1ImLqZQEHjirw,"1195 S. Arizona Ave, #20
+Chandler, AZ 85248",True,Chandler,6,Anna's Linens,33.2475,-111.87918,AZ,2.0
+442,0SkiN-iSb68lMN6CfZI5-A,"2950 N Dobson Road
+Suite 12
+Chandler, AZ 85224",True,Chandler,4,Pride Animal Hospital,33.348777,-111.877277,AZ,4.0
+443,0sML_PZTH3aQcXi5bkyLZA,"21001 N Tatum Blvd
+Phoenix, AZ 85050",True,Phoenix,13,Kohl's Department Stores,33.6914,-111.9975,AZ,4.0
+444,0sNQHGJCb6ckMW3P_J3oXA,"680 Mill Ave
+Ste 101
+Tempe, AZ 85281",True,Tempe,6,Five Guys Burgers and Fries,33.424008,-111.94018700000001,AZ,4.5
+445,0SQmfh7ppX3HnYx9SxmReA,"921 N Dodson Rd
+Mesa, AZ 85201",True,Mesa,10,Panda Express,33.415184,-111.83147199999999,AZ,3.0
+446,0TaGsKAXOU4iCFZfW-YUow,"Tempe, AZ 85282",True,Tempe,3,Just Right Masonry,33.389758,-111.93436399999999,AZ,5.0
+447,0tHI0-PzdFW7b9z1AJ64HQ,"3926 E Indian School Road
+Phoenix, AZ 85018",True,Phoenix,5,Kachina Dry Cleaners,33.495134,-111.996895,AZ,3.5
+448,0tKi17OtZMc8VZVWL_PXyg,"5004 S Price Rd
+Tempe, AZ 85282",False,Tempe,3,Azucar Cuban Restaurant,33.379567,-111.893419,AZ,1.5
+449,0tQhcd-ACWuEm_sWx1fKUg,"4011 S Power Rd
+Mesa, AZ 85212",True,Mesa,15,Vertuccio Farms,33.342848,-111.686797,AZ,4.5
+450,0tqrgESNOpN2CNoEtCGYpQ,"1604 E Southern Ave
+Tempe, AZ 85282",True,Tempe,48,Joe's Crab Shack,33.393371,-111.912406,AZ,2.5
+451,0TVjxgg2-lImlY_6nZfu2A,"755 W Baseline Rd
+Tempe, AZ 85283",True,Tempe,7,Arizona Humane Society Thrift Store,33.378198,-111.950134,AZ,4.5
+452,0Tyz8wjta4Vkd1Wp-hWw9g,"5450 E High St
+Phoenix, AZ 85086",True,Phoenix,5,Inline Business Coach and Advisors,33.675471,-111.96330800000001,AZ,5.0
+453,0u0I_UUbsE6kc9so_WlBRQ,"4423 E Thomas Rd Ste A
+Phoenix, AZ 85018",True,Phoenix,7,Sprint,33.479649,-111.986848,AZ,3.5
+454,0udEgNqy5rLR5pZ4kD19Og,"403 W University Dr
+Tempe, AZ 85281",True,Tempe,198,Thai Basil,33.421539,-111.944782,AZ,4.0
+455,0UoiVRI6RXedld2gd0i-bA,"19039 S Arizona Ave
+Chandler, AZ 85248",True,Chandler,4,Brooksie's Propane,33.273643,-111.8412,AZ,5.0
+456,0uP4fNs06SkeZqIm3ZWaZw,"10325 E Riggs Road
+Sun Lakes, AZ 85248",True,Sun Lakes,4,Bashas' ,33.218101000000004,-111.85887199999999,AZ,2.5
+457,0UZ31UTcOLRKuqPqPe-VBA,"401 E Jefferson
+Phoenix, AZ 85004",True,Phoenix,286,Chase Field,33.444798999999996,-112.06666200000001,AZ,4.0
+458,0UZdnZKHmCJHqN5cbM2nUw,"3157 W. Chandler, Sp #2
+Chandler Fashion Center
+Chandler, AZ 85226",True,Chandler,4,Johnny Rockets,33.305662,-111.897529,AZ,3.0
+459,0VAYXzrEQExGm-Q8FpIvgQ,"9977 North 90th St
+Ste 180
+Scottsdale, AZ 85258",True,Scottsdale,3,"Lakin Douglas, MD",33.575564,-111.885325,AZ,5.0
+460,0vb_YDCtZo0Yk9zHF7rzSA,"1839 W Indian School Rd
+Phoenix, AZ 85015",True,Phoenix,6,Pizza Hut,33.494795,-112.099512,AZ,2.0
+461,0vFCASHpp2VBeTuVus4MOg,"702 W Camelback Rd
+Ste 1
+Phoenix, AZ 85013",True,Phoenix,8,Kyoto Bowl,33.509984,-112.08354299999999,AZ,2.0
+462,0VhpuQ8pQcJU5DgNfk1KYA,"14045 W Grand Ave
+Ste 707
+Surprise, AZ 85374",True,Surprise,3,Design With Cents,33.649654,-112.36627299999999,AZ,2.5
+463,0VHXNBdx-XIYUAob6QgtPA,"2435 E Baseline Rd
+Phoenix, AZ 85042",True,Phoenix,9,Wal-Mart Neighborhood Market,33.376131,-112.029552,AZ,3.5
+464,0vjPlHp1eZPOyb-bcjp-9g,"5110 E McDowell Rd
+Phoenix, AZ 85008",True,Phoenix,6,Castaways,33.46566,-111.97161200000001,AZ,4.0
+465,0VLZj0f3llL9IkL5GOT3lg,"1649 S Stapley Drive
+Suite 106
+Mesa, AZ 85204",True,Mesa,6,Charley's Steakery,33.38323,-111.80269399999999,AZ,3.0
+466,0VpsHbGLHDVKIKAi0ZliyQ,"1724 E McDowell Rd
+Phoenix, AZ 85006",True,Phoenix,12,Karamba Nightclub,33.465763,-112.044552,AZ,3.5
+467,0VrsgXhnL7o5QWZ-aG-hqw,"11201 Grand Ave
+Youngtown, AZ 85363",True,Youngtown,7,Best Western Inn and Suites of Sun City,33.605731,-112.301042,AZ,3.0
+468,0Vty6xYvihX-kmsocY1HWQ,"4435 E Paradise Village Pkwy S
+Phoenix, AZ 85032",True,Phoenix,22,Stonecreek Golf Club,33.595172,-111.98489199999999,AZ,2.5
+469,0vYp6ITH7FsBtlpFcWTdRA,"5625 E Thomas Rd
+Phoenix, AZ 85018",True,Phoenix,5,Walgreens,33.480027,-111.9599,AZ,2.5
+470,0VyvlA1mZsDoYd3kkRjevA,"1650 S. Clearview Ave.
+Mesa, AZ 85208",True,Mesa,27,Outback Steakhouse,33.385783,-111.67908899999999,AZ,3.0
+471,0VZ9kijz5gM38xP6UCZ9uw,"2501 W Happy Valley # 52-1320
+Happy Valley Towne Center
+Phoenix, AZ 85085",True,Phoenix,6,Supercuts,33.710696,-112.11148100000001,AZ,3.0
+472,0vzZ_Bcb02rJljeMU9XkBw,"5061 E Elliot Rd
+Phoenix, AZ 85044",True,Phoenix,173,Sakana Sushi & Grill,33.347684,-111.976156,AZ,4.0
+473,0w3BMfywLZvPkkv3b6-wfg,"17633 N Cave Creek Rd
+Phoenix, AZ 85032",True,Phoenix,5,Brake Masters,33.646856,-112.030697,AZ,3.0
+474,0w8fZao3bZYF57vyYoJjZQ,"16816 N 35th Ave
+Phoenix, AZ 85053",False,Phoenix,3,Hardtailz,33.638287,-112.134828,AZ,3.5
+475,0W9wB0UqefUrZrQh8i7o2Q,"4539 East Thomas Rd
+Ste 102
+Phoenix, AZ 85018",True,Phoenix,4,Cartridge World,33.479793,-111.98303600000001,AZ,4.5
+476,0WCAWRzNCdPHix2zyAEuHg,"Phoenix, AZ 85018",True,Phoenix,3,Adams Fiberglass & Porcelain Repair & Refinishing,33.49622,-111.964173,AZ,4.5
+477,0wcIW43ZFTeVFmRMvylZxQ,"8401 S Hardy Dr
+Tempe, AZ 85284",True,Tempe,20,Tempe Sports Complex,33.339532,-111.95133799999999,AZ,4.0
+478,0Wgkqmf1uJB9AmiQK75qHw,"6149 N Scottsdale Rd
+Scottsdale, AZ 85250",True,Scottsdale,16,Slanted Rice Vietnamese Bistro,33.526604,-111.924627,AZ,4.0
+479,0WI0ydH2HtFxFswYXhE--w,"13215 W Mcdowell Rd
+Goodyear, AZ 85395",True,Goodyear,75,Nakama Sushi Restaurant & Lounge,33.463188,-112.34368,AZ,4.0
+480,0wK--zW6Bgqgvnob8Qc77g,"720 W Ray Rd
+Gilbert, AZ 85233",True,Gilbert,24,Famous Sam's,33.321486,-111.80526499999999,AZ,3.5
+481,0wlMvYeB9-LSZPv-heSF4Q,"1153 W Broadway Rd
+Tempe, AZ 85282",True,Tempe,10,Paul's Ace Hardware Stores,33.406917,-111.957897,AZ,4.0
+482,0wRPvS-sG5x-pEMKVuDBJg,"172 E Wickenburg Way
+Wickenburg, AZ 85390",True,Wickenburg,10,Twin Wheels Cafe,33.969392,-112.729184,AZ,3.0
+483,0x0voDMo5yMQI2601ovjOQ,"2149 W Indian School Rd
+Phoenix, AZ 85015",True,Phoenix,4,Estrella Taxi,33.494747,-112.106099,AZ,2.0
+484,0XBQ658PN6hjE8KGSUl-kw,"2428 E Apache Blvd
+Tempe, AZ 85281",True,Tempe,4,The Tea Keeper,33.414915,-111.886447,AZ,2.0
+485,0xDNu8EhXAaHVfhHjkYUHQ,"4245 North Drinkwater Boulevard
+Scottsdale, AZ 85251",True,Scottsdale,26,HYATT House Scottsdale/Old Town,33.498272,-111.922274,AZ,4.0
+486,0xJnnx_oYYZb9pBmzzGIlg,"10160 E Bell Rd
+Scottsdale, AZ 85260",True,Scottsdale,10,Cvs Pharmacy,33.640291,-111.878693,AZ,3.0
+487,0Xnduj9w6aYHOtN_RlHUng,"2730 E McDowell Rd
+Ste 7
+Phoenix, AZ 85008",True,Phoenix,17,M B Motors,33.465939,-112.02235,AZ,5.0
+488,0xusOkLdNpGZvXmuquFRMg,"7000 E Mayo Boulevard
+Phoenix, AZ 85054",False,Phoenix,9,McGrath's Fish House,33.655684,-111.93002800000001,AZ,2.0
+489,0xWF7PpTNl-awqg2YGxxFQ,"2501 N 44th St
+Phoenix, AZ 85008",True,Phoenix,25,IHOP,33.475115,-111.986452,AZ,3.0
+490,0XYKFQI_Cteetvu8226jIQ,"Wickenburg, AZ 85390",True,Wickenburg,3,Jail Tree,33.969452000000004,-112.730069,AZ,3.0
+491,0Xz7umPUtAxf6JMHwybnmg,"10290 N 90th St
+Scottsdale, AZ 85258",True,Scottsdale,9,D'ambrosio's Hair Design,33.579511,-111.88661299999998,AZ,4.5
+492,0YB3QjUCaWlWUkc1Wtd-sg,"1926 W Monona Dr
+Phoenix, AZ 85027",True,Phoenix,5,Phoenix Gymnastics & Dance Academy,33.675095,-112.101279,AZ,4.0
+493,0yBs5wbVw9gTIDe9Z-rMTg,"7210 E 2nd St
+Scottsdale, AZ 85251",False,Scottsdale,41,Bonfire Grill and Bar,33.491695,-111.925624,AZ,4.0
+494,0YCV8260mMgN0PxuzAtO3g,"144 N Central Ave
+Phoenix, AZ 85004",True,Phoenix,4,Subway,33.450301,-112.074091,AZ,2.5
+495,0YEbfeYZXkcTwjos9cgaEA,"32415 North Scottsdale Rd
+Scottsdale, AZ 85262",True,Scottsdale,12,Rubio's Fresh Mexican Grill,33.780245,-111.92576899999999,AZ,4.0
+496,0YEYPidJcDh-Hgjwaisi5Q,"6039 W Bell Rd
+Glendale, AZ 85306",True,Glendale,61,Black Bear Diner,33.638329999999996,-112.189796,AZ,3.5
+497,0ylC0tsPUY3yaoXRaCDL3Q,"4949 E Warner Rd
+Ste 1
+Phoenix, AZ 85044",True,Phoenix,37,Arizona Sandwich Company,33.332316,-111.97750400000001,AZ,4.5
+498,0YoQxhMsj3GlGariDDSKfg,"6825 E US Hwy 60
+Gold Canyon, AZ 85218",False,Gold Canyon,6,The Garage Pub and Pizza,33.359419,-111.473005,AZ,3.0
+499,0ytZOTV8kv67sUWDRgXL_A,"6351 N 27th Ave
+Phoenix, AZ 85017",True,Phoenix,3,Sts Simon & Jude Cathedral,33.529751,-112.11672800000001,AZ,4.5
+500,0Z5ZdHaqmE1Iu8aTgp2qXg,"454 N Lindsay Rd
+Ste 2
+Mesa, AZ 85213",False,Mesa,3,Bowl Of Heaven,33.423904,-111.771207,AZ,4.5
+501,0zcHBms7sK9IYv4zn_qrqQ,"20455 E Rittenhouse Rd
+Queen Creek, AZ 85242",True,Queen Creek,19,Chick-fil-A,33.260057,-111.64224899999999,AZ,4.5
+502,0ZHL7v2m2J220jnM_sB6RA,"38238 N 20th St
+Phoenix, AZ 85086",True,Phoenix,3,Ryan Hicks Automotive,33.832926,-112.04168700000001,AZ,3.5
+503,0zj1T4Zc7l_dXZhO3U-nfw,"15420 N 7th St Ste A
+Phoenix, AZ 85022",True,Phoenix,5,Moon Valley Custom Cleaners,33.626466,-112.065955,AZ,3.0
+504,0zjzaE5tCH86JnPZwDpfaw,"2765 N. Scottsdale Rd., # 102
+Ste 102
+Scottsdale, AZ 85257",True,Scottsdale,20,Jamba Juice,33.478716,-111.925591,AZ,3.5
+505,0zp6iCXDwn5uSoy5JeirHA,"710 W Elliot Rd
+Ste 103
+Tempe, AZ 85284",True,Tempe,4,Cut To A T,33.349656,-111.94852900000001,AZ,4.0
+506,0_3hrGrrP-J5eeHRwQfZ6w,"1909 W Thunderbird Rd
+Phoenix, AZ 85023",True,Phoenix,36,Macayo's Mexican Kitchen,33.61092,-112.10065700000001,AZ,3.5
+507,0_vMnSRqc5aZUg1eBk3l2g,"Tempe Marketplace
+2000 E Rio Salado Pkwy
+Tempe, AZ 85281",True,Tempe,40,Paradise Bakery & Cafe,33.434109,-111.901867,AZ,3.0
+508,1-1VcGTL3GyCqUpXZLFTZA,"Chase Field
+401 E Jefferson St
+Phoenix, AZ 85004",True,Phoenix,58,Friday's Front Row Sports Grill,33.445956,-112.06625,AZ,3.5
+509,1-40wS09HcJnJIKRVWRL6g,"1640 N 36th St
+Phoenix, AZ 85008",True,Phoenix,6,Pizza Patron,33.466712,-112.004424,AZ,3.0
+510,1-dZ9QKeV5bbam2aOrk0lg,"227 E Baseline Rd
+Ste 6
+Tempe, AZ 85283",False,Tempe,3,Skins Esthetics,33.378223999999996,-111.936102,AZ,5.0
+511,106JT5p8e8Chtd0CZpcARw,"1020 E Pecos Rd
+Chandler, AZ 85225",False,Chandler,12,Arizona Coffee Connection,33.3181,-111.8332,AZ,4.5
+512,10BgGvCMDH-JbYsg8KRLRg,"1020 S Mill Ave
+Tempe, AZ 85281",False,Tempe,41,3 Roots Coffee House and Cafe,33.418499,-111.94030500000001,AZ,3.5
+513,10VZ8KEshqD5twjcmZ-eaw,"117 W Grant St
+Phoenix, AZ 85003",True,Phoenix,10,El Portal Restaurant,33.441144,-112.075902,AZ,3.5
+514,11NjTU-TnxoEJICfsJ44Rg,"13516 N 59th Dr
+Glendale, AZ 85304",True,Glendale,5,Old Dixie's,33.605478999999995,-112.18668400000001,AZ,5.0
+515,11RiiPlMWgSwGf5CSzGdkw,"Phoenix, AZ 85003",True,Phoenix,3,Ladybug Pest Control Specialists,33.449188,-112.0772,AZ,3.5
+516,11TvD4sCfA8GEqLDANpbSQ,"4630 E Van Buren St
+Phoenix, AZ 85008",True,Phoenix,11,Los Jarritos Restaurant,33.451147,-111.98101899999999,AZ,3.5
+517,12-Mzdvqlq3gQZg4SulzDw,"5555 N 7th St
+Phoenix, AZ 85013",True,Phoenix,4,Fantastic Sams,33.517587,-112.06479499999999,AZ,2.5
+518,12Abu2ipAXn5RfXe9y_pdQ,"20715 N. Pima Road
+Market Street at DC Ranch
+Scottsdale, AZ 85250",False,Scottsdale,13,Blue Wasabi Sushi & Martini Bar,33.672982,-111.890475,AZ,3.5
+519,12srsQVQDykj2LQiCPmLuw,"1959 S. Power Rd.
+Suite #106
+Mesa, AZ 85206",True,Mesa,4,Subway,33.380303999999995,-111.688796,AZ,2.5
+520,12ti55UYaJ82eDTAI-adHA,"285 N Federal St
+Chandler, AZ 85226",True,Chandler,11,Michaels Arts & Crafts,33.307627000000004,-111.895376,AZ,2.5
+521,12WjqfqjP3hgSUc-O-FnFw,"3060 S 27th Ave
+Phoenix, AZ 85009",True,Phoenix,5,City of Phoenix Solid Waste Management Facility,33.417356,-112.12011299999999,AZ,4.0
+522,136zvrfN6Kpr9tFj3OMNUQ,"555 N Scottsdale Rd
+Ste 105
+Tempe, AZ 85281",True,Tempe,48,Panchero's Mexican Grill,33.434259999999995,-111.925288,AZ,3.5
+523,13ApBJpR1W7cke__9j74Bw,"15333 W Waddell Rd
+Surprise, AZ 85379",True,Surprise,5,Jack in the Box,33.609404,-112.39181200000002,AZ,2.5
+524,13HqRPuLUPyxaWWwA9lylQ,"7130 W Chandler Blvd
+Ste 17
+Chandler, AZ 85226",True,Chandler,4,Slaughter & Associates,33.305363,-111.96581299999998,AZ,5.0
+525,13lNc7KSuVHBrUybTR23qw,"11340 W Bell Rd
+Ste 118 A
+Surprise, AZ 85374",False,Surprise,31,Picazzo's Organic Italian Kitchen,33.639888,-112.30401,AZ,3.5
+526,13rbLgqOEV_Ng4W1z6wQog,"1124 Thunderbird St
+Glendale, AZ 85307",True,Glendale,3,Firestone Complete Auto Care,33.52956,-112.31442,AZ,3.0
+527,13VZKXF7bBuLsLDh_r3g0w,"16380 N 59th Ave
+Glendale, AZ 85306",True,Glendale,20,Arizona Department of Motor Vehicles,33.634064,-112.18586200000001,AZ,3.0
+528,145SQ_msdQ1yo7J0E63VoA,"1625 N Central Ave
+Phoenix, AZ 85004",True,Phoenix,29,Devoured Culinary Classic,33.466978000000005,-112.072569,AZ,4.5
+529,14fTII5Rm4PIFYJ-CA4PIQ,"1155 W 23rd St
+Ste 5A
+Tempe, AZ 85282",True,Tempe,4,TruGreen,33.402793,-111.956584,AZ,2.0
+530,14K90G-hbfk795NY7cKxMA,"1524 E Williams Field Rd
+Gilbert, AZ 85295",True,Gilbert,111,Blue 32 Sports Grill,33.30725,-111.757319,AZ,4.0
+531,14NSxaXBNspIVnsrMYJZVw,"7202 S Central Ave
+Phoenix, AZ 85042",True,Phoenix,89,Poncho's Mexican Food,33.380646,-112.07329399999999,AZ,3.5
+532,14Ys8nYayXPpUouHsyTN1A,"3751 S Clubhouse Dr
+Chandler, AZ 85248",True,Chandler,8,Ocotillo Golf Resort,33.25107,-111.870883,AZ,3.0
+533,1621ir5mjVgbHwxCbMAEjg,"927 E University Dr
+Tempe, AZ 85281",True,Tempe,67,Thai Rama,33.421915000000006,-111.925242,AZ,3.0
+534,166feddAL9YETnzTSUJ8aA,"9201 S Avenida Del Yaqui
+Guadalupe, AZ 85283",True,Guadalupe,15,El Yaqui Restaurant,33.363713,-111.96314,AZ,3.5
+535,16divAZmHqQqlAnkVrbfSw,"18423 E San Tan Blvd
+Ste 1
+Queen Creek, AZ 85142",True,Queen Creek,6,Arizona Elite Properties Llc,33.211671,-111.684707,AZ,1.0
+536,16myUO2uD2vdFeuQu3OWhg,"13370 W Van Buren Street
+Goodyear, AZ 85338",True,Goodyear,5,Papa John's Pizza,33.450323,-112.347225,AZ,3.0
+537,16olLTJnCA0Q3B_oft0RvQ,"3131 E Thunderbird Rd
+Ste 33
+Phoenix, AZ 85032",True,Phoenix,7,Fatcat Ballroom and Dance Company,33.609866,-112.013801,AZ,3.0
+538,16orLd_wKfdfh4AxTZu_zQ,"21001 N Tatum Blvd
+Ste 1630
+Phoenix, AZ 85050",False,Phoenix,8,The Office,33.678615,-111.974607,AZ,3.5
+539,16vBOBiEkjuJV88nVK4Tvw,"9115 W Van Buren St
+Tolleson, AZ 85353",True,Tolleson,4,Taqueria Y Cenaduria Culiacan,33.450213,-112.255951,AZ,4.5
+540,17AGor2KUDMLUV5u5NbTnw,"1900 W Chandler Blvd
+Chandler, AZ 85224",True,Chandler,5,UPS Store,33.306062,-111.87485,AZ,3.0
+541,17AQhJKGRA3YLeN0pB64cg,"14144 N 100th St
+Scottsdale, AZ 85260",False,Scottsdale,8,Coffee Plantation,33.614595,-111.864498,AZ,3.5
+542,17DI33J8TkcfzyoiIYLQIw,"6949 E Shea Blvd
+Scottsdale, AZ 85253",True,Scottsdale,82,Thai House,33.581569,-111.93128200000001,AZ,3.5
+543,18FygiATTjYHyLz8A5Prcw,"13706 W Bell Rd
+Surprise, AZ 85374",True,Surprise,5,Pizza Hut,33.638721999999994,-112.352222,AZ,2.5
+544,18oecrR4bf-ctLvVGEaSLg,"1650 S Stapley Dr
+Mesa, AZ 85204",True,Mesa,29,In-N-Out Burger,33.383382,-111.806509,AZ,4.0
+545,18TUn9oiW0k0yB6lheiOvw,"6003 N 16th St
+Phoenix, AZ 85016",True,Phoenix,215,TEXAZ Grill,33.523984000000006,-112.04698,AZ,4.0
+546,18X496TOlKunSiAnm6z1dg,"1140 W Butte Ave
+Florence, AZ 85132",True,Florence,8,The Windmill Winery,33.031301,-111.40196599999999,AZ,4.5
+547,19hZVXTJ8nGUMBsuIfgm5g,"1111 E Buckeye Rd
+Phoenix, AZ 85034",True,Phoenix,8,Petes Fish & Chips,33.436806,-112.05805,AZ,3.5
+548,19Ul92eh3bhOOdP4eXEJVg,"5021 W Indian School Rd
+Phoenix, AZ 85031",True,Phoenix,3,Secrets For Adults Only,33.494724,-112.167928,AZ,4.5
+549,1ae0Ie7bOia9ZuTqH1Qx0A,"20775 N Pima Rd
+Scottsdale, AZ 85255",True,Scottsdale,4,The Breakfast Joynt,33.672138000000004,-111.890491,AZ,4.0
+550,1Ah078abmmHwdSksI_RyGg,"6315 E Southern Avenue
+Mesa, AZ 85206",True,Mesa,5,The Roomstore,33.392652000000005,-111.694992,AZ,3.0
+551,1aIDyM_XKck-IrwP_53jtw,"101 S McClintock Dr
+Tempe, AZ 85281",True,Tempe,5,Hon-Amotive,33.428776,-111.908648,AZ,3.5
+552,1AMncE6Lxdr6J9PeqZi4nA,"3757 E. Van Buren Street
+Phoenix, AZ 85008",True,Phoenix,61,Bill Johnson's Big Apple Restaurants,33.450696,-112.000052,AZ,3.0
+553,1Ap6ZNCvyLLKHP0wvCk9yA,"455 N Galvin Pkwy
+Phoenix, AZ 85008",True,Phoenix,228,Phoenix Zoo,33.453784000000006,-111.95326399999999,AZ,4.0
+554,1AR1oHvHVPihkNWNyQ7wtA,"5255 S Power Rd
+Mesa, AZ 85212",True,Mesa,6,McDonald's,33.320425,-111.68638899999999,AZ,3.0
+555,1B3-HvNWq61Zjgn4oTbNYg,"21032 S. Ellsworth Loop Rd.
+Queen Creek, AZ 85142",True,Queen Creek,3,PetSmart,33.257179,-111.639548,AZ,4.5
+556,1b4VPiZlodw9oNUenFr6fQ,"16459 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,4,Jos A Bank,33.635783,-111.925327,AZ,3.0
+557,1B5vpxnZYXKil_k5d5MpEQ,"3507 W. Peoria Ave.
+Phoenix, AZ 85029",True,Phoenix,6,Taco Bell,33.581699,-112.13586299999999,AZ,2.5
+558,1BBYTiRHddjgAvDUht5WAg,"2330 W Bethany Home Rd
+Phoenix, AZ 85015",True,Phoenix,6,Big Lots,33.525003999999996,-112.10989099999999,AZ,2.5
+559,1bLnV57i6UYvG_FSG-7WTg,"11345 W Buckeye Rd
+Ste 105
+Avondale, AZ 85323",True,Avondale,6,New Wok Chinese Food,33.434115999999996,-112.304277,AZ,3.0
+560,1bMesJDIAG9GpRU1SwKMsg,"15420 N 32nd St
+#6
+Phoenix, AZ 85032",True,Phoenix,4,Vera's Laundromat,33.627052,-112.014003,AZ,4.0
+561,1bv8Tn0MJHqzv9WGkn62ww,"4747 N Scottsdale Rd
+Ste 1001
+Scottsdale, AZ 85251",True,Scottsdale,3,Safari Drive Condominium,33.505102,-111.923854,AZ,3.5
+562,1cCF9wHMJIaaQmj7wqRqMg,"7051 E McDowell Rd
+Scottsdale, AZ 85257",False,Scottsdale,5,The Nile Cafe,33.465609,-111.929065,AZ,3.0
+563,1cGZU2gDewDfEu-bBMZEgQ,"3217 E Greenway Road
+Phoenix, AZ 85032",True,Phoenix,16,Los Betos Mexican Food,33.626042,-112.01221799999999,AZ,3.5
+564,1CNJeljdT4Ap7B-8ddbkYw,"1649 W Adams St
+Phoenix, AZ 85007",True,Phoenix,5,Bolin Memorial Park,33.449227,-112.095179,AZ,4.5
+565,1CNKe3H07sLu6rigOpAYsg,"2000 E Rio Salado Pkwy
+Tempe, AZ 85281",True,Tempe,120,Dave & Buster's,33.433091999999995,-111.90358,AZ,3.5
+566,1crzPdwnlm2zHdQ2nP4n7w,"2502 N 7th St
+Phoenix, AZ 85006",True,Phoenix,21,Bell Drapery and Cleaners,33.474961,-112.06538400000001,AZ,4.5
+567,1cTI09YZ3uRPXt3YkznuPg,"7146 N 57th Dr
+Glendale, AZ 85301",True,Glendale,69,A Touch of European Cafe,33.541418,-112.182553,AZ,4.5
+568,1ctVj76TXrHpqX3px49n6A,"13220 W Van Buren St
+Ste 110
+Goodyear, AZ 85338",True,Goodyear,3,Baskin-Robbins,33.45026,-112.34369199999999,AZ,4.5
+569,1CU_ksC32Hz7QmioMH91nQ,"12101 West Blackstone Drive
+Peoria, AZ 85383",True,Peoria,9,Blackstone Country Club,33.765181,-112.32068000000001,AZ,4.5
+570,1CwRtFemRPSZuoOlEGpqIw,"4747 E Bell Rd
+Phoenix, AZ 85032",False,Phoenix,4,Orange Leaf Frozen Yogurt,33.638907,-111.97943500000001,AZ,4.5
+571,1cxn2otmg5H8OrKjyCCjAA,"14256 N Northsight Blvd
+Ste 120
+Scottsdale, AZ 85260",True,Scottsdale,5,Forma Plastic Surgery,33.615428,-111.898859,AZ,4.0
+572,1D8_syO-uv648HceEWF38A,"1200 N Alma School Rd
+Chandler, AZ 85224",True,Chandler,5,M.D. Pruitt's Home Furnishing,33.323463000000004,-111.85921,AZ,4.5
+573,1D9wTe9u0anBT6vrNL7HnQ,"3111 W Chandler Blvd
+Ste 2174
+Chandler, AZ 85226",True,Chandler,11,Fast-Fix Jewelry and Watch Repairs,33.305681,-111.897553,AZ,3.0
+574,1dAObAOdX-yRrvx2MxabjA,"4011 N 7th St
+Phoenix, AZ 85014",True,Phoenix,6,Andy's Collision Center,33.493177,-112.064306,AZ,4.0
+575,1dC3GSC5bgQf9wEp-bv8PQ,"18271 N  Pima Rd
+Scottsdale, AZ 85255",True,Scottsdale,24,AJ's Fine Food - DC Ranch,33.65305,-111.88571599999999,AZ,4.0
+576,1DD8NUsVN0oF12ci03CYSg,"2633 E Indian School Rd
+Ste 320
+Phoenix, AZ 85016",True,Phoenix,3,Michael W Atkins,33.494634000000005,-112.02398799999999,AZ,3.5
+577,1dDeTZyftyjjE7IkxGuftg,"8628 E Winnston Cir
+Mesa, AZ 85212",True,Mesa,6,Varsity Termite and Pest Control,33.279374,-111.64678899999998,AZ,5.0
+578,1DgSbbjaT7z3LCui1zZ1cg,"1858 S Signal Butte Rd
+Mesa, AZ 85209",True,Mesa,5,PetSmart,33.381739,-111.600523,AZ,2.5
+579,1dHqXuwnQLIEuNyKC6DeMg,"4055 S Arizona Ave
+Ste 7
+Chandler, AZ 85248",True,Chandler,4,All Brite Dental,33.258734000000004,-111.841214,AZ,5.0
+580,1DjRf3AdYpdlC1Df9KD6rA,"1600 S 52st St
+Tempe, AZ 85281",True,Tempe,28,Fire + Spice,33.410863,-111.970179,AZ,3.5
+581,1Duul3qCnLrNak1Np-iHfw,"1949 W Ray Rd
+Chandler, AZ 85224",True,Chandler,200,Pita Jungle,33.319062,-111.87433899999999,AZ,4.0
+582,1DXImhJuHhU221oRQ8zJ9g,"3330 N Hayden Road
+Scottsdale, AZ 85251",True,Scottsdale,7,Big 5 Sporting Goods,33.487082,-111.90891599999999,AZ,3.0
+583,1eBJyYf3JEccqXUFxG1VWQ,"14202 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,38,Dilly's Deli Sandwich Shop,33.617273,-111.926576,AZ,3.5
+584,1eCgFaDYZRrCxuUErHa_tg,"12000 N Bush Hwy
+Mesa, AZ 85215",True,Mesa,12,Saguaro Lake,33.508423,-111.68423999999999,AZ,4.5
+585,1EijFh9CwBquhE25Vmpekw,"9821 N 95th St
+Ste 110
+Scottsdale, AZ 85258",True,Scottsdale,5,"James B Miller, DMD",33.575792,-111.874439,AZ,5.0
+586,1eJiyKXx_ruNu6F36BJQCg,"350 S Mill Ave
+Tempe, AZ 85281",True,Tempe,90,Mojo Yogurt,33.426955,-111.94011699999999,AZ,4.0
+587,1EkTJSMIne48E8LTAOjhvw,"15678 N Frank Lloyd Wright Blv
+Scottsdale Towne Center # 115
+Scottsdale, AZ 85260",False,Scottsdale,7,Supercuts,33.629502,-111.886629,AZ,4.0
+588,1eL_QihxW6XPo7tSFceoDA,"23535 N Scottsdale Road
+Suite 101
+Scottsdale, AZ 85255",True,Scottsdale,3,Starbuck's Coffee Corporation,33.701267,-111.925303,AZ,4.5
+589,1EnMK0EMcRJrzVtB-feNXQ,"8750 E Raintree Dr
+Scottsdale, AZ 85260",True,Scottsdale,5,Bank of America,33.618687,-111.89268600000001,AZ,1.5
+590,1EPf4WwkjSVMN0VvtfgZhw,"555 N Litchfield Rd
+Goodyear, AZ 85338",True,Goodyear,4,The RoomStore - Goodyear,33.453598,-112.35724099999999,AZ,4.0
+591,1epH2hHsZ2HoSU8ugWWSOw,"933 E University Dr
+Ste 112
+Tempe, AZ 85281",True,Tempe,15,Juba,33.421351,-111.924714,AZ,4.0
+592,1es60210U2Zho5LzG46Bxg,"3542 W Glendale Ave
+Phoenix, AZ 85051",True,Phoenix,20,Queen Nails & Spa,33.539599,-112.13691399999999,AZ,4.0
+593,1EznjRSmTFjPeY80ybyyqA,"6710 E Camelback Rd
+Ste 220
+Scottsdale, AZ 85251",True,Scottsdale,6,Linder Dermatology,33.502194,-111.937238,AZ,4.5
+594,1F-pelV0fTduYV_vCrvjLA,"1809 E. Baseline Road
+Gilbert, AZ 85233",True,Gilbert,97,Black Bear Diner,33.378608,-111.79233300000001,AZ,3.5
+595,1f0g466Geu4nDdJhYQ_Vhg,"3434 W Anthem Wy
+Ste 146
+Anthem, AZ 85086",True,Anthem,59,Q to U BBQ,33.864429,-112.135305,AZ,4.5
+596,1F3wLIHATM_-Ec_E4GAoiw,"4412 N Miller Rd
+Scottsdale, AZ 85251",True,Scottsdale,4,Arby's,33.500566,-111.917924,AZ,4.0
+597,1f67KfT4jxRkj4m9AmwrMA,"1435 E Warner Rd
+Gilbert, AZ 85296",True,Gilbert,6,Fantastic Sams,33.335617,-111.758365,AZ,4.5
+598,1FhaKoigneVhlKFQll_ZGA,"7333 E Butherus Dr
+#B-100
+Scottsdale, AZ 85260",True,Scottsdale,4,Scottsdale Airport Autocare,33.622365,-111.92168400000001,AZ,5.0
+599,1FiymySkWsWxDNaUAP1LuQ,"7133 E Stetson Dr
+Scottsdale, AZ 85251",False,Scottsdale,24,Sea Saw,33.499499,-111.927402,AZ,4.5
+600,1FkRvL3fj2ERBoddXwanTQ,"1641 S Stapley Dr
+Mesa, AZ 85204",True,Mesa,5,Starbucks,33.384163,-111.803119,AZ,4.0
+601,1FmyMPP4o1TvTvo7Ngz73w,"14175 W Indian School Road
+Goodyear, AZ 85338",True,Goodyear,5,Nationwide Vision Centers,33.484439,-112.36421299999999,AZ,3.0
+602,1f_DXcxpAKfILKK6cDPLxQ,"1706 E Warner Rd
+Ste 3
+Tempe, AZ 85284",False,Tempe,21,Sign Of The Whale,33.334506,-111.967666,AZ,3.5
+603,1g1rzWxU-2PQqI0-9ajFsA,"9524 W Camelback Road
+Suite 130
+Glendale, AZ 85305",True,Glendale,6,Refined Nail & Spa,33.509035,-112.26466699999999,AZ,3.5
+604,1ggcLvWPBDWnp5MVTRnoRg,"3155 W Chandler Blvd
+Ste 9
+Chandler, AZ 85226",True,Chandler,89,Old Spaghetti Factory,33.305662,-111.897521,AZ,2.5
+605,1GGDWcH7hrr9wo7SPtEl_A,"2050 N Alma School Rd
+Chandler, AZ 85224",True,Chandler,17,Ace Hardware,33.336659000000004,-111.85910700000001,AZ,4.0
+606,1gM3AuckLVCPuG4uxrnB0Q,"25 N Robson
+Mesa, AZ 85201",True,Mesa,4,Regency Garden,33.415896999999994,-111.83648000000001,AZ,5.0
+607,1gwE7TFJ6lS55hSpEJdIMw,"3305 W Chandler Blvd
+Ste 7
+Chandler, AZ 85226",True,Chandler,8,Gemsetter & Company,33.305585,-111.900277,AZ,4.5
+608,1Gxrv_RFGCXRCBKPHmpXBA,"4849 E Elliot Rd
+Phoenix, AZ 85044",True,Phoenix,5,Regency Cleaners,33.348884999999996,-111.979141,AZ,2.5
+609,1GXycbqgmD9TfhQFoktSLg,"4400 N 32nd St
+Ste 110
+Phoenix, AZ 85018",True,Phoenix,3,Sunny View Medical Center,33.501076,-112.013329,AZ,5.0
+610,1hcGT6I1vAIH_pZuyud0HQ,"20235 N Cave Creek Rd
+Ste 111
+Phoenix, AZ 85024",True,Phoenix,3,Brickyard Sports Bar and Grill,33.669862,-112.030859,AZ,2.0
+611,1hgsmrezZ4IUMcdlYDEeOw,"4350 N 19th Ave
+Ste 7
+Phoenix, AZ 85015",True,Phoenix,3,"McRunels Steven B, DO",33.500246000000004,-112.100144,AZ,5.0
+612,1HNEj6kcEw369RX9Vlcixw,"1755 W Main St
+Mesa, AZ 85201",True,Mesa,10,Filiberto's Mexican Food,33.414682,-111.869777,AZ,3.5
+613,1HqmlbLCoFBEF_V77oJTnw,"321 W Indian School Rd
+Phoenix, AZ 85013",True,Phoenix,16,QuikTrip,33.494381,-112.07926100000002,AZ,4.5
+614,1hSfmvi1Q9leNc8N6NhfAA,"1624 E Deer Valley Rd
+Phoenix, AZ 85024",True,Phoenix,6,Boulder Falls Pet & Day Spa,33.688428,-112.047476,AZ,4.5
+615,1I6GcGj87JIVTjU4rc9G_Q,"18395 S 186th Way
+Ste 104
+Queen Creek, AZ 85142",True,Queen Creek,3,Az Grip-N-Rip Batting Cages,33.281954999999996,-111.680706,AZ,5.0
+616,1iBYi4hrT98opr6TIdGxdQ,"50 W Page Ave
+Gilbert, AZ 85233",True,Gilbert,26,Hale Center Theater,33.354960999999996,-111.790655,AZ,4.5
+617,1iJA5fYMDLjCE8PBrt4kMg,"3330 N 35th Avenue
+Phoenix, AZ 85017",True,Phoenix,4,Lunch Time Cafe,33.485627,-112.13434199999999,AZ,4.5
+618,1ilC91Hd9pZ5rhz32K2srg,"Spark Salon
+2501 W Happy Valley Rd
+Phoenix, AZ 85085",True,Phoenix,4,Beauty Secrets By Heather,33.711090999999996,-112.112277,AZ,5.0
+619,1Io-PtJ6Ml0xVkGptp2Osg,"Gilbert, AZ 85296",True,Gilbert,4,Phoenix Personal Shopper,33.33457,-111.738316,AZ,4.0
+620,1iP6SyuWpm_4E6Mx6zOS9A,"2501 N Central Ave
+Phoenix, AZ 85004",True,Phoenix,35,Ide Mania,33.475421000000004,-112.07338700000001,AZ,4.5
+621,1iPwf-E4e-hA3Td1QonzLQ,"23550 N 36th Ave
+Phoenix, AZ 85310",True,Phoenix,5,Agave Library,33.700466999999996,-112.13886200000002,AZ,3.5
+622,1It6q3SJ27pwWWCr7kih6w,"5410 N Scottsdale Rd
+Ste D 500
+Scottsdale, AZ 85253",True,Scottsdale,3,Reflections Laser Center & MedSpa,33.546,-111.96828000000001,AZ,5.0
+623,1IvtyFTivTl_HgQp92jA0g,"7530 W Bell Rd
+Glendale, AZ 85308",True,Glendale,5,AT&T,33.639683000000005,-112.21996899999999,AZ,3.5
+624,1iw4g7qcKua2-V06RQpyCw,"2355 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,4,Dagwoods,33.507165,-112.031869,AZ,3.0
+625,1iW4hsW9DW_lRng8E22xUg,"9425 West Bell Road
+Sun City, AZ 85351",True,Sun City,7,Barnet Dulaney Perkins Eye Center,33.637703,-112.26364,AZ,4.5
+626,1IYHp-9jQH5kf-Bnvh9wNg,"2751 W North Ln
+Phoenix, AZ 85051",True,Phoenix,3,Brake Masters,33.580812,-112.120347,AZ,3.5
+627,1J1iid_qU__8_CxiS2Zw4Q,"1457 W Southern Ave
+Mesa, AZ 85202",False,Mesa,5,Souper Salad,33.392514,-111.862526,AZ,3.0
+628,1J6fSg7Vd3gycjkqT7jW9Q,"1 E Washington St
+Phoenix, AZ 85004",False,Phoenix,16,Yogurtini,33.448327,-112.07357900000001,AZ,4.0
+629,1jKsbHOTMjUU5KVBAVaiAQ,"25 W University Dr
+Tempe, AZ 85281",True,Tempe,6,Chick Fil A,33.421496999999995,-111.940874,AZ,4.0
+630,1JtBZRcuyLnFn9pGmwMddg,"14202 N Scottsdale Rd
+Scottsdale, AZ 85254",False,Scottsdale,6,Ashley Furniture Home Store,33.615158,-111.926433,AZ,2.0
+631,1JWia6qssew3OgpAbt5s5A,"2440 W Ray Road
+Chandler, AZ 85224",True,Chandler,3,Back In Motion Family Chiropractic,33.32054,-111.883928,AZ,5.0
+632,1jXZJ3JUuR2SBFCv4vAJ_g,"348 N Stapley Dr
+Ste 1
+Mesa, AZ 85203",True,Mesa,10,Fudge Works,33.421723,-111.805673,AZ,4.5
+633,1jzi9o0J2dePrHwJslZisA,"Peoria, AZ 85345",True,Peoria,4,Costco,33.57047,-112.25032399999999,AZ,4.0
+634,1k54qahoejphHq0vSRLFfw,"7702 E Gray Rd
+Ste 2
+Scottsdale, AZ 85260",True,Scottsdale,5,Flora Bella,33.612867,-111.91446,AZ,4.0
+635,1KB6O0r-5mkQUynqUuOTlg,"5835 N 16th St
+Ste E
+Phoenix, AZ 85016",True,Phoenix,4,Mac Matters,33.523284000000004,-112.046904,AZ,5.0
+636,1Kkm56pwHgSUSQNhn9_hkw,"1107 E Bell Rd
+Ste 16
+Phoenix, AZ 85022",False,Phoenix,4,Bite Cafe & Bakery,33.639493,-112.057685,AZ,4.0
+637,1KlSeSwSD7V_8K5WEfBkDg,"722 E Western Ave
+Avondale, AZ 85323",True,Avondale,4,Avondale Service Center,33.435485,-112.341702,AZ,4.0
+638,1kMR_HUA8i-wYOJFZfLhBA,"2822 N 32nd St
+Ste 1
+Phoenix, AZ 85008",True,Phoenix,6,32nd Cafe,33.467062,-111.99506799999999,AZ,4.5
+639,1kPUkLq_3gMtX_HRwcF17A,"1450 N Litchfield Rd
+Goodyear, AZ 85338",True,Goodyear,16,Ulta,33.462747,-112.35822900000001,AZ,3.0
+640,1ksEqDWneqp8vn1m2zSueg,"3202 E Greenway Rd
+Ste 1289
+Phoenix, AZ 85032",True,Phoenix,30,Pho A.V,33.628108000000005,-112.01159299999999,AZ,4.5
+641,1l6dBf8GkQTShXvoH0Of-g,"1510 S Watson Rd
+Buckeye, AZ 85326",True,Buckeye,5,Subway,33.432435999999996,-112.556389,AZ,3.0
+642,1LJZUxAzf6EIvphl1wnj4A,"4421 S Jackrabbit Trl
+Buckeye, AZ 85326",True,Buckeye,4,Jackrabbit Nursery,33.4032,-112.47871799999999,AZ,5.0
+643,1lPG5M2N8wWNJMrricrbIw,"4930 W Bell Road
+Glendale, AZ 85308",False,Glendale,3,Marie Callender's Restaurants & Bakeries,33.639315,-112.16599599999999,AZ,2.5
+644,1lS4-F785wYGn6u2dzUgow,"7030 E Bella Vista Dr
+Cave Creek, AZ 85331",True,Cave Creek,26,Le Sans Souci Restaurant,33.82847,-111.928918,AZ,3.5
+645,1LSxfyNIUFbQb-Ej0FDGTw,"10214 N Metro Pkwy W
+Phoenix, AZ 85051",True,Phoenix,52,Mimi's Cafe,33.579194,-112.124086,AZ,3.0
+646,1M4oczf2lmkdgbrJ3J7OqA,"2502 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,154,Christopher's Restaurant/Crush Lounge,33.510207,-112.027204,AZ,3.5
+647,1MaS2GcEQY-VF22kjcqtpg,"4520 W Stoneman Dr
+Anthem, AZ 85086",True,Anthem,6,ProSkill Plumbing,33.865909,-112.155748,AZ,4.5
+648,1MDfrVkvxMKS06jPNPhLcA,"201 East Jefferson Street
+Phoenix, AZ 85004",True,Phoenix,8,Phoenix Mercury,33.4459,-112.071211,AZ,5.0
+649,1mhywrdsgdqJM3OGZIpVtA,"7295 E Stetson Dr
+Scottsdale, AZ 85251",False,Scottsdale,132,Martini Ranch,33.499444,-111.924241,AZ,3.5
+650,1MQmujTuU-3qPdoogdA8CQ,"5202 N Central Ave
+Phoenix, AZ 85012",True,Phoenix,42,Joyride Central,33.51315,-112.073765,AZ,4.0
+651,1mW7leYnV8aoNjWIy-idvQ,"5604 S Rocky Point Rd
+Tempe, AZ 85283",True,Tempe,5,Jacqueline Hanna Photography,33.372578000000004,-111.918074,AZ,5.0
+652,1mzM1-IeDhPOmWXaHOUbmw,"14535 W Grand Ave
+Surprise, AZ 85374",True,Surprise,3,Burger King,33.654958,-112.372095,AZ,4.5
+653,1N-JHg3TBXq8-Sx-vt6rdw,"7446 W Cactus Rd
+Peoria, AZ 85345",True,Peoria,3,Julioberto's,33.596227,-112.21890800000001,AZ,3.5
+654,1n1fnITYvF-539rAL6nhTQ,"10405 E McDowell Mountain Ranch Rd
+Scottsdale, AZ 85255",False,Scottsdale,6,Sclafani's Famous Pizza,33.626989,-111.855727,AZ,3.0
+655,1NaZwcqsrIPe0gVneeYASQ,"15425 N Scottsdale Rd
+Scottsdale, AZ 85260",False,Scottsdale,29,The Sweet Tooth Fairy,33.626109,-111.92459099999999,AZ,3.5
+656,1NferxQuGCPNBPVRBbdLpg,"125 W Main St
+Mesa, AZ 85201",True,Mesa,84,Queens Pizzeria and Cafe,33.414929,-111.83496399999999,AZ,4.0
+657,1NFSCyA7Of5RX6fH8VESDw,"25829  N 41st Dr
+Phoenix, AZ 85083",True,Phoenix,3,Expert Assistants,33.721336,-112.149133,AZ,5.0
+658,1Nge1ObX93-y1AoXONt34A,"1445 W Elliot Rd
+Tempe, AZ 85284",True,Tempe,7,Costco Wholesale,33.347289,-111.96186200000001,AZ,5.0
+659,1nhug_rhFFtF9D61X_EVBg,"2421 E Northern Ave
+Phoenix, AZ 85021",True,Phoenix,26,Dreamy Draw Recreation Area,33.560427000000004,-112.03116200000001,AZ,4.5
+660,1nq6zzJuVgwaHtXau97_Iw,"122 N 16th St
+Phoenix, AZ 85034",True,Phoenix,17,Asadero Norte De Sonora,33.450057,-112.04794199999999,AZ,4.5
+661,1NSbVxzHYnCzd_VRad_0Lw,"12228 N Cave Creek Road
+Phoenix, AZ 85022",True,Phoenix,11,Biagio Nail & Spa,33.597879,-112.037476,AZ,4.0
+662,1nsxori657cAx2hiyYb4rA,"1900 E McDowell Rd
+Phoenix, AZ 85006",True,Phoenix,6,El Ranchero Mexican Restaurant,33.465922,-112.041031,AZ,4.0
+663,1nY-lJk_KRLge3AR9Xv_bA,"15147 N Scottsdale Rd
+Ste H-170
+Scottsdale, AZ 85260",False,Scottsdale,3,giggle,33.601973,-111.88792,AZ,2.5
+664,1nyX5dTwS4Ymi2GnfFtIIw,"4401 S 7th Ave
+Phoenix, AZ 85041",True,Phoenix,5,Circle K Stores,33.406345,-112.081621,AZ,3.0
+665,1NZLxU5WvB5roPFzneAlLw,"2814 N 16th St
+Phoenix, AZ 85006",True,Phoenix,513,Barrio Caf?,33.478848,-112.047822,AZ,4.0
+666,1o7rZUpwTU1Eg2oL_l7oTA,"15630 N Scottsdale Road
+Scottsdale, AZ 85254",True,Scottsdale,3,Thomasville Home Furnishings of Scottsdale,33.628884,-111.92629099999999,AZ,1.0
+667,1OA1jo0GlK9sf68f00w8ZQ,"920 E Playa Del Norte
+Tempe, AZ 85281",True,Tempe,182,In-N-Out Burger,33.435289000000004,-111.924898,AZ,4.0
+668,1Od4aLvzdThBjhKA1o0_2g,"1995 N Arizona Ave
+Chandler, AZ 85286",True,Chandler,4,Quick Trip,33.276501,-111.84178899999999,AZ,4.5
+669,1oFvqm7eSpJbVpxpPxueaA,"16091 North Arrowhead Fountains Center Drive
+Peoria, AZ 85382",True,Peoria,61,Buca di Beppo,33.632441,-112.236796,AZ,3.0
+670,1OigyqVxIfE6AGKNGWZjnw,"4617 E Bell Rd
+Phoenix, AZ 85032",True,Phoenix,24,Walmart Supercenter,33.639035,-111.98173100000001,AZ,2.5
+671,1ojDBw2DJEDu14cZxnR_JQ,"1840 W Southern Ave
+Ste 13
+Mesa, AZ 85202",True,Mesa,19,Shirts 'n' Things,33.393595,-111.871082,AZ,4.5
+672,1oNx09HgV8c6KCHdPsn_Iw,"1811 N 24th St
+Ste E
+Phoenix, AZ 85006",True,Phoenix,3,Mi Tienda Latina,33.467517,-112.029614,AZ,4.0
+673,1OO3fy6z5lxlRuHnnhPStg,"3202 E Greenway Rd
+Ste 1611
+Phoenix, AZ 85032",True,Phoenix,33,Best of Europe Meats & Deli,33.62121,-112.00303000000001,AZ,5.0
+674,1OofU2yrTZMes1iJUo5pcA,"156 E Santa Cruz Dr
+Tempe, AZ 85282",True,Tempe,6,Cheshire Cat Pest & Termite Control,33.387204,-111.935773,AZ,4.5
+675,1OPwAPOYKkeG3eyZbt1W3Q,"1118 E Missouri Ave
+Ste B-2
+Phoenix, AZ 85014",True,Phoenix,3,Samuel Kelsall IV Law Offices,33.516515999999996,-112.05779,AZ,4.5
+676,1P8Yy8s5h2TK_SbweAz4TQ,"1350 S Gilbert Road
+Mesa, AZ 85204",False,Mesa,3,Deseret Book,33.391895,-111.788426,AZ,4.5
+677,1PaH4t64MN_MFAaM53ra6A,"17222 N Black Canyon Hwy
+Phoenix, AZ 85053",True,Phoenix,4,Red Roof Inns,33.642799,-112.11588200000001,AZ,4.5
+678,1PcG-b2oT_qNy_3XjazD2w,"1414 N Scottsdale Rd
+Scottsdale, AZ 85250",True,Scottsdale,12,Korean Restaurant,33.464374,-111.92754599999999,AZ,2.5
+679,1pfpNNcX0W8PXTUUHjD-1g,"21840 N 20th St
+Phoenix, AZ 85024",False,Phoenix,3,All Over Towing,33.685871999999996,-112.041002,AZ,5.0
+680,1pGC-0jvQ6vN5rzmCHjmfg,"2000 E Rio Salado Pkwy
+Tempe, AZ 85281",True,Tempe,117,Harkins Cine Capri At Tempe Marketplace,33.432972,-111.904303,AZ,4.0
+681,1pj_DSApk5gHwdSWXcTRBA,"9380 N 90th St
+Scottsdale, AZ 85258",True,Scottsdale,3,Fry's Gas,33.570947,-111.8876,AZ,3.0
+682,1PWBVeIGZSdLdabs_5HUCg,"6070 W. Bell Road
+Suite A-111
+Glendale, AZ 85308",True,Glendale,5,Cox Residential Digital Solutions Store,33.639008000000004,-112.190169,AZ,3.0
+683,1Q1hrAxT2X3lgxDLBOLEQA,"8378 W Thunderbird Rd
+Peoria, AZ 85381",True,Peoria,70,Kabuki Sushi & Grill,33.611059000000004,-112.240039,AZ,4.0
+684,1q3_gaDp_rIASuCFK_NVGg,"5128 S Rural Rd
+Tempe, AZ 85282",False,Tempe,3,Hogi Yogi,33.378522,-111.928671,AZ,3.0
+685,1QNkTUtdi2yksBhxPpFV4A,"4701 W Thunderbird Rd
+Glendale, AZ 85306",True,Glendale,10,Arizona State University West Campus,33.607984,-112.15985800000001,AZ,4.5
+686,1qqGjQ2PhLSuDi3FwPSZdg,"6107 N Scottsdale Rd
+Ste 103
+Scottsdale, AZ 85250",True,Scottsdale,16,Kalologie 360 Spa,33.525089,-111.925331,AZ,4.0
+687,1qQqEYeXNm821sVJHj4TAw,"20100 N 51st Ave
+Ste  E 540
+Glendale, AZ 85308",True,Glendale,3,"Kristena L Malmgren,CPA",33.66729,-112.16958600000001,AZ,5.0
+688,1qw1cml6wPSza3v_PIse1Q,"3033 N Scottsdale Rd
+Scottsdale, AZ 85251",True,Scottsdale,7,U-Haul Co,33.482915000000006,-111.925683,AZ,3.0
+689,1QxI2IP3XfndDAY8nyZVPg,"15169 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,93,Apple Store,33.623913,-111.92513400000001,AZ,3.5
+690,1Q_H3BLhKBymF6Se8FfZNw,"Inside Hyatt Regency
+7500 E Doubletree Ranch Rd
+Scottsdale, AZ 85258",True,Scottsdale,45,Alto Ristorante e Bar,33.567037,-111.918465,AZ,4.0
+691,1rdEcwDIsb7j5RhqE2oZhQ,"4000 N Central Ave
+Phoenix, AZ 85012",True,Phoenix,5,Sports Club At City Square,33.492492999999996,-112.07517,AZ,2.0
+692,1rETN3Q-TZuXVKKdV7izlQ,"9494 W Northern Ave Ste 112
+Glendale, AZ 85305",True,Glendale,5,Scrubs & Beyond,33.551635,-112.263221,AZ,3.5
+693,1rupcK8K0yUtSXizc2gTow,"7700 W Arrowhead Towne Center
+Glendale, AZ 85308",True,Glendale,3,T-Mobile,33.639790999999995,-112.224556,AZ,3.5
+694,1rzofyap0XkxL5nEfbTVPw,"4206 E Chandler Blvd
+Ste 9
+Phoenix, AZ 85048",False,Phoenix,4,Emerald City Smoothies,33.305838,-111.99270600000001,AZ,5.0
+695,1s8nmET77Bm7nXVp62kcSA,"22402 S. Basha Rd
+Chandler, AZ 85225",True,Chandler,6,Bashas Art Gallery,33.243555,-111.859284,AZ,4.5
+696,1sacSjgDNAj8SPvxLo4Efw,"1890 W Germann Rd
+Chandler, AZ 85286",False,Chandler,17,Rancho de Tia Rosa,33.276274,-111.87502099999999,AZ,3.0
+697,1sdIDMz5ntCHrClzCgjgJA,"3120 W Carefree Hwy
+Phoenix, AZ 85086",True,Phoenix,5,Subway,33.799774,-112.12626100000001,AZ,3.0
+698,1sEn8LoHyKBhST9pGrDpuA,"Steven Paul Salon
+7045 E 3rd Ave
+Scottsdale, AZ 85251",True,Scottsdale,3,Jacqueline Weinstein,33.4961,-111.929344,AZ,3.5
+699,1sje-96tofVSip2ed3OWdA,"1628 S Signal Butte Rd
+Mesa, AZ 85209",True,Mesa,11,Best Buy,33.384935,-111.601854,AZ,2.5
+700,1sNa5oW9ZYX8MbMFkx9LzQ,"7000 E Shea Blvd
+Scottsdale, AZ 85254",True,Scottsdale,134,Jasmine Tokyo,33.582671000000005,-111.929119,AZ,4.0
+701,1sNep66xroh2ILUrDv9BxA,"2120 W Guadalupe Rd
+Mesa, AZ 85202",True,Mesa,19,O' Kelly's,33.364582,-111.87938999999999,AZ,3.5
+702,1svyifERkfuuz02lbeK2dA,"5905 W Bell Rd
+Glendale, AZ 85308",False,Glendale,7,Great Wall Buffet,33.637417,-112.18753899999999,AZ,2.5
+703,1TB4WNBOdNQkueagIUh_FA,"20229 N 67th Ave
+Glendale, AZ 85308",True,Glendale,7,Samurai Sam's Teriyaki Grill,33.670567999999996,-112.20173600000001,AZ,3.5
+704,1Te7UEnwH2GMyQk2gCo2hQ,"865 N Gilbert Rd
+Ste 101
+Gilbert, AZ 85234",True,Gilbert,27,Good Donuts,33.365896,-111.789565,AZ,5.0
+705,1TJItj9VfrCeh4TM_SKQZg,"1100 N Estrella Pkwy
+Goodyear, AZ 85338",True,Goodyear,3,McDonald's,33.458953,-112.39269399999999,AZ,1.0
+706,1TK6VbNcI-vvcNXbAgydew,"2040 E Baseline Rd
+Phoenix, AZ 85042",True,Phoenix,5,Ross Store,33.377843,-112.038427,AZ,2.5
+707,1TQuJ6UK8t4FDMG5lgVUzw,"4700 N Central Ave
+Ste 121
+Phoenix, AZ 85012",True,Phoenix,3,"Vintage Fashion, Inc",33.506208,-112.07391399999999,AZ,4.5
+708,1txrkesd2yFYiwjcSFzRpA,"7665 W Bell Road
+Peoria, AZ 85382",True,Peoria,10,Ulta Salon Cosmetics & Fragrance,33.6503,-112.2481,AZ,3.0
+709,1TZ3B22tC1oPEVztCYZhCQ,"2738 W Peoria Ave
+Phoenix, AZ 85029",True,Phoenix,4,Party City,33.582156,-112.120318,AZ,5.0
+710,1UdCdMWYrcXlYUNtwrDeTg,"3275 S Market St
+Gilbert, AZ 85297",True,Gilbert,16,Hyatt Place,33.292232,-111.751398,AZ,4.0
+711,1udzLbeQxmLTbOtgyVP0kQ,"3015 E Thomas Rd
+Ste 101
+Phoenix, AZ 85016",True,Phoenix,44,Gojo Ethiopian Restaurant,33.479605,-112.016481,AZ,4.0
+712,1ulwCamdqoX-SdMTcOhHDw,"Heard Museum
+2301 N Central Ave
+Phoenix, AZ 85004",True,Phoenix,16,The Courtyard Cafe,33.472434,-112.072519,AZ,4.5
+713,1USCUUAKCBr6YES7XtAf_g,"885 West Warner Road
+Gilbert, AZ 85233",True,Gilbert,3,Taco Bell,33.334838,-111.80913799999999,AZ,3.0
+714,1UXockAOf9jZnHuMjYiA-g,"1805 E Baseline Rd
+Ste 101
+Tempe, AZ 85283",True,Tempe,5,Valley Ace Hardware,33.378277000000004,-111.907701,AZ,3.0
+715,1UydNTqQQ-qo8l9JTg_b9w,"5000 S Arizona Mills Cir
+Tempe, AZ 85282",True,Tempe,4,Ross Stores,33.385284999999996,-111.96455800000001,AZ,3.0
+716,1uyO5N9eQOIsBRS4D5GTcA,"9744 W Northern Ave
+Ste 1330
+Peoria, AZ 85345",True,Peoria,6,Dogs Etc,33.553106,-112.26913700000001,AZ,5.0
+717,1U__JyhW9eiZ2z4djki1WA,"5025 N Central Ave
+Phoenix, AZ 85012",True,Phoenix,7,The UPS Store,33.509696000000005,-112.07366699999999,AZ,2.5
+718,1v5Z101rbtRumsQTcm-GfQ,"10603 W Olive Ave
+Peoria, AZ 85345",True,Peoria,11,IHOP,33.565490999999994,-112.28728100000001,AZ,3.0
+719,1V8f3A7p3HV2r0BgAbqvaw,"22601 E Cloud Rd
+Queen Creek, AZ 85242",True,Queen Creek,77,Schnepf Farms,33.223783000000005,-111.59601,AZ,3.5
+720,1vFDFWDrlVSDEcuLTUD3oQ,"4976 Premium Outlets Way
+Chandler, AZ 85226",True,Chandler,47,Phoenix Premium Outlets,33.287804,-111.973525,AZ,3.5
+721,1vFZmdUrQKb4Q3OVJoxdVQ,"7101 E Thunderbird Rd
+Ste 104
+Scottsdale, AZ 85254",True,Scottsdale,5,The Paw Wash Grooming,33.610963,-111.92756100000001,AZ,5.0
+722,1vl4-5il_LGtDRxUCy9ldw,"1515 N 7th Ave
+Ste 170
+Phoenix, AZ 85003",True,Phoenix,153,Vovomeena,33.4657,-112.08226599999999,AZ,4.0
+723,1vYaGPKQzMebBJXFCGTH2g,"24 W Camelback Rd
+Ste H
+Phoenix, AZ 85013",True,Phoenix,50,The Prime Chinese Restaurant,33.509651,-112.075703,AZ,4.0
+724,1WB2bNlRBqpmgHNBm3hixg,"6037 E McDowell Rd.
+Mesa, AZ 85215",True,Mesa,6,Recker-McDowell KinderCare,33.465799,-111.700616,AZ,4.5
+725,1WekdXpu2lJveRXqvdS1kA,"4225 N 7th Ave
+Phoenix, AZ 85013",True,Phoenix,6,EXPOSED Studio & Gallery,33.497609000000004,-112.083326,AZ,4.5
+726,1wMVNdQKotnWI81xW-ZUcA,"10220 W McDowell Rd
+Avondale, AZ 85392",True,Avondale,31,Yogurtland,33.4647,-112.279977,AZ,4.5
+727,1WTH8nYiGOMUe32q7WDx7Q,"16233 N. 83rd Avenue
+Peoria, AZ 85382",True,Peoria,31,Red Robin Gourmet Burgers,33.634646999999994,-112.233717,AZ,3.0
+728,1WUxcJDtvGgGUqsFMqJ5vg,"2929 W Frye Rd
+Chandler, AZ 85224",True,Chandler,16,Hilton Phoenix Chandler,33.29809,-111.892095,AZ,4.0
+729,1WZ-rmm7WFajdd4wm_bZvQ,"14445 W Grand Avenue
+Surprise, AZ 85374",True,Surprise,4,Toor Chevron,33.653932,-112.37121,AZ,3.0
+730,1WZi3bBMy20SEd5lnlbG4A,"5700 E McDonald Dr
+Scottsdale, AZ 85253",True,Scottsdale,35,Sanctuary Spa,33.546,-111.96828000000001,AZ,4.0
+731,1X8duKkbZmyfB4r_yWwLoQ,"12751 W Bell Rd Ste 3
+Surprise, AZ 85374",True,Surprise,4,Crossroads Towne Center Animal Hospital,33.638584,-112.35546299999999,AZ,3.5
+732,1xGhmD8-UjoRbGcBqkc6cA,"444 N Pinal Pkwy
+Florence, AZ 85232",True,Florence,30,Mount Athos Restaurant and Cafe,33.035821,-111.37939399999999,AZ,4.0
+733,1XiG4o4edRcoBcIrP209yg,"334 N 25th Ave
+Phoenix, AZ 85009",True,Phoenix,34,Old World Brewery,33.452284000000006,-112.11356699999999,AZ,3.5
+734,1XiUlZuB1LhIAXXXOQFTFA,"21220 North 23rd Avenue
+Phoenix, AZ 85027",True,Phoenix,3,Deer Valley Regency Apartment Homes,33.678973,-112.108733,AZ,2.5
+735,1xJ4BikDX8PwWT3XeKzGLA,"9617 N Metro Pkwy W
+Ste 2024
+Phoenix, AZ 85051",True,Phoenix,3,Hibachi-San,33.573646999999994,-112.12468899999999,AZ,3.5
+736,1xoySA9Lzh3lwJeWJsq2Jg,"2760 E Baseline Rd
+Phoenix, AZ 85042",True,Phoenix,23,Summers Fruit Barn,33.378177,-112.02206299999999,AZ,4.0
+737,1xu5wFd0TeBg6xNBiRtknw,"1025 E Camelback Rd
+Phoenix, AZ 85014",False,Phoenix,22,Dolce Espresso Video Coffee Bar,33.509209000000006,-112.05948799999999,AZ,4.0
+738,1XXGV_HvIHLC2C1mJUFv0Q,"Scottsdale Quarter
+15037 Scottsdale Rd, Ste J-195
+Scottsdale, AZ 85260",True,Scottsdale,133,TK's Urban Tavern,33.623437,-111.924623,AZ,3.5
+739,1xZ3QLOT3CotkPBDvkyq3Q,"6929 N Hayden Rd
+Ste C4
+Scottsdale, AZ 85250",True,Scottsdale,3,The UPS Store,33.537308,-111.90853999999999,AZ,5.0
+740,1y2ogttb_TL16XZtwMpJVg,"20301 N Hayden Rd
+Ste 100
+Scottsdale, AZ 85255",True,Scottsdale,4,Optics of Scottsdale,33.67114,-111.907275,AZ,5.0
+741,1Y4_Th_NFqrlGjysS1T3_A,"6736 E Baseline Rd
+Ste107
+Mesa, AZ 85206",True,Mesa,6,Honey Baked Ham,33.379801,-111.688649,AZ,3.0
+742,1Ykx1mQYmvJOmgZmSl_x_w,"Vesuvio Studios
+930 E Warner Rd, Ste 17
+Chandler, AZ 85225",False,Chandler,4,GlamSkin,33.335765,-111.82673100000001,AZ,5.0
+743,1yu0qoB0jgN-PADZX92RoA,"21170 N 83rd Ave
+Peoria, AZ 85382",True,Peoria,18,Challenger Space Center,33.675885,-112.237796,AZ,2.5
+744,1YYy56iVwF60VeAeqKrFNw,"2939 N 16th St
+Phoenix, AZ 85016",True,Phoenix,5,Catalina Sports Bar & Grill,33.481634,-112.04746499999999,AZ,4.0
+745,1Z-_DX5cfBpC_llNQi9Y_A,"1950 N Gilbert Rd
+Mesa, AZ 85203",True,Mesa,9,Gunnell's Tire & Auto,33.450943,-111.788182,AZ,4.5
+746,1Z7zJXHTdZMUJ6boEKJ_Kw,"9950 S Rural Rd
+Tempe, AZ 85284",True,Tempe,4,Jiffy Lube,33.322399,-111.92821699999999,AZ,2.0
+747,1z8GEz_Gr7qeBBuMp42WBQ,"4302 E. Ray Rd.
+Phoenix, AZ 85044",True,Phoenix,10,Jamba Juice,33.320652,-111.991395,AZ,4.0
+748,1zcJe2LkMzcfiBEkJ3niTQ,"1998 E University Dr
+Tempe, AZ 85281",True,Tempe,6,Kelly Paper Store,33.422540000000005,-111.90093799999998,AZ,4.5
+749,1zDCfNgtfyh-Uw8j3JxhHA,"1340 E Broadway Rd
+Tempe, AZ 85282",True,Tempe,72,Los Favoritos Tacos Shop,33.40829,-111.91618700000001,AZ,4.0
+750,1zdwPAgiJFJhPeS3YIY09Q,"9015 E Via Linda
+Scottsdale, AZ 85258",False,Scottsdale,15,Aladdin's Kitchen,33.568758,-111.88643700000002,AZ,4.5
+751,1zE2r1_CP0b8sz8nWYiSCg,"707 E Carefree Hwy
+Phoenix, AZ 85085",True,Phoenix,3,Discount Tire,33.799013,-112.06513000000001,AZ,4.5
+752,1ZFyba-Iy3TmTbH0y9Sevg,"4501 W Van Buren
+Phoenix, AZ 85043",True,Phoenix,8,Burgers Amore,33.451127,-112.156842,AZ,3.5
+753,1zIOF6DwEqZx-tBI35UXDw,"1070 E Ray Road
+Chandler, AZ 85225",True,Chandler,3,Nail of the World,33.321490999999995,-111.82143,AZ,2.5
+754,1zK6sQSyZlPJpzefjA-GHg,"1015 Baseline Road
+Gilbert, AZ 85233",True,Gilbert,6,Petco,33.37766,-111.809556,AZ,3.5
+755,1zM7busmXUfYrbNiIHIcuw,"16001 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,64,CrackerJax,33.630455,-111.923813,AZ,3.0
+756,1zPhQ3_jdmQTn9_--IbYLQ,"3751 S Clubhouse Dr
+Chandler, AZ 85248",True,Chandler,16,Ocotillo Golf Resort & Bernard's Fine Dining,33.25107,-111.870883,AZ,4.5
+757,1ZrdZA3vqoILZ8DQU0BJPA,"7014 East Camelback Road
+Scottsdale, AZ 85251",True,Scottsdale,3,Madewell,33.502509,-111.929023,AZ,4.5
+758,1_43FZHx3P5D7X-CpIR9WA,"2501 West Happy Valley Road
+Phoenix, AZ 85058",True,Phoenix,41,Jersey Mike's,33.711090999999996,-112.112277,AZ,4.0
+759,1_BZ-mQoPyGWjltb3B1M7Q,"8980 E Indian Bend Rd
+Scottsdale, AZ 85250",True,Scottsdale,7,Michaels Arts & Crafts,33.54052,-111.887147,AZ,4.0
+760,1_EtLOR6MvjabkGFmNbQRg,"6935 N 10th St
+Phoenix, AZ 85014",False,Phoenix,12,Jewel's Cupcakes,33.537649,-112.060401,AZ,5.0
+761,1_hehqhtdcsYiBQ9rkwDzg,"1565 W Happy Valley Rd
+Phoenix, AZ 85085",True,Phoenix,9,Goodwill of Central Arizona,33.712396000000005,-112.093073,AZ,3.5
+762,1_JEa6MI0xl_wlY4gqMHqw,"3945 E Camelback Rd
+Phoenix, AZ 85018",True,Phoenix,24,Giant Rustic Pizza,33.509688,-111.99552299999999,AZ,4.0
+763,1_qBaoEcCZrl2tIzNdRAkQ,"9735 W Happy Valley Rd
+Peoria, AZ 85383",True,Peoria,10,Discount Tire,33.710608,-112.26798000000001,AZ,4.0
+764,1_siFXaQbxck3tiKRwnq7Q,"315 W Elliot Rd
+Ste 107
+Tempe, AZ 85284",True,Tempe,110,AZ Bread Company,33.348763,-111.944351,AZ,4.0
+765,1_WD7kvNQAbscw1c7CFH3A,"Phoenix, AZ 85004",True,Phoenix,55,Hey Joe! Filipino Street Food Truck,33.452829,-112.068503,AZ,4.0
+766,204_6ZlNOdPEYzSzZtoG4Q,"1720 E Warner Rd
+Ste 8
+Tempe, AZ 85284",True,Tempe,15,Golden Feet Reflexology,33.33531,-111.91245500000001,AZ,4.5
+767,20h9Q1ReVmsIyE7-IAVKcg,"6131 N 16th St
+Phoenix, AZ 85016",True,Phoenix,3,Mission Palms Apartments,33.526346999999994,-112.047126,AZ,1.0
+768,20rvtW6moryYCD_2iogQ8w,"4041 N Central Ave
+Phoenix, AZ 85012",True,Phoenix,3,Zoom Espresso,33.493377,-112.07371200000001,AZ,2.0
+769,20scqMi4o-b5ZaEBIGIewQ,"6302 E Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,6,Scottsdale Camelback Resort,33.502915,-111.945866,AZ,3.0
+770,211DetkFdxd8sQ54CMU35A,"2000 E Rio Salado Pkwy
+Ste 1155
+Tempe, AZ 85281",True,Tempe,60,Smashburger,33.432972,-111.904303,AZ,4.0
+771,21yMkDG8nN2nANLVjIO4-w,"10220 North Metro Parkway East
+Phoenix, AZ 85051",False,Phoenix,17,Four Points by Sheraton Phoenix North,33.579389,-112.119551,AZ,2.0
+772,22K8kQzK4UtLwQAwOCf0MA,"1500 N Priest Dr
+Tempe, AZ 85281",True,Tempe,3,Papago's Cafe Grill & Deli,33.44466,-111.956078,AZ,1.5
+773,22s5idshuEIPlEcf1ObbMg,"3380 N Hayden Rd
+Scottsdale, AZ 85251",True,Scottsdale,8,Carl's Jr.,33.486702,-111.90941699999999,AZ,3.0
+774,22v7DxfaXXFZWjVdrvOyww,"81 W Boston St
+Chandler, AZ 85225",True,Chandler,13,di Sciacca,33.302046999999995,-111.84239699999999,AZ,4.5
+775,23g7ZqhFgmvJzYcYX27ZGA,"2970 E Germann Rd
+Chandler, AZ 85286",True,Chandler,24,Paradise Bakery & Cafe,33.220295,-111.867508,AZ,3.5
+776,23sB_DG-bQO3luNlZ-vi4g,"4032 N Miller Rd
+Ste 106
+Scottsdale, AZ 85251",True,Scottsdale,33,Flora Unique Florist,33.494362,-111.917498,AZ,5.0
+777,23ZdJdkJVf01a_YGEH5wCg,"5000 S Arizona Mills Cir # 108
+Arizona Mills
+Tempe, AZ 85282",True,Tempe,3,MasterCuts,33.379833000000005,-111.96711499999999,AZ,2.5
+778,24500Pt1lFmpXgDkXKeEOA,"3075 S Alma School Road
+Chandler, AZ 85248",True,Chandler,3,Bank of America,33.261403,-111.85785800000001,AZ,1.5
+779,24AmaxBpVAdhY_-R7czeSw,"1355 S Higley Rd #102
+Gilbert, AZ 85296",True,Gilbert,6,Pivonka Family Chiropractic,33.325169,-111.720554,AZ,5.0
+780,24dWo4xMrxlYMVdsbQSUsQ,"1303 S Longmore
+Ste 1
+Mesa, AZ 85202",True,Mesa,3,Kidtastic Pediatric Dental and Orthodontics,33.391276,-111.863252,AZ,3.5
+781,24g1ECQgdTw3BHokYCFWZA,"109 E 2nd St
+Casa Grande, AZ 85122",False,Casa Grande,4,Casa Grande Steakhouse,32.876847999999995,-111.75346100000002,AZ,2.5
+782,24OmQWFTnbfGv-e8GyEMAw,"10625 N Tatum Blvd
+Phoenix, AZ 85028",True,Phoenix,111,Z'Tejas Grill,33.583445000000005,-111.977019,AZ,4.0
+783,24qSrF_XOrvaHDBy-gLIQg,"2119 E Camelback Rd
+Phoenix, AZ 85016",False,Phoenix,149,Baby Kay's Cajun Kitchen,33.509275,-112.03647600000001,AZ,4.0
+784,24V8QQWO6VaVggHdxjQQ_A,"7014 E 1st Ave
+Scottsdale, AZ 85251",True,Scottsdale,229,Arcadia Farms Cafe,33.494246999999994,-111.92975,AZ,4.0
+785,24XXd1EuvUswXG--qS5U5g,"9030 E Indian Bend Rd
+Scottsdale, AZ 85250",True,Scottsdale,5,Pavilions Auto Care,33.538577000000004,-111.886002,AZ,5.0
+786,250I2C80JTgVwE23IPylHQ,"601 N Arizona Ave
+Chandler, AZ 85225",True,Chandler,55,Moreno's Mexican Grill,33.313553999999996,-111.84121299999998,AZ,4.0
+787,25JT5gNeZ782lP1cHTbKFg,"3400 E Sky Harbor Blvd
+Phoenix, AZ 85034",True,Phoenix,60,Modern Burger,33.435463,-112.00698899999999,AZ,3.5
+788,26DWDgTLuo4qhDbLDJHIdg,"7030 E Greenway Pkwy
+Scottsdale, AZ 85254",True,Scottsdale,13,Barnes & Noble,33.623358,-111.928648,AZ,3.5
+789,26lmX9J5YUKUtRd31L_x6g,"3907 N Scottsdale Rd
+Scottsdale, AZ 85251",True,Scottsdale,4,Republic Rare Coins,33.492861,-111.925978,AZ,2.0
+790,26m1rBWDr6M1AjwUTPkxfg,"7350 E Gold Dust Ave
+Scottsdale, AZ 85258",True,Scottsdale,4,Holiday Inn Express Scottsdale North,33.578536,-111.923602,AZ,4.0
+791,274DgOpS524g_tzcfaKYog,"1500 W Warner Rd
+Gilbert, AZ 85233",True,Gilbert,3,Goodwill of Central Arizona,33.336102000000004,-111.82288500000001,AZ,3.5
+792,27c3tkF8LVvhQutBfIS1OA,"18832 N  68th Ave
+Glendale, AZ 85308",True,Glendale,5,Crazy Shotz Photo Booth Rentals,33.655159000000005,-112.204982,AZ,5.0
+793,27hfvE5DcOY3J1-MWbTU9Q,"6730 E Thomas Road
+Scottsdale, AZ 85251",True,Scottsdale,21,Streets of New York,33.480274,-111.936152,AZ,3.5
+794,27wUPekU-ZxW3Xy9bb4jNg,"13000 W Indian School Rd
+Litchfield Park, AZ 85340",True,Litchfield Park,8,Embassy Tanning Salon,33.494663,-112.338095,AZ,4.0
+795,28-2Guqn4HpomlYlJ5UoZw,"15223 N 87th St
+Ste 110
+Scottsdale, AZ 85260",True,Scottsdale,17,Statclinix Urgent Care and Rehabilitation,33.622885,-111.892054,AZ,3.0
+796,28rwOFllr-sJs3UQKkx1Bg,"20401 S Sossaman Rd
+Queen Creek, AZ 85242",False,Queen Creek,4,A Country Place Mexican Food,33.262752,-111.66857399999999,AZ,4.0
+797,28ycqW56i70yM_C0ejNv9w,"2330 N Alma School Rd
+Ste 118
+Chandler, AZ 85224",True,Chandler,73,Tien Wong Hot Pot,33.33985,-111.86000200000001,AZ,4.0
+798,2931xTaxhM1NbU0pL27Yyw,"7144 E Stetson Dr
+Ste 100
+Scottsdale, AZ 85251",False,Scottsdale,3,Studio Joy Li,33.499528000000005,-111.927598,AZ,5.0
+799,29hR24tcAM3JZaXfA5xCxQ,"The Westin Kierland Resort & Spa
+6902 E Greenway Pkwy
+Scottsdale, AZ 85254",True,Scottsdale,113,deseo,33.607183,-111.940325,AZ,4.5
+800,29ub4twRqgmWb5iMosV4ig,"16741 N Greasewood Street
+Surprise, AZ 85374",True,Surprise,4,Quality Inn & Suites,33.637015999999996,-112.32907800000001,AZ,4.0
+801,2a-GOytQbxt8wim9VuHWsA,"16835 E Shea Blvd
+Ste 103B
+Fountain Hills, AZ 85268",True,Fountain Hills,5,Ross Dress For Less,33.603359999999995,-111.73062,AZ,3.0
+802,2a-RVYQA7eIsyxcUbnFXsA,"2526 W Glendale Ave
+Phoenix, AZ 85051",True,Phoenix,7,Japanese Auto Pro's,33.538852,-112.11381200000001,AZ,4.0
+803,2A1fIfwGvBmLhPRwRGjRXg,"8952 E Desert Cove
+Ste 108
+Scottsdale, AZ 85260",True,Scottsdale,4,Studio B Smiles,33.585755,-111.88859199999999,AZ,4.0
+804,2a4wMeWkUcS2Qlx47_iQ-Q,"9380 W Westgate Blvd
+Ste D101
+Glendale, AZ 85305",True,Glendale,57,Mama Gina's,33.534362,-112.261315,AZ,2.5
+805,2AAmXgQPOrn_UiVdUG5YiQ,"5011 E Elliot Rd
+Phoenix, AZ 85044",True,Phoenix,3,My Resort Tanning & Spa,33.348876000000004,-111.978024,AZ,3.5
+806,2aaWJ6idz1W-cabw4znv0w,"16406 N Cave Creek Rd
+Phoenix, AZ 85032",True,Phoenix,3,Sumit Laundromat,33.635349,-112.031072,AZ,3.5
+807,2ACllAGN__ceWI3VS6vDSQ,"1130 E McDowell Rd
+Phoenix, AZ 85006",True,Phoenix,4,Fresh Start Women's Resource Center,33.465756,-112.057185,AZ,4.5
+808,2agDSZF593OlXDj7SZtVxw,"4300 N Miller Rd
+Ste 103
+Scottsdale, AZ 85251",True,Scottsdale,3,Michele's Massage And  Aesthetics LLC,33.498012,-111.91826200000001,AZ,5.0
+809,2AWFQ2h-lLtITcvWk7fleg,"7339 E Paradise Ln
+Scottsdale, AZ 85260",True,Scottsdale,24,Motor Vehicle Division,33.632542,-111.92114699999999,AZ,3.5
+810,2B0pIRjAt64mFMV-2ZRCfg,"1521 W Camelback Rd
+Phoenix, AZ 85015",False,Phoenix,3,Arby's Roast Beef,33.509463000000004,-112.092102,AZ,2.5
+811,2b3PJCEQLmioiAhoMXs2hw,"3128 E Cactus Rd
+Phoenix, AZ 85032",False,Phoenix,3,Lil Cal's,33.597332,-112.01393600000002,AZ,5.0
+812,2B9JbDVjDXeY-4uANGY6ng,"7425 E Shea Blvd
+Scottsdale, AZ 85260",True,Scottsdale,9,Scottsdale Children's Group,33.581322,-111.921151,AZ,4.5
+813,2BcNZqbEY9x3F2hcs5GUhg,"213 E Monterey Way
+Phoenix, AZ 85012",True,Phoenix,7,"John M Bracken, DDS",33.485246000000004,-112.070434,AZ,5.0
+814,2Bd3gy5lmINZ-2QxXVRLdA,"15661 W Roosevelt St
+Ste 105
+Goodyear, AZ 85338",False,Goodyear,7,Blue Sky Java,33.456886,-112.39565800000001,AZ,4.0
+815,2bdKR3l4o-S1CscLqqnvVw,"815 W University Dr
+Ste 108
+Tempe, AZ 85281",True,Tempe,154,Thai Elephant,33.421453,-111.95056299999999,AZ,3.5
+816,2bFBzziB3_yTGYcUerd9nw,"4708 S 48th St
+Phoenix, AZ 85040",True,Phoenix,11,Pizza Hut,33.405231,-111.97873500000001,AZ,2.0
+817,2bMV5XzTY9k89y0Lv9yhqQ,"1838 E Southern Ave
+Tempe, AZ 85282",True,Tempe,7,One Hour Martinizing,33.392984000000006,-111.90756699999999,AZ,3.5
+818,2BMZ3VEAF7Xx_XgL5dCJog,"6315 S Kyrene Rd
+Tempe, AZ 85283",True,Tempe,3,Fast Console Fix,33.365111,-111.94551200000001,AZ,3.5
+819,2BQwRuhhyCuNXI-kM0owYg,"Gilbert, AZ 85233",True,Gilbert,5,Sacred Harts,33.351929999999996,-111.821087,AZ,5.0
+820,2BTSZ8PCB7xQmcWSXrI5xA,"17413 E. Stonecreast Dr
+Gilbert, AZ 85298",True,Gilbert,5,Trustworthy Air Conditioning & Heating,33.244479,-111.70728899999999,AZ,5.0
+821,2BwPs-mId-B7dm00HtsMnA,"14672 N Frank Lloyd Wright Blvd
+Scottsdale, AZ 85260",True,Scottsdale,14,CVS Pharmacy,33.620052,-111.874035,AZ,2.0
+822,2BWTKRkPNgTTZNWGMkmYRw,"7131 W Ray Rd
+Ste 25
+Chandler, AZ 85226",False,Chandler,47,Coal Burger,33.308771,-111.921403,AZ,3.0
+823,2bZk38_vJCkAVI0f2TeqZQ,"419 E Roosevelt St
+Phoenix, AZ 85004",True,Phoenix,11,Eye Lounge,33.458653000000005,-112.067705,AZ,4.5
+824,2CcO6bTk9Fs3sAwodab3-w,"1920 W Thunderbird Rd
+Phoenix, AZ 85023",True,Phoenix,10,Hong Kong Chinese Cuisine,33.611539,-112.100796,AZ,3.5
+825,2ceeU8e3nZjaPfGmLwh4kg,"850 S Ash Ave
+Tempe, AZ 85281",True,Tempe,391,Casey Moore's Oyster House,33.420571,-111.942444,AZ,4.0
+826,2cjsijv9gyCbMSap3r7gtg,"15095 N Thompson Peak Pkwy
+Scottsdale, AZ 85260",True,Scottsdale,5,Native Bloom Landscape and Design,33.623226,-111.872695,AZ,4.0
+827,2cMWbJvpxgmSAWoRQzcNIA,"202 N Central Ave
+Phoenix, AZ 85004",False,Phoenix,6,Bistro 202,33.450459,-112.074077,AZ,3.0
+828,2cUtHjzt7UveeVqf_r9k4w,"1940 W Baseline Road
+Suite 3
+Mesa, AZ 85202",True,Mesa,3,Love Your Hair,33.37903,-111.87688200000001,AZ,5.0
+829,2CvVWNI__s1I7ns6w_zILw,"9139 Indian Bend Rd.
+Scottsdale, AZ 85250",True,Scottsdale,8,Toys R Us,33.538434,-111.88426100000001,AZ,2.5
+830,2CYIJPEd2SQ38khwuULvAw,"29710 N Cave Creek Rd
+Cave Creek, AZ 85331",True,Cave Creek,10,Desert Broom Library,33.753943,-111.99375400000001,AZ,4.0
+831,2czw5PzfPo20KlZLl3hOXA,"14325 N 79th St
+Scottsdale, AZ 85260",False,Scottsdale,8,Lunch 'N Go,33.615707,-111.909682,AZ,3.5
+832,2DaL7hKkBXZ2hHsi0AnMlQ,"9201 N 29th Ave
+Phoenix, AZ 85051",True,Phoenix,8,Stag Tobacconists and Gifts,33.569402000000004,-112.120419,AZ,4.0
+833,2DdG2iIe8kg3Fk-UakiXLg,"9835 W Bell Rd
+Sun City, AZ 85351",True,Sun City,4,New England Clock Shop,33.637814,-112.27191100000002,AZ,3.0
+834,2dJCG0ec0ZhFxIHLTI7EwA,"1101 N Mesa Dr
+Mesa, AZ 85201",True,Mesa,3,El Chavo Mexican Restaurant,33.433989000000004,-111.82267900000001,AZ,4.0
+835,2dJ_UPPCpcjo5JeYPnjaYw,"4445 E Thomas Rd
+Phoenix, AZ 85018",True,Phoenix,13,Schlotzsky's,33.47991,-111.985477,AZ,3.0
+836,2DmNeO4CwPWj27QBbq_mfg,"5001 W Indian School Rd
+Phoenix, AZ 85031",True,Phoenix,5,Rainbow Donuts,33.494943,-112.167304,AZ,4.0
+837,2DOJ2GyphXQf_f3OKJEPzw,"3800 E Sky Harbor Blvd
+Terminal 4, Concourse S2
+Phoenix, AZ 85034",True,Phoenix,35,El Bravo,33.438959000000004,-112.006317,AZ,3.0
+838,2dqffKIA58m9MdpI12Ci4A,"1549 E Victory St
+Ste 2
+Phoenix, AZ 85040",True,Phoenix,6,SKOOT,33.415973,-112.04812700000001,AZ,3.0
+839,2DVpXULFcUQCqqGPxw6wWQ,"2821 W Peoria Ave
+Phoenix, AZ 85029",True,Phoenix,5,Ross Store,33.581294,-112.123447,AZ,3.0
+840,2e1jzfiHFGCRpV66gYNVbA,"7111 E Mayo Blvd
+Phoenix, AZ 85054",True,Phoenix,138,Whole Foods Market,33.654718,-111.92629699999999,AZ,4.5
+841,2e1to_xZayL48779bJtR9g,"702 W Camelback Rd
+Ste 5
+Phoenix, AZ 85013",True,Phoenix,6,Subway,33.509983,-112.083529,AZ,3.5
+842,2E3RwtfFDrxk5qEezocP4A,"980 N 54th Street
+Chandler, AZ 85226",True,Chandler,24,LongHorn Steakhouse,33.319246,-111.96918600000001,AZ,3.5
+843,2e3v5rl80j4pI3L2135xYg,"2824 East Indian School Rd.
+#126
+Phoenix, AZ 85016",True,Phoenix,70,Sprouts Farmers Market,33.496255,-112.02052900000001,AZ,4.0
+844,2e4kembdmvmlbNzIPw0L0w,"3605 E Thomas Rd
+Phoenix, AZ 85018",True,Phoenix,4,Walgreens,33.479977000000005,-112.00353999999999,AZ,3.5
+845,2e4LeI46Mo9YF24RnnJadQ,"5870 W Thunderbird Rd
+Glendale, AZ 85306",True,Glendale,60,Smashburger,33.610765,-112.18536999999999,AZ,3.5
+846,2E5iuTckRcbtJm2pC1tIlQ,"10105 E Via Linda
+Scottsdale, AZ 85258",True,Scottsdale,10,Samurai Sam's Teriyaki Grill,33.573305,-111.862976,AZ,3.5
+847,2E6VGlEiabtIdHgIqZ6giw,"1321 E Flirence Blvd
+Casa Grande, AZ 85122",True,Casa Grande,3,Jimmy John's,32.879027,-111.730251,AZ,4.5
+848,2EfXE9Fz1bCHFJpgrzE77Q,"225 S Val Vista Dr
+Gilbert, AZ 85296",True,Gilbert,7,United States Post Office,33.346002,-111.754648,AZ,3.0
+849,2EF_w0u1U1xWUp8ynWmuaA,"7345 N Via Paseo Del Sur
+Scottsdale, AZ 85258",True,Scottsdale,3,Fantastic Sam's,33.543721000000005,-111.906208,AZ,2.5
+850,2eOFMzIllez87VZjXwf66g,"1221 S Westwood
+Mesa, AZ 85210",True,Mesa,7,Courtyard Phoenix Mesa,33.391982,-111.852108,AZ,2.5
+851,2eRiygVxNZbOarddftqLMg,"10220 N 90th St
+Scottsdale, AZ 85260",True,Scottsdale,8,Marshalls Scottsdale Fiesta,33.579015000000005,-111.886525,AZ,3.5
+852,2eXDnLT-T6odgAOrx8F2gQ,"7620 E Mckellips Rd
+Ste 14
+Scottsdale, AZ 85257",True,Scottsdale,4,Filiberto's,33.451679999999996,-111.916537,AZ,2.5
+853,2EyCkG53BPmgmxV8jiJJZQ,"10801 N 32nd Street
+Phoenix, AZ 85028",True,Phoenix,3,Shea Animal Hospital,33.58462,-112.011927,AZ,4.0
+854,2F0Ix-kZADPqjbjYwDNWdQ,"2875 W Ray Rd
+Ste 3
+Chandler, AZ 85224",True,Chandler,3,Subway,33.320890999999996,-111.78989399999999,AZ,3.5
+855,2F2fmce-AzqlSrmFU-JWZA,"2855 Ray Rd
+Ste 7
+Chandler, AZ 85224",False,Chandler,6,Z Pizza,33.320324,-111.89044299999999,AZ,3.5
+856,2F7ROAX7Yp1jSO3J-z0GEA,"16241 N Tatum Blvd
+Phoenix, AZ 85032",True,Phoenix,5,Social Security Administration,33.634992,-111.977147,AZ,4.0
+857,2FiLqh18ypsamf2vZOj7eA,"3736 E Indian School Rd
+Phoenix, AZ 85018",True,Phoenix,8,Camelback Tanning,33.495265,-112.00055900000001,AZ,4.5
+858,2FJNaYjtHaH9FMmKq4UmuA,"7231 E Shea Blvd
+Scottsdale, AZ 85250",True,Scottsdale,3,Saba's,33.582015000000006,-111.92459299999999,AZ,3.5
+859,2FqG3fBB2XffmRTnc6YI_w,"Scottsdale Fashion S
+Scottsdale, AZ 85250",True,Scottsdale,10,Paradise Bakery,33.533699,-111.908639,AZ,3.5
+860,2FQU367OZCyyeENIdC-e5g,"9320 W Northern Ave
+Glendale, AZ 85305",True,Glendale,3,Justice Peoria Crossing,33.551753000000005,-112.260015,AZ,3.5
+861,2FudHUhV9U54dm0S1ePuCw,"1020 N 1st Ave
+Phoenix, AZ 85003",True,Phoenix,138,Fair Trade Cafe,33.459395,-112.07425,AZ,4.0
+862,2FuIlyQXlrTNyZp6X4Jofg,"2844 E McKellips Rd
+Mesa, AZ 85213",True,Mesa,3,Sunbelt Car Wash,33.452078,-111.76943999999999,AZ,4.5
+863,2ga3wFN6qiXPUdz_cyaT8A,"5223 South Priest Drive
+Tempe, AZ 85283",True,Tempe,5,TownePlace Suites Tempe at Arizona Mills Mall,33.376125,-111.96218300000001,AZ,4.0
+864,2gBKQ-epOTPMNvXoGyyVbQ,"1275 E Florence Blvd
+Ste 5
+Casa Grande, AZ 85222",True,Casa Grande,4,China King,32.876638,-111.74778,AZ,3.0
+865,2GCPM1BLnnm740_RmjSgCA,"5750 W Thunderbird Rd
+Glendale, AZ 85306",True,Glendale,3,Glendale OB & Gynecology,33.612707,-112.18146100000001,AZ,3.5
+866,2ge-XuBnZ3RWWnBFWt2X3w,"856 S Alma School Rd
+Mesa, AZ 85210",True,Mesa,5,Chuck E Cheese's Pizza,33.398872999999995,-111.857603,AZ,3.0
+867,2GIfUchYadO_ulge3B6nlA,"13610 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,26,Potbelly Sandwich Shop,33.610649,-111.926271,AZ,4.0
+868,2gMx4KnXbNtpoCuVCmyo3g,"4601 E Thomas Rd
+Phoenix, AZ 85018",False,Phoenix,10,Coco's Restaurant,33.479713000000004,-111.98150600000001,AZ,1.5
+869,2h9LsLPdJ7OvZrYJZhVdAw,"3166 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,79,Hava Java,33.510051000000004,-112.01351000000001,AZ,4.0
+870,2HHf0hiKtZm5nzt3irlaDA,"2108 W Camelback Rd
+Phoenix, AZ 85015",True,Phoenix,48,Pepe's Taco Villa,33.509749,-112.10453999999999,AZ,4.0
+871,2HJW3ZhbCEHZRzQxGYgT_Q,"Phoenix, AZ 85053",True,Phoenix,23,The Baker's Daughter,33.628995,-112.13706,AZ,4.5
+872,2HUkoi6pLuKCkmu7v962Iw,"135 West Ocotillo Rd.
+Chandler, AZ 85248",False,Chandler,10,Old Chicago,33.247519,-111.843093,AZ,3.0
+873,2HwzQAWXlgiQDzHvzZyv5A,"5757 N Central Ave
+Phoenix, AZ 85012",True,Phoenix,3,PhoenixONE,33.521864,-112.073466,AZ,5.0
+874,2H_q94Ybk_RU_2XKct_pVQ,"17202 N Cave Creek Rd
+Phoenix, AZ 85032",True,Phoenix,3,Ridenow Powersports,33.642661,-112.031547,AZ,3.0
+875,2iacT7J9o_UIIRNnF92WXQ,"7014 East Camelback Rd.
+Space #1081
+Scottsdale, AZ 85251",True,Scottsdale,19,MAC Cosmetics,33.502509,-111.929023,AZ,4.0
+876,2ihIfB4EVH6XOqqjPk5euA,"1812 W Baseline Rd
+Mesa, AZ 85202",True,Mesa,3,Desert Dental Associates,33.378653,-111.873602,AZ,5.0
+877,2IL3_EiqEJggwvTYx7cofw,"850 E Hatcher Rd
+Phoenix, AZ 85020",True,Phoenix,5,Fry's Food & Drug Stores & Fry's Marketplace,33.57138,-112.062215,AZ,3.0
+878,2IWCmtpNVvu1h0UEc4S5DQ,"15440 N 7th St
+Phoenix, AZ 85022",True,Phoenix,18,Yoga Pura,33.627028,-112.066286,AZ,4.5
+879,2IXK25_GTVZjWLg_h65Baw,"3777 S Arizona Ave
+Chandler, AZ 85248",True,Chandler,9,Target,33.250215999999995,-111.837974,AZ,4.0
+880,2i__Rpd2slFshHSq8wabmw,"Mesa Convention Center
+263 N Center St
+Mesa, AZ 85201",True,Mesa,4,Phoenix Comicon 2009,33.432953000000005,-111.844935,AZ,4.0
+881,2j-g7OkNc_kSMUhEeRGANw,"725 W Elliot Rd
+Ste 115
+Gilbert, AZ 85233",True,Gilbert,5,Gilbert Physical Medicine,33.349476,-111.80505,AZ,5.0
+882,2J1DtN7FjGICQcgRei3jKA,"245 E Bell Rd
+Ste 55
+Phoenix, AZ 85022",True,Phoenix,14,Peter Piper Pizza,33.639501,-112.07176799999999,AZ,4.0
+883,2JCG2coDDnQAjM-KmlRnzA,"1241 E Morelos St
+Chandler, AZ 85225",True,Chandler,4,Croffoot Heating and Air Conditioning,33.293898,-111.82011200000001,AZ,5.0
+884,2jCyo55dFgGzYpoIX8TwgA,"15029 N Thompson Peak Pkwy
+Ste B111
+Scottsdale, AZ 85260",True,Scottsdale,19,Starbucks Coffee,33.622642,-111.87412900000001,AZ,3.5
+885,2jg5fV6orXdfBW6420mA3w,"2536 S 6th Ave
+Phoenix, AZ 85003",True,Phoenix,5,Leyvas Towing and Auto Repair,33.422345,-112.081535,AZ,3.0
+886,2JH55aLSfKvg_711rGcZLQ,"2765 N Scottsdale Rd
+Ste 110
+Scottsdale, AZ 85257",True,Scottsdale,6,Great Clips,33.478716,-111.925591,AZ,4.0
+887,2JZv-P1lDKOPKvefQlYDEQ,"The Shops At Gainey Village
+8787 N Scottsdale Rd
+Scottsdale, AZ 85258",True,Scottsdale,98,Village Tavern,33.566229,-111.924899,AZ,3.5
+888,2K658suRNthBm-IP8SjMuQ,"9621 W Glendale Ave
+Ste 300
+Glendale, AZ 85305",True,Glendale,11,Coach Factory Outlet,33.534445,-112.26626100000001,AZ,4.5
+889,2k8oHZ62WoK6elvyF9jAIg,"Main Street and Brown
+Scottsdale, AZ 85251",True,Scottsdale,3,KC's Classic Carriage Company,33.493111999999996,-111.924539,AZ,4.5
+890,2KAOVu8cloYC7xC6IGFGIQ,"2827 N 44th St
+Phoenix, AZ 85008",True,Phoenix,4,Chase,33.479307,-111.9864,AZ,3.0
+891,2kAp0rRmspy2b1bisYfLBg,"11015 N Scottsdale Rd
+Scottsdale, AZ 85254",True,Scottsdale,3,Synlawn,33.585966,-111.925683,AZ,3.0
+892,2KKNNsWxKl4vW5oA8v_AYw,"8801 W Union Hills Dr
+Peoria, AZ 85382",True,Peoria,4,Good Night Pediatrics,33.652107,-112.248001,AZ,4.0
+893,2KlNLhtUOe3emgdF1t42tw,"559 Upper King St
+Charleston, SC 29401",True,Charleston,5,Midtown Grill,33.635543,-112.08176,SC,4.5
+894,2Kp4M_Xj554O-KWaNbtpUQ,"1747 E Morten Ave
+Suite 301
+Phoenix, AZ 85020",True,Phoenix,5,Squaw Peak Dental,33.545281,-112.043821,AZ,4.0
+895,2kpuXjCKYDZPePOIEFoCag,"3936 E Chandler Blvd
+Ste 235
+Phoenix, AZ 85048",True,Phoenix,7,Parlour Hair Design,33.305640000000004,-111.99901000000001,AZ,5.0
+896,2kZiyGqzB5Lnc0cZgHCOfw,"10810 N Tatum Blvd
+Ste 108
+Phoenix, AZ 85028",True,Phoenix,11,Orangetheory Fitness Paradise Valley,33.584361,-111.97908799999999,AZ,4.5
+897,2lbQbMLpw0S8ok-KYuZ1qg,"4831 N 34th Pl
+Phoenix, AZ 85018",True,Phoenix,4,Details Remodeling & Home Services,33.509384999999995,-112.00774299999999,AZ,5.0
+898,2Lfphj6nhZ0uRN9Ajt4wtA,"5020 E Main St
+Mesa, AZ 85205",True,Mesa,6,Francis and Sons Car Wash,33.416134,-111.72362199999999,AZ,3.5
+899,2lGaj8WVLetIWsK8B729mw,"1245 W Guadalupe Rd
+Ste B-8
+Mesa, AZ 85202",False,Mesa,53,Contigo Peru,33.363255,-111.86058100000001,AZ,4.0
+900,2li2XlPfSi5zgfCE77uNeg,"966 East Van Buren Street
+Phoenix, AZ 85034",True,Phoenix,4,Circle K,33.451372,-112.059276,AZ,3.5
+901,2lNPc5gVbx1wJQZGgZkh6w,"15849 N 71st St
+Scottsdale, AZ 85254",True,Scottsdale,3,The Motorsport Labs,33.631494,-111.927256,AZ,1.5
+902,2LZdhuiDH4RkDHQnHAOcnw,"Four Seasons Resort
+10600 E Crescent Moon Dr
+Scottsdale, AZ 85262",True,Scottsdale,39,Proof,33.731835,-111.852751,AZ,4.0
+903,2M-vsaPrhJCFz726eopeJA,"66 S Dobson Rd
+Mesa, AZ 85202",True,Mesa,9,Mekong Sandwiches,33.413901,-111.87598100000001,AZ,3.5
+904,2mcmuAvpNIJuV3gV0v9v2A,"7582 W Cactus Rd
+Ste B5
+Peoria, AZ 85381",True,Peoria,74,Pholicious,33.595804,-112.222637,AZ,3.5
+905,2MHIzCgnuLrLJcorln_7WQ,"13610 N Scottsdale Rd
+Scottsdale, AZ 85254",False,Scottsdale,11,Fitness Cafe,33.609786,-111.92730700000001,AZ,4.0
+906,2MM1zXQotfBkW4YRMPY-ZA,"2815 W Carefree Hwy
+Ste 101
+Phoenix, AZ 85073",False,Phoenix,15,Ketzal Mexican Grill,33.4499,-112.0739,AZ,2.5
+907,2MM8cFKHp8OaB13fp0ysGw,"3125 S Alma School Rd
+Chandler, AZ 85248",False,Chandler,11,Lafonda Mexican Restaurant,33.261388000000004,-111.857235,AZ,3.5
+908,2Mw-ppFgspTQd8pzq5ru7g,"On Q Financial
+16150 N Arrowhead Fountain Center Dr,Ste 260
+Peoria, AZ 85382",True,Peoria,3,Jason Servais,33.651337,-112.24436299999999,AZ,3.5
+909,2MyHlKhknrUeCt7ggWytAQ,"7885 West Arrowhead Town
+Glendale, AZ 85308",True,Glendale,5,Ramada Glendale,33.641146,-112.230231,AZ,3.0
+910,2mzgdkSCNIGr0LYAr8i3Yw,"14557 W Grand Avenue
+Surprise, AZ 85374",True,Surprise,4,Quizno's Classic Subs,33.657871,-112.375203,AZ,3.0
+911,2n3D9CmigVKmj7Jz3zKhnQ,"8443 E McDonald Dr
+Scottsdale, AZ 85250",False,Scottsdale,3,Scottsdale Running Company,33.523893,-111.898997,AZ,4.0
+912,2N4t90EnUDhkLmrAgyb5uA,"20329 N 59th Ave
+Glendale, AZ 85308",True,Glendale,3,Arrowhead Lakes Chiropractic,33.671403000000005,-112.185076,AZ,5.0
+913,2nd4_b7-DFjI921Mtt7GrA,"1751 E Broadway Rd
+Tempe, AZ 85282",True,Tempe,14,Come For Nails,33.407437,-111.909673,AZ,3.5
+914,2ndAAX7cHQoex6ZDpDYxhA,"17026 W Bell Rd
+Sun City, AZ 85374",True,Sun City,7,Ace Hardware,33.638962,-112.425504,AZ,3.5
+915,2nGw5zkzvO5c2eH5P4C_kg,"1645 N Hayden Rd
+Scottsdale, AZ 85257",False,Scottsdale,8,Shogun Express,33.467108,-111.908621,AZ,3.5
+916,2NnES_12fMqudH3L5bdrSA,"6030 S Kings Ranch Rd
+Gold Canyon, AZ 85118",True,Gold Canyon,13,Hitching Post 2,33.360621,-111.442431,AZ,2.5
+917,2nxQ9enKGYktl0AHZtQgog,"5555 N 7th St
+Ste 140
+Phoenix, AZ 85014",True,Phoenix,8,Desert Schools Federal Credit Union,33.511525,-112.05553799999998,AZ,2.5
+918,2nzUx_M8Szyzsf4CszHasw,"535 W Iron Ave
+Ste 131
+Mesa, AZ 85210",True,Mesa,184,Crackers & Co Cafe,33.383949,-111.84378600000001,AZ,4.5
+919,2o8wGRVSn1UCrwSMqwgu-g,"1712 East Guadalupe Rd
+Tempe, AZ 85283",True,Tempe,30,Rubio's Fresh Mexican Grill,33.363890999999995,-111.91311,AZ,3.5
+920,2Oc3IK0yxRBYHPXgb7_tMA,"22280 N 67Th Ave
+Glendale, AZ 85310",True,Glendale,3,Walgreens,33.684134,-112.20354099999999,AZ,1.5
+921,2odfQHAJvM4ceIZqbIKK5g,"3501 N. Scottsdale Rd.
+Ste 130
+Scottsdale, AZ 85251",True,Scottsdale,9,Scottsdale Medical Imaging LTD,33.488933,-111.925845,AZ,3.0
+922,2OHzwWxfl3DsHdAcRZOykA,"1030 W Broadway Rd
+Tempe, AZ 85281",True,Tempe,3,Mr Burrito,33.407810999999995,-111.954719,AZ,2.5
+923,2ONde6C4YzLcjfGNhapmfQ,"21430 N 20th Ave
+Phoenix, AZ 85027",True,Phoenix,4,Gulick Bros House of Sound,33.681757,-112.101824,AZ,5.0
+924,2OuLHSMMPlfa_ohMVXfnPA,"8021 N 35th Avenue
+Phoenix, AZ 85051",True,Phoenix,4,Safeway Food & Drug,33.553503000000006,-112.13426399999999,AZ,2.5
+925,2OXmEkZheyM3115zFT6zrg,"1200 W Ocotillo Road
+Chandler, AZ 85248",True,Chandler,6,Holiday Inn Hotel Chandler,33.248126,-111.86653799999999,AZ,4.0
+926,2OY8xs4aqOt8eTnYokdrww,"5700 E McDonald Dr
+Paradise Valley, AZ 85253",True,Paradise Valley,225,Elements,33.51878,-111.960826,AZ,4.0
+927,2oYhEHgSDLqYXYlAqnChuw,"8248 W Deer Valley Rd
+Peoria, AZ 85382",True,Peoria,23,Caminero Mexican Restaurant,33.683113,-112.23728999999999,AZ,4.0
+928,2OZtiGEvLfAjfhC18m9Djw,"Terminal 4
+Phoenix, AZ 85034",True,Phoenix,3,Nypd Pizza,33.435618,-111.99808,AZ,2.5
+929,2P8ZJasw3lS2oXL7gCOTSA,"2484 E Warner Rd
+Gilbert, AZ 85296",True,Gilbert,10,Greenfield Lakes Golf Course,33.338736,-111.73645800000001,AZ,3.0
+930,2PnWXf9kv8zXyikOMppcQg,"US Highway 89 N
+12 miles north of Flagstaff
+Casa Grande, AZ 85294",True,Casa Grande,3,Wupatki National Monument,32.88,-111.76,AZ,4.0
+931,2prJHFb5KaEqCM-mUiNJ2Q,"1141 E Bell Rd
+Phoenix, AZ 85022",True,Phoenix,17,Fletcher's Tire & Auto Service,33.640207000000004,-112.05748700000001,AZ,2.0
+932,2ptpFyH6mmTaAMDH3IBNFA,"13801 N 32Nd St
+Phoenix, AZ 85032",True,Phoenix,7,Jiffy Lube,33.611852,-112.01298700000001,AZ,4.0
+933,2PUcP4-H4zQfbf3I6PNB5g,"3870 W Happy Vally Rd
+Glendale, AZ 85310",True,Glendale,8,Optical Gallery Arizona,33.713136,-112.14195600000001,AZ,3.0
+934,2pZG0C66ilctnVNTsh3jyA,"Ste 6000
+Scottsdale, AZ 85251",True,Scottsdale,7,"V.I.P. Mortgage, Inc.",33.508409,-111.928582,AZ,4.5
+935,2Q0iBhFrvwM_U_wd6qbnZg,"4513 N Scottsdale Rd
+Ste 112
+Scottsdale, AZ 85251",True,Scottsdale,3,Cilento Photography,33.502981,-111.92568,AZ,4.5
+936,2qf-0qkDNh7r8iU0498htQ,"1947 W Broadway Rd
+Mesa, AZ 85202",True,Mesa,10,Whataburger,33.407131,-111.873552,AZ,4.0
+937,2QLRTV_q1PeC-X4tvzynUA,"P.O. Box 11464
+Glendale, AZ 85318",True,Glendale,3,"Southwest Premier Home Inspection, LLC",33.665273,-112.18656499999999,AZ,5.0
+938,2QM2p_15M93bsWHsqzSmvQ,"535 E. McKellips Road
+Ste. 101
+Mesa, AZ 85203",True,Mesa,4,NextCare Urgent Care,33.451149,-111.82010700000001,AZ,4.0
+939,2qOiIL8_3FY_QDonFL04qw,"5635 East Bell Rd
+Scottsdale, AZ 85254",True,Scottsdale,3,Bellagio Apartments,33.639402000000004,-111.958578,AZ,3.0
+940,2qPeMxWSMtkg85POh_k9sQ,"921 E Garfield St
+Phoenix, AZ 85006",True,Phoenix,3,Rebecca Vinacour Photography,33.457453,-112.060988,AZ,4.5
+941,2qqzGBLM9VFwjIuiEKHspg,"1720 E Camelback Rd
+Phoenix, AZ 85016",True,Phoenix,117,Bluewater Grill,33.510168,-112.04491100000001,AZ,4.0
+942,2r8jGeuYvMkyP2ik_X-Bxw,"2402 East Camelback
+Space #101
+Phoenix, AZ 85016",True,Phoenix,115,The Cheesecake Factory,33.510008,-112.029652,AZ,3.5
+943,2Rcde1wjg6FeczFB3TwS4A,"3335 W Peoria Ave
+Phoenix, AZ 85029",True,Phoenix,12,Laser Quest,33.581863,-112.132549,AZ,4.0
+944,2rMf09C5uXzF2qIlD5F5BA,"4232 E Chandler Blvd
+Ste 24
+Phoenix, AZ 85048",True,Phoenix,100,Secreto,33.305824,-111.99131100000001,AZ,3.5
+945,2Rn5mS-oZusA46qz78pCHg,"6838 E Superstition Sprg
+Mesa, AZ 85209",True,Mesa,5,The Home Depot,33.384993,-111.68331299999998,AZ,4.0
+946,2RPFwqKLkDRa1_2M2bJ6Eg,"19 E Broadway Rd
+Tempe, AZ 85282",False,Tempe,16,Mad G's Grill & Tavern,33.4074,-111.939327,AZ,3.5
+947,2RusLQcgpQ2BajF_1zevKg,"13910 N Frank Lloyd Wright B
+Scottsdale, AZ 85260",True,Scottsdale,62,Nick's,33.611653000000004,-111.86471200000001,AZ,4.0
+948,2RxIERKZi5gjLW76MkFotQ,"4022 E Greenway Rd
+Ste 10
+Phoenix, AZ 85032",True,Phoenix,48,40th Street Cafe,33.626712,-111.99569,AZ,4.0
+949,2R_VekjT6HSZpGL9KYzcuw,"1050 E Ray Rd
+Chandler, AZ 85225",False,Chandler,5,Golden Spoon Frozen Yogurt,33.322668,-111.82267399999999,AZ,4.5
+950,2SoJSPZI90aIpndvKSQvCA,"2352 W Main St
+Mesa, AZ 85201",True,Mesa,3,St. Vincent De Paul Thrift Store,33.415371,-111.882815,AZ,2.5
+951,2sVS9kaHHvEBj6gjKRZw_A,"179 E Williams Field Rd
+Gilbert, AZ 85295",True,Gilbert,3,AutoZone,33.306334,-111.78581799999999,AZ,5.0
+952,2T36c1mym1zG5dOa1fWNoQ,"3111 W Chandler Blvd
+Chandler, AZ 85226",True,Chandler,9,Popcornopolis,33.30549,-111.895274,AZ,4.5
+953,2t8LpXfIjgcbGch8Ss3rzg,"1375 E Warner Road
+Gilbert, AZ 85296",True,Gilbert,4,AutoZone,33.335242,-111.76029,AZ,5.0
+954,2Tb0OVDJKQLGl5jHQs7j-A,"1766 W Hunt Hwy
+Queen Creek, AZ 85142",True,Queen Creek,3,Quik Trip,33.180510999999996,-111.585077,AZ,4.0
+955,2TK2w_wpYeqRnBc7jkczIw,"2230 E Bell Rd
+Phoenix, AZ 85022",True,Phoenix,4,AutoZone,33.64096,-112.033809,AZ,3.5
+956,2tL3VT4jy84MmwhxOA96Qw,"4950 E Van Buren
+Phoenix, AZ 85008",True,Phoenix,8,Trillium Papago,33.452106,-111.97523600000001,AZ,2.5
+957,2TOSQBwDdj1C16yDMkl-PA,"9849 W Thunderbird Blvd
+Sun City, AZ 85351",True,Sun City,3,Spectra Eye Institute,33.608909000000004,-112.26741899999999,AZ,2.5
+958,2tqzvL7OPWsHkaN3GHNeIQ,"2023 W Guadalupe Rd Ste 10
+Mesa, AZ 85202",True,Mesa,7,Rose Nails,33.364044,-111.877498,AZ,3.5
+959,2TWGIhh6y-f9fe-Q6kySGQ,"6033 S Sossaman Rd
+Mesa, AZ 85212",True,Mesa,60,Phoenix Mesa Gateway Airport,33.306818,-111.66968500000002,AZ,4.0
+960,2UfTG6BpFgeMREXQdAd_TQ,"4915 East Ray Rd.
+Phoenix, AZ 85044",True,Phoenix,45,AMC Ahwatukee 24,33.319747,-111.97811200000001,AZ,3.0
+961,2UgJNESsq4aiiah36wO-8w,"7014 E Camelback Rd
+Scottsdale, AZ 85251",True,Scottsdale,4,Buckle,33.502594,-111.929676,AZ,5.0
+962,2unQHR9uaRxk3dsW6f3MGA,"Cofco Chinese Cultural Ctr
+668 N 44th St
+Phoenix, AZ 85008",False,Phoenix,48,Lao Ching Hing,33.455418,-111.98778600000001,AZ,3.0
+963,2v5mSHPShgNrI2Ab4DTK0A,"1464 E Williams Field Rd
+Ste 106
+Gilbert, AZ 85295",True,Gilbert,4,Forum Nail Salon,33.307351000000004,-111.758293,AZ,4.0
+964,2voFtcyopB3jJHepouMWDQ,"34850 N. Valley Parkway
+Phoenix, AZ 85086",True,Phoenix,25,In-N-Out Burger,33.800540000000005,-112.12993999999999,AZ,4.0
+965,2VpSPb8IVXNqyVY5n7caGg,"Phoenix International Airport
+3400 E Sky Harbor Blvd, Terminal 4 near Gate 10
+Phoenix, AZ 85034",True,Phoenix,15,ASAP California Pizza Kitchen,33.438279,-112.017829,AZ,2.5
+966,2VU7F1oqCxpVPVlvpwvacw,"3800 E Sky Harbor Blvd
+Terminal 4
+Phoenix, AZ 85034",False,Phoenix,49,Barfly,33.435621000000005,-112.009546,AZ,4.0
+967,2v_eqECNNY1MS4DHjpj3FA,"5557 N 7th St
+Phoenix, AZ 85014",True,Phoenix,14,Starbucks,33.518253,-112.064874,AZ,3.0
+968,2W2AwR-5z_jQ0Ihg9A5cPg,"1116 S Dobson Rd
+Mesa, AZ 85202",True,Mesa,15,Pho All Seasons,33.3945,-111.87483999999999,AZ,3.5
+969,2WbPaavl5YDN-xxK-Gnocg,"770 E Thunderbird Rd
+Ste B
+Phoenix, AZ 85022",True,Phoenix,6,Desert View Dentistry,33.608191,-112.06321200000001,AZ,5.0
+970,2wfJYEPRyc-JkH3wFEv3IQ,"3903 N Scottsdale Rd
+Scottsdale, AZ 85251",True,Scottsdale,4,Az Tex Hats Inc,33.492986,-111.926028,AZ,3.5
+971,2w_d4H-DX104D_Va3UqE1A,"2010 E Rio Salado Pkwy
+Tempe, AZ 85281",True,Tempe,3,Sleep America,33.429362,-111.90013200000001,AZ,1.0
+972,2xczXFsc4GeilxL8B8R3Vg,"450 W Indian School Rd
+Phoenix, AZ 85013",True,Phoenix,23,Whataburger,33.495092,-112.079947,AZ,3.0
+973,2XD3bY-ETIpMlsI7JuwysQ,"4130 N Marshall Way
+Scottsdale, AZ 85251",True,Scottsdale,4,Art One Gallery,33.495605,-111.929345,AZ,4.0
+974,2xiXN5FqL7idYv3bVhDxvw,"4438 N 35th Ave
+Phoenix, AZ 85017",True,Phoenix,3,Phoenix Lettering,33.501762,-112.134569,AZ,5.0
+975,2xuhzqiZz4T5vNdzEgT7fQ,"Main Street, Highway 88
+Maricopa, AZ 85290",True,Maricopa,10,Superstition Saloon,33.73662,-111.5634,AZ,3.5
+976,2y7GIcVrJJFSgQEddlgBrw,"9804 W Northern Ave
+Peoria, AZ 85345",True,Peoria,3,Harkins Theaters-Park West,33.551916999999996,-112.270623,AZ,4.0
+977,2yBk6SvYQPnickE_QJrlaA,"2645 W Carefree Hwy
+Phoenix, AZ 85085",True,Phoenix,6,Jack in the Box,33.798292,-112.11820900000001,AZ,1.0
+978,2YLvtWY3rbsMevv1_tbLeg,"1804 S Signal Butte Rd Ste 108
+Mesa, AZ 85209",True,Mesa,4,Verizon Wireless,33.382315000000006,-111.600458,AZ,3.5
+979,2yMqb2Ey4PspeyLn4y2dHQ,"2700 W Chandler Boulevard
+Chandler, AZ 85224",True,Chandler,5,Officemax,33.306191999999996,-111.88931000000001,AZ,4.0
+980,2Yn5IgbAOtc7_bT0g47bQA,"4430 South 48th Street
+Phoenix, AZ 85040",True,Phoenix,7,Taco Bell,33.406214,-111.978808,AZ,4.0
+981,2yTFyn4Tv6gu63i5WMHjRg,"711 Grand Ave
+Phoenix, AZ 85007",True,Phoenix,16,Clean Freak Car Wash,33.452005,-112.083247,AZ,4.5
+982,2YuGP-aSPwp8vTe2396rKg,"8713 E Via De Sereno
+Scottsdale, AZ 85258",True,Scottsdale,4,Lesser Associates,33.540551,-111.893328,AZ,5.0
+983,2Z1F6mARzg46JdNgGhlvYQ,"4545 E. McKellips Road
+Ste #101
+Mesa, AZ 85215",True,Mesa,3,Mybullfrog.com Verizon Wireless Premium Retailer,33.451828000000006,-111.73604499999999,AZ,2.5
+984,2Z35_AsU6qWU0YaOftjLVA,"9495 W Coyotes Blvd
+Glendale, AZ 85305",True,Glendale,50,Renaissance Glendale Hotel & Spa,33.532416,-112.263493,AZ,4.0
+985,2zag3j-zdjBsDtIbVYXxLg,"66 S Dobson Rd
+Mesa, AZ 85202",True,Mesa,13,Kong  Fu Gyoza,33.413158,-111.87577900000001,AZ,4.0
+986,2Zg1CXjY0MWZrC8G2alpag,"2525 E. Indian School Rd.
+Phoenix, AZ 85016",True,Phoenix,4,Ever-Ready Glass Of Phoenix,33.494589000000005,-112.02718899999999,AZ,4.0
+987,2zkn7Ns7LgKr0M8U4aFqtw,"2875 W Ray Rd
+Ste 4
+Chandler, AZ 85224",True,Chandler,12,Fresh Cleaners at Chandler,33.320321,-111.890579,AZ,3.0
+988,2Zl92s9v6lrqbD_LyA1SKg,"7507 S Power Rd Ste 105
+Queen Creek, AZ 85142",True,Queen Creek,5,Lavish Nails and Spa,33.24463,-111.63408000000001,AZ,2.0
+989,2zMJ2WC0JKEJhBqhV0VKxw,"7900 E Princess Dr
+Scottsdale, AZ 85255",True,Scottsdale,3,Wise Home Services,33.644639,-111.908825,AZ,5.0
+990,2ZnCITVa0abGce4gZ6RhIw,"1850 N Central Ave
+Phoenix, AZ 85004",True,Phoenix,5,Viad Tower Restaurants,33.468988,-112.07431499999998,AZ,3.5
+991,2ZrC4Gq3rTuHh52v2pKNgw,"1807 E Baseline Rd
+Ste 102
+Mesa, AZ 85210",True,Mesa,3,Chinatown Buffet,33.378437,-111.908543,AZ,1.5
+992,2zXqFId4jYuk2K8w1KI-Qw,"Scottsdale Pavilions
+9009 E Indian Bend Rd
+Scottsdale, AZ 85250",True,Scottsdale,14,Sports Authority,33.519588,-111.909524,AZ,3.0
+993,2_2ZXkaADBIvzLc0avj8KA,"3219 E Camelback Rd
+Phoenix, AZ 85018",True,Phoenix,4,The UPS Store,33.50922,-112.012276,AZ,4.0
+994,2_aXc4gWLhMojjJ-lCEOeg,"120 E 5th St
+Tempe, AZ 85281",True,Tempe,3,Tempe Police Department,33.425521999999994,-111.93774499999999,AZ,2.5
+995,2_lHfrr9puEx00JTbTu2ow,"1450 W Guadalupe Rd
+Ste 113
+Gilbert, AZ 85233",True,Gilbert,6,Gilbert Pool Service,33.364804,-111.82168600000001,AZ,2.5
+996,3-RZKoNAQ2_-_8du4hLRRg,"1266 N Arizona Ave
+Chandler, AZ 85225",True,Chandler,6,Francis & Sons Car Wash,33.326293,-111.841874,AZ,1.0
+997,30EXnW4VHbhuNlYn2PEVLw,"10250 N 91st Ave
+Peoria, AZ 85345",True,Peoria,4,91 Nail Salon,33.578008000000004,-112.256848,AZ,5.0
+998,30f4D-uFZgztfP3Jwon7hg,"725 W Apache Trl
+Apache Junction, AZ 85120",True,Apache Junction,4,Frontier Ace Hardware,33.413857,-111.55373300000001,AZ,4.5
+999,31a09a61NbC90FitPO9h5w,"1730 E Elliot Rd
+Tempe, AZ 85284",True,Tempe,5,AA Barber Shop,33.350336999999996,-111.91228500000001,AZ,4.0
