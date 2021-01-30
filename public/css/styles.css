@@ -1,0 +1,52 @@
+  
+
+.content {
+    margin: 50px;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+    justify-content: center;
+    align-items: center;
+    font-family: helvetica;
+}
+.dropdown-header {
+    color: #d32323;
+}
+
+/* ------------------------------------ [PAGE-01] HOME PAGE -------------------------------------- */
+.list-group {
+    padding-bottom: 30px;
+}
+
+.list-group-item-primary {
+    background-color: #e6e6e6;
+    color: #333333;
+}
+.list-group-item-action {
+    color: #333333;
+}
+
+
+/* --------------------------------------------- QUERIES ----------------------------------------- */
+#basic-addon1 {
+    width: 200px;
+    color: #212529;
+    background-color: #e6e6e6;
+}
+
+.form-control {
+    color: #212529;
+    max-width: 400px;
+}
+
+.btnGroup {
+    padding-top: 20px;
+}
+
+.leftbtn {
+    margin-right: 10px;
+}
+
+.rightbtn {
+    margin-left: 10px;
+}

@@ -1,0 +1,36 @@
+<div class="container">
+  <!-- Title -->
+  <h2>Hourly Activity Rate</h2>
+  <p>Chance of being busy at the inputted time of day in percent</p>
+  <br>
+
+  <!-- Output -->
+  <table class="table table-bordered">
+    <thead class="thead-dark">
+      <tr>
+        <th scope="col">Chance of being busy in percent</th>
+
+      </tr>
+    </thead>
+    <tbody>
+      {{#if result}}
+      {{#each result}}
+      <tr>
+        <td>{{this.BusyChance}}</td>
+
+      </tr>
+      {{/each}}
+      {{else}}
+      <tr>
+        <td>Error. Please check if the input entered is valid.</td>
+      </tr>
+      {{/if}}
+    </tbody>
+  </table>
+
+  <!-- Buttons -->
+  <div class="btnGroup">
+    <button class="btn btn-outline-info leftbtn" id="again-btn">Enter New Input</button>
+    <button class="btn btn-outline-secondary rightbtn" id="home-btn">Back to Home</button>
+  </div>
+</div>
