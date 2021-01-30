@@ -2,10 +2,10 @@
 
 $(document).ready(function () {
   $("#btn-enter").click(() => {
-    var ctime = $("#checkin-time").val();
+    var category = $("#category").val();
 
-    var path = "/table1query1output-" + ctime;
-    if (ctime == "") {
+    var path = "/query1output-" + category;
+    if (category == "") {
       alert("Please fill up the field");
     } else {
       $(location).attr("href", path);

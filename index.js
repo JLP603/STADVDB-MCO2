@@ -63,237 +63,180 @@ app.get("/about", function (req, res) {
   });
 });
 
-/* ---------- 1 TABLE (2 QUERIES) ---------- */
+/* ---------- ROLL UP ---------- */
 
 // [PAGE-03] QUERY 01: INPUT
-app.get("/table1query1", function (req, res) {
-  res.render("table1query1", {
-    title: "Query #1 Input (One Table)",
-    scripts: "js/t1q1.js",
+app.get("/query1", function (req, res) {
+  res.render("query1", {
+    title: "Query #1 Input",
+    scripts: "js/q1.js",
   });
 });
 
 // [PAGE-04] QUERY 01: OUTPUT
-app.get("/table1query1output-:param1", function (req, res) {
-  var ctime = req.params.param1;
+app.get("/query1output-:param1", function (req, res) {
+  var category = req.params.param1;
   console.time();
   var query1 =
+  
+    "SELECT b.state, b.city, SUM(b.stars) totalStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = " +
+    category +
+    " AND b.active = 'true' GROUP BY b.state, b.city WITH ROLLUP;";
+    /*
     "SELECT SUM(time_" +
     ctime +
     ") / (SELECT MAX(sumtime) FROM (SELECT sum(time_0) sumtime FROM YelpDataset3.Checkins UNION ALL SELECT sum(time_1) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_2) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_3) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_4) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_5) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_6) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_7) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_8) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_9) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_10) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_11) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_12) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_13) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_14) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_15) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_16) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_17) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_18) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_19) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_20) FROM YelpDataset3.Checkins  UNION ALL  SELECT sum(time_21) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_22) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_23) FROM YelpDataset3.Checkins) z)* 100 AS BusyChance FROM YelpDataset3.Checkins;";
-  db.query(query1, function (error, result) {
+  */
+    db.query(query1, function (error, result) {
     if (error) throw error;
     console.log(result);
     console.timeEnd();
-    res.render("table1query1output", {
-      title: "Query #1 Output (One Table)",
-      scripts: "js/t1q1output.js",
+    res.render("query1output", {
+      title: "Query #1 Output",
+      scripts: "js/q1output.js",
       result: result,
-      checkintime: ctime,
+      category: category,
     });
 
  
   });
 });
+
+/* ---------- DRILL DOWN ---------- */
+
 // [PAGE-05] QUERY 02: INPUT
-app.get("/table1query2", function (req, res) {
-  res.render("table1query2", {
-    title: "Query #2 Input (One Table)",
-    scripts: "js/t1q2.js",
+app.get("/query2", function (req, res) {
+  res.render("query2", {
+    title: "Query #2 Input",
+    scripts: "js/q2.js",
   });
 });
 
 // [PAGE-06] QUERY 02: OUTPUT
 
-app.get("/table1query2output-:param1", function (req, res) {
-  var day_input = req.params.param1;
+app.get("/query2output-:param1 -:param3", function (req, res) {
+  var state = req.params.param1;
+  var category = req.params.param2;
+  var day_of_week = req.params.param3;
   console.time();
   var query =
+  "SELECT b.city, b.business_name FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id INNER JOIN business_hours_yelp_clean h ON b.business_id = h.business_id INNER JOIN attributes_business_yelp_clean a ON b.business_id = a.business_id WHERE b.state = "+
+  state+
+  " AND c.category = "+
+  category+ 
+  " AND h.day_of_week = "+ 
+  day_of_week+
+  " AND a.attribute_name = 'Accepts Credit Cards' AND a.attribute_value = 'true' ORDER BY b.city, b.business_name;";
+  
+  /*
     "SELECT day_of_week, SUM((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23)) / (SELECT SUM((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 + time_20 + time_21 + time_22 + time_23)) FROM YelpDataset3.Checkins) * 100 AS Busy_Percentage FROM YelpDataset3.Checkins WHERE day_of_week = '" +
     day_input+
     "' GROUP BY day_of_week;";
-  
+  */
   db.query(query, function (error, output) {
     if (error) throw error;
 
     console.log(output);
     console.timeEnd();
-    res.render("table1query2output", {
-      title: "Query #2 Output (One Table)",
-      scripts: "js/t1q2output.js",
+    res.render("query2output", {
+      title: "Query #2 Output",
+      scripts: "js/q2output.js",
       result: output,
-      day_input: day_input,
+      state_input: state,
+      category_input: category,
+      day_of_week_input: day_of_week,
     });
   });
 });
 
-/* ---------- 2 TABLES (2 QUERIES) ---------- */
+/* ---------- SLICE ---------- */
 
 // [PAGE-07] QUERY 03: INPUT
-app.get("/table2query1", function (req, res) {
-  res.render("table2query1", {
-    title: "Query #3 Input (Two Tables)",
-    scripts: "js/t2q1.js",
+app.get("/query3", function (req, res) {
+  res.render("query3", {
+    title: "Query #3 Input",
+    scripts: "js/q3.js",
   });
 });
 
 // [PAGE-08] QUERY 03: OUTPUT
-app.get("/table2query1output-:param1", function (req, res) {
-  var business_name = req.params.param1;
+app.get("/query3output-:param1", function (req, res) {
+  var category = req.params.param1;
   console.time();
   var query =
+    "SELECT category, city, avg(stars) FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = "+
+    category+
+    " GROUP BY city, category;";
+  /*
     "SELECT business_name, day_of_week, (time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23) checkinsN FROM YelpDataset3.Checkins a, Business b WHERE a.business_id = b.business_id AND business_name = '"
      +business_name+
      "' AND (time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23) = (SELECT MAX((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23)) AS timemax FROM YelpDataset3.Checkins a, Business b WHERE a.business_id = b.business_id AND business_name = '"
      +business_name+
      "');";
-  
+  */
   db.query(query,function (error, result) {
       if (error) throw error;
       console.log(result);
       console.timeEnd();
-      res.render("table2query1output", {
-        title: "Query #3 Output (Two Tables)",
-        scripts: "js/t2q1output.js",
+      res.render("query3output", {
+        title: "Query #3 Output",
+        scripts: "js/q3output.js",
         result: result,
-        business_name: business_name,
+        category: category,
       });
     }
   );
 });
 
+/* ---------- DICE ---------- */
+
 // [PAGE-09] QUERY 04: INPUT
-app.get("/table2query2", function (req, res) {
-  res.render("table2query2", {
-    title: "Query #4 Input (Two Tables)",
-    scripts: "js/t2q2.js",
+app.get("/query4", function (req, res) {
+  res.render("query4", {
+    title: "Query #4 Input",
+    scripts: "js/q4.js",
   });
 });
 
 // [PAGE-10] QUERY 04: OUTPUT
-app.get("/table2query2output-:param1", function (req, res) {
-  var business_name = req.params.param1;
+app.get("/query4output-:param1-:param2-:param3-:param4", function (req, res) {
+  var city = req.params.param1;
+  var category = req.params.param2;
+  var day_of_week = req.params.param3;
+  var time = req.params.param4;
   console.time();
   var query=
+      "SELECT city, SUM(review_count) as total_reviews FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c INNER JOIN business_hours_yelp_clean h ON b.business_id = c.business_id AND b.business_id = h.business_id WHERE category = " +
+      city + 
+      " AND city = " +
+      category +
+      " AND day_of_week = "+
+      day_of_week+
+      " AND ((opening_time_hours <= {user input} AND closing_time_hours > {user input}) OR (opening_time_hours >= "+
+      time +
+      " AND closing_time_hours > {user input} AND opening_time_hours > closing_time_hours) OR (opening_time_hours = closing_time_hours));";
+
+  /*
     "SELECT business_name, r.stars, review_text FROM YelpDataset3.Business b, YelpDataset3.Reviews r WHERE b.business_id = r.business_id AND business_name = '"
     +business_name+
     "';";
+    */
   db.query(query,function (error, result) {
       if (error) throw error;
       console.log(result);
       console.timeEnd();
-      res.render("table2query2output", {
-        title: "Query #4 Output (Two Tables)",
-        scripts: "js/t2q2output.js",
+      res.render("query4output", {
+        title: "Query #4 Output",
+        scripts: "js/q4output.js",
         result: result,
-        business_name: business_name,
+        city: city,
+        category: category,
+        day_of_week: day_of_week,
+        time: time,
       });
     }
   );
 });
-/* ---------- 3 TABLES (2 QUERIES) ---------- */
 
-// [PAGE-11] QUERY 05: INPUT
-app.get("/table3query1", function (req, res) {
-  res.render("table3query1", {
-    title: "Query #5 Input (Three Tables)",
-    scripts: "js/t3q1.js",
-  });
-});
-
-// [PAGE-12] QUERY 05: OUTPUT
-app.get("/table3query1output-:param1-:param2", function (req, res) {
-  var user = req.params.param1;
-  var business = req.params.param2;
-  console.time();
-  var query =
-    "SELECT u.name, b.business_name, r.stars AS UserRate FROM YelpDataset3.Users u, YelpDataset3.Business b, YelpDataset3.Reviews r WHERE u.user_id = r.user_id AND b.business_id = r.business_id AND name = '" +
-    user +
-    "' AND business_name = '" +
-    business +
-    "';";
-  db.query(query, function (error, result) {
-    if (error) throw error;
-    console.log(result);
-    console.timeEnd();
-    res.render("table3query1output", {
-      title: "Query #5 Output (Three Tables)",
-      scripts: "js/t3q1output.js",
-      result: result,
-      UserName: user,
-      BusinessName: business,
-    });
-  });
-});
-
-// [PAGE-13] QUERY 06: INPUT
-app.get("/table3query2", function (req, res) {
-  res.render("table3query2", {
-    title: "Query #6 Input (Three Tables)",
-    scripts: "js/t3q2.js",
-  });
-});
-
-// [PAGE-14] QUERY 06: OUTPUT
-app.get("/table3query2output-:param1-:param2-:param3", function (req, res) {
-  var year = req.params.param1;
-  var month = req.params.param2;
-  var day = req.params.param3;
-  console.time();
-  var query =
-    "SELECT b.business_name, t.date_year, t.date_month, t.date_day, u.name, t.tip_text FROM YelpDataset3.Tips t, YelpDataset3.Users u, YelpDataset3.Business b WHERE t.business_id = b.business_id AND t.user_id = u.user_id AND  t.date_year = '" +
-    year +
-    "' AND  t.date_month = '" +
-    month +
-    "' AND t.date_day = '" +
-    day +
-    "';";
-  db.query(query, function (error, result) {
-    if (error) throw error;
-    console.log(result);
-    console.timeEnd();
-    res.render("table3query2output", {
-      title: "Query #6 Output (Three Tables)",
-      scripts: "js/t3q2output.js",
-      result: result,
-      YearInput: year,
-      MonthInput: month,
-      DayInput: day,
-    });
-  });
-});
-
-/* ---------- 4 TABLES (1 QUERY) ---------- */
-
-// [PAGE-15] QUERY 07: INPUT
-app.get("/table4query", function (req, res) {
-  res.render("table4query", {
-    title: "Query #7 Input (Four Tables)",
-    scripts: "js/t4q.js",
-  });
-});
-
-// [PAGE-15] QUERY 07: OUTPUT
-app.get("/table4queryoutput-:param1", function (req, res) {
-  var category = req.params.param1;
-
-  console.time();
-  var query =
-    "SELECT category, business_name, u.name, r.stars, r.votes_useful, r.review_text FROM YelpDataset3.Business_Categories c, YelpDataset3.Business b, (SELECT * FROM (SELECT * FROM YelpDataset3.Reviews ORDER BY business_id, votes_useful desc, review_id) a GROUP BY business_id) r, YelpDataset3.Users u WHERE c.business_id = b.business_id AND r.business_id = b.business_id AND u.user_id = r.user_id AND category = '" +
-    category +
-    "';";
-  db.query(query, function (error, result) {
-    if (error) throw error;
-    console.log(result);
-    console.timeEnd();
-   
-    res.render("table4queryoutput", {
-      title: "Query #7 Output (Four Tables)",
-      scripts: "js/t4qoutput.js",
-      result: result,
-      CategoryInput: category,
-    });
-  });
-});
 
 /* ------------------------------------ END -------------------------------------- */

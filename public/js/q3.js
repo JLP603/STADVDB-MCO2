@@ -1,9 +1,9 @@
 $(document).ready(function () {
     $("#btn-enter").click(function (e) { 
         
-        var business_name = $("#business_name").val();
-        var path = "/table2query1output-" + business_name;
-        if  (business_name != ""){
+        var category = $("#category").val();
+        var path = "/query3output-" + category;
+        if  (category != ""){
             
             $(location).attr("href", path);
         }

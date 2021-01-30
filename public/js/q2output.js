@@ -4,6 +4,6 @@ $(document).ready(function () {
   });
 
   $("#again-btn").click(() => {
-    $(location).attr("href", "/table1query2");
+    $(location).attr("href", "/query2");
   });
 });

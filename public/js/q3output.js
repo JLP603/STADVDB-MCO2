@@ -4,7 +4,7 @@ $(document).ready(function () {
     });
   
     $("#again-btn").click(() => {
-      $(location).attr("href", "/table2query2");
+      $(location).attr("href", "/query3");
     });
   });
   
