@@ -1,7 +1,7 @@
 <div class="container">
     <!-- Title -->
       <h2>Business' Most Check-Ins</h2>
-      <p>Day of the week with the most check-ins for '{{business_name}}'</p>
+      <!--<p>Day of the week with the most check-ins for '{{business_name}}'</p>-->
     <br>
 
     <!-- Output -->
@@ -16,13 +16,13 @@
             {{#if result}}
               {{#each result}}
                 <tr>
-                  <td>{{this.day_of_week}}</td>
-                  <td>{{this.checkinsN}}</td>
+                  <td>{{this}}</td>
+                  <td>{{this}}</td>
                 </tr>
                 {{/each}}
             {{else}}
               <tr>
-                <td>'{{business_name}}' could not be found</td>
+                <!--<td>'{{business_name}}' could not be found</td>-->
               </tr>
             {{/if}}
         </tbody>

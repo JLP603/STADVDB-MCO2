@@ -1,7 +1,7 @@
 <div class="container">
     <!-- Title -->
       <h2>Reviews Of A Business </h2>
-      <p>Showing reviews for '{{business_name}}'</p>
+      <!--<p>Showing reviews for '{{business_name}}'</p>-->
     
     <br>
 
@@ -17,13 +17,13 @@
             {{#if result}}
               {{#each result}}
                 <tr>
-                  <td>{{this.stars}}</td>
-                  <td>{{this.review_text}}</td>
+                  <td>{{this}}</td>
+                  <td>{{this}}</td>
                 </tr>
                 {{/each}}
             {{else}}
               <tr>
-                <td>No reviews for '{{business_name}}' found.</td>
+                <!--<td>No reviews for '{{business_name}}' found.</td>-->
               </tr>
             {{/if}}
         </tbody>

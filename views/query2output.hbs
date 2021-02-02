@@ -8,14 +8,14 @@
     <table class="table table-bordered">
       <thead class="thead-dark">
         <tr>
-          <th scope="col">Check-In rate on {{day_input}} in percent</th>
+          <!--<th scope="col">Check-In rate on {{day_input}} in percent</th>-->
         </tr>
       </thead>
       <tbody>
         {{#if result}}
           {{#each result}}
             <tr>
-              <td>{{this.Busy_Percentage}}</td>
+              <td>{{this}}</td>
             </tr>
             {{/each}}
         {{else}}

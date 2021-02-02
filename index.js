@@ -142,15 +142,15 @@ app.get("/query2output-:param1 -:param3", function (req, res) {
     day_input+
     "' GROUP BY day_of_week;";
   */
-  db.query(query, function (error, output) {
+  db.query(query, function (error, result) {
     if (error) throw error;
 
-    console.log(output);
+    console.log(result);
     console.timeEnd();
     res.render("query2output", {
       title: "Query #2 Output",
       scripts: "js/q2output.js",
-      result: output,
+      result: result,
       state_input: state,
       category_input: category,
       day_of_week_input: day_of_week,
