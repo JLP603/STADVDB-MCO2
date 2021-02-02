@@ -88,9 +88,9 @@ app.get("/query1output-:param1", function (req, res) {
   console.time();
   var query1 =
   
-    "SELECT b.state, b.city, SUM(b.stars) totalStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = " +
+    "SELECT b.state, b.city, AVG(b.stars) avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = '" +
     category +
-    " AND b.active = 'true' GROUP BY b.state, b.city WITH ROLLUP;";
+    "' AND b.active = 'true' GROUP BY b.state, b.city WITH ROLLUP;";
     /*
     "SELECT SUM(time_" +
     ctime +
@@ -129,13 +129,13 @@ app.get("/query2output-:param1 -:param3", function (req, res) {
   var day_of_week = req.params.param3;
   console.time();
   var query =
-  "SELECT b.city, b.business_name FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id INNER JOIN business_hours_yelp_clean h ON b.business_id = h.business_id INNER JOIN business_attributes_yelp_clean a ON b.business_id = a.business_id WHERE b.state = "+
+  "SELECT b.city, b.business_name FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id INNER JOIN business_hours_yelp_clean h ON b.business_id = h.business_id INNER JOIN business_attributes_yelp_clean a ON b.business_id = a.business_id WHERE b.state = '"+
   state+
-  " AND c.category = "+
+  " AND c.category = '"+
   category+ 
-  " AND h.day_of_week = "+ 
+  "' AND h.day_of_week = '"+ 
   day_of_week+
-  " AND a.attribute_name = 'Accepts Credit Cards' AND a.attribute_value = 'true' ORDER BY b.city, b.business_name;";
+  "' AND a.attribute_name = 'Accepts Credit Cards' AND a.attribute_value = 'true' ORDER BY b.city, b.business_name;";
   
   /*
     "SELECT day_of_week, SUM((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23)) / (SELECT SUM((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 + time_20 + time_21 + time_22 + time_23)) FROM YelpDataset3.Checkins) * 100 AS Busy_Percentage FROM YelpDataset3.Checkins WHERE day_of_week = '" +
@@ -173,9 +173,9 @@ app.get("/query3output-:param1", function (req, res) {
   var category = req.params.param1;
   console.time();
   var query =
-    "SELECT category, city, avg(stars) FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = "+
+    "SELECT category, city, AVG(stars) FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = '"+
     category+
-    " GROUP BY city, category;";
+    "' GROUP BY city, category;";
   /*
     "SELECT business_name, day_of_week, (time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23) checkinsN FROM YelpDataset3.Checkins a, Business b WHERE a.business_id = b.business_id AND business_name = '"
      +business_name+
@@ -215,15 +215,21 @@ app.get("/query4output-:param1-:param2-:param3-:param4", function (req, res) {
   var time = req.params.param4;
   console.time();
   var query=
-      "SELECT city, SUM(review_count) as total_reviews FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c INNER JOIN business_hours_yelp_clean h ON b.business_id = c.business_id AND b.business_id = h.business_id WHERE category = " +
-      city + 
-      " AND city = " +
-      category +
-      " AND day_of_week = "+
+      "SELECT city, SUM(review_count) as total_reviews FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c INNER JOIN business_hours_yelp_clean h ON b.business_id = c.business_id AND b.business_id = h.business_id WHERE category = '" +
+      category+ 
+      "' AND city = '" +
+      city +
+      "' AND day_of_week = '"+
       day_of_week+
-      " AND ((opening_time_hours <= {user input} AND closing_time_hours > {user input}) OR (opening_time_hours >= "+
+      "' AND ((opening_time_hours <= "+
+      time+
+      " AND closing_time_hours > "+
+      time+
+      ") OR (opening_time_hours >= "+
       time +
-      " AND closing_time_hours > {user input} AND opening_time_hours > closing_time_hours) OR (opening_time_hours = closing_time_hours));";
+      " AND closing_time_hours > "+
+      time +
+      " AND opening_time_hours > closing_time_hours) OR (opening_time_hours = closing_time_hours));";
 
   /*
     "SELECT business_name, r.stars, review_text FROM YelpDataset3.Business b, YelpDataset3.Reviews r WHERE b.business_id = r.business_id AND business_name = '"
