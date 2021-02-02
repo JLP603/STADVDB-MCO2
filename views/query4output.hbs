@@ -9,16 +9,16 @@
     <table class="table table-bordered">
         <thead class="thead-dark">
             <tr>
-              <th scope="col">Ratings</th>
-              <th scope="col">Comments</th>
+              <th scope="col">City</th>
+              <th scope="col">Total Amnt of Reviews</th>
             </tr>
           </thead>
         <tbody>
             {{#if result}}
               {{#each result}}
                 <tr>
-                  <td>{{this}}</td>
-                  <td>{{this}}</td>
+                  <td>{{this.city}}</td>
+                  <td>{{this.total_reviews}}</td>
                 </tr>
                 {{/each}}
             {{else}}

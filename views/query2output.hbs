@@ -9,13 +9,16 @@
       <thead class="thead-dark">
         <tr>
           <!--<th scope="col">Check-In rate on {{day_input}} in percent</th>-->
+          <th scope="col">City</th>
+          <th scope="col">Business Name</th>
         </tr>
       </thead>
       <tbody>
         {{#if result}}
           {{#each result}}
             <tr>
-              <td>{{this}}</td>
+              <td>{{this.city}}</td>
+              <td>{{this.business_name}}</td>
             </tr>
             {{/each}}
         {{else}}

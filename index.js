@@ -88,7 +88,7 @@ app.get("/query1output-:param1", function (req, res) {
   console.time();
   var query1 =
   
-    "SELECT b.state, b.city, AVG(b.stars) avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = '" +
+    "SELECT b.state, b.city, AVG(b.stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = '" +
     category +
     "' AND b.active = 'true' GROUP BY b.state, b.city WITH ROLLUP;";
     /*
@@ -173,7 +173,7 @@ app.get("/query3output-:param1", function (req, res) {
   var category = req.params.param1;
   console.time();
   var query =
-    "SELECT category, city, AVG(stars) FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = '"+
+    "SELECT category, city, AVG(stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = '"+
     category+
     "' GROUP BY city, category;";
   /*
@@ -215,7 +215,7 @@ app.get("/query4output-:param1-:param2-:param3-:param4", function (req, res) {
   var time = req.params.param4;
   console.time();
   var query=
-      "SELECT city, SUM(review_count) as total_reviews FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c INNER JOIN business_hours_yelp_clean h ON b.business_id = c.business_id AND b.business_id = h.business_id WHERE category = '" +
+      "SELECT city, SUM(review_count) AS total_reviews FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c INNER JOIN business_hours_yelp_clean h ON b.business_id = c.business_id AND b.business_id = h.business_id WHERE category = '" +
       category+ 
       "' AND city = '" +
       city +

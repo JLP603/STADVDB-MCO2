@@ -8,16 +8,18 @@
     <table class="table table-bordered">
         <thead class="thead-dark">
             <tr>
-              <th scope="col">Day of Week</th>
-              <th scope="col">Amount of Check-ins</th>
+              <th scope="col">Category Name</th>
+              <th scope="col">City</th>
+              <th scope="col">Avg Stars</th>
             </tr>
           </thead>
         <tbody>
             {{#if result}}
               {{#each result}}
                 <tr>
-                  <td>{{this}}</td>
-                  <td>{{this}}</td>
+                  <td>{{this.category}}</td>
+                  <td>{{this.city}}</td>
+                  <td>{{this.avgStars}}</td>
                 </tr>
                 {{/each}}
             {{else}}

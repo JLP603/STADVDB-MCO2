@@ -8,15 +8,18 @@
   <table class="table table-bordered">
     <thead class="thead-dark">
       <tr>
-        <th scope="col">Chance of being busy in percent</th>
-
+        <th scope="col">State</th>
+        <th scope="col">City</th>
+        <th scope="col">Avg Stars</th>
       </tr>
     </thead>
     <tbody>
       {{#if result}}
       {{#each result}}
       <tr>
-        <td>{{this}}</td>
+        <td>{{this.state}}</td>
+        <td>{{this.city}}</td>
+        <td>{{this.avgStars}}</td>
 
       </tr>
       {{/each}}
