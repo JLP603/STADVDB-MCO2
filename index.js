@@ -12,7 +12,14 @@ var db = mysql.createConnection({
   password: "relational",
   database: "YelpDataset3",
 });
-
+/*
+mysql://
+b171c289217746
+:
+878eba92
+@us-cdbr-east-03.cleardb.com
+/heroku_8a9100e8b8937ad?reconnect=true
+*/
 db.connect(function (err) {
   if (err) throw err;
   console.log("Connected!");
