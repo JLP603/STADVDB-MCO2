@@ -13,13 +13,17 @@ var db = mysql.createConnection({
   database: "YelpDataset3",
 });
 /*
+database:STADVDB MCO2 or heroku_8a9100e8b8937ad
 mysql://
-b171c289217746
+username:b171c289217746
 :
-878eba92
-@us-cdbr-east-03.cleardb.com
+password:878eba92
+hostname:us-cdbr-east-03.cleardb.com
 /heroku_8a9100e8b8937ad?reconnect=true
 */
+//attributes table should be categories
+//categories table should be hours
+//hours should be attributes
 db.connect(function (err) {
   if (err) throw err;
   console.log("Connected!");
