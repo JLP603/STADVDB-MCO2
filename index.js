@@ -6,6 +6,8 @@ const handlebars = require("handlebars");
 const bodyParser = require("body-parser");
 const mysql = require("mysql");
 
+
+
 var db = mysql.createConnection({
   host: "us-cdbr-east-03.cleardb.com",
   user: "b171c289217746",
@@ -123,7 +125,7 @@ app.get("/query2", function (req, res) {
 
 // [PAGE-06] QUERY 02: OUTPUT
 
-app.get("/query2output-:param1 -:param3", function (req, res) {
+app.get("/query2output-:param1-:param2-:param3", function (req, res) {
   var state = req.params.param1;
   var category = req.params.param2;
   var day_of_week = req.params.param3;

@@ -5,7 +5,7 @@ $(document).ready(function () {
         var category = $("#category").val();
         var day_of_week = $("#day_of_week").val();
         var time = $("#time").val();
-        var path = "/query4output-" + city + category + day_of_week + time
+        var path = "/query4output-" + city +"-"+ category +"-"+ day_of_week +"-"+ time
 
         if  (city != ""||category != ""||day_of_week != ""||time != ""){
             
