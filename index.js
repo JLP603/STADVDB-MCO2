@@ -7,10 +7,10 @@ const bodyParser = require("body-parser");
 const mysql = require("mysql");
 
 var db = mysql.createConnection({
-  host: "relational.fit.cvut.cz",
-  user: "guest",
-  password: "relational",
-  database: "YelpDataset3",
+  host: "us-cdbr-east-03.cleardb.com",
+  user: "b171c289217746",
+  password: "878eba92",
+  database: "heroku_8a9100e8b8937ad",
 });
 /*
 database:STADVDB MCO2 or heroku_8a9100e8b8937ad
@@ -21,9 +21,7 @@ password:878eba92
 hostname:us-cdbr-east-03.cleardb.com
 /heroku_8a9100e8b8937ad?reconnect=true
 */
-//attributes table should be categories
-//categories table should be hours
-//hours should be attributes
+
 db.connect(function (err) {
   if (err) throw err;
   console.log("Connected!");
