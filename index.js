@@ -137,9 +137,9 @@ app.get("/query2output-:param1-:param2-:param3", function (req, res) {
       title: "Query #2 Output",
       scripts: "js/q2output.js",
       result: result,
-      state_input: state,
-      category_input: category,
-      day_of_week_input: day_of_week,
+      state: state,
+      category: category,
+      day_of_week: day_of_week,
     });
   });
 });
