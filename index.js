@@ -160,9 +160,9 @@ app.get("/query3output-:param1", function (req, res) {
   console.time();
   var query =
   //might need to make it b.categories
-    "SELECT category, city, AVG(stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = '"+
+    "SELECT c.category, b.city, AVG(b.stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = '"+
     category+
-    "' GROUP BY city, category;";
+    "' GROUP BY b.city, c.category;";
   
   db.query(query,function (error, result) {
       if (error) throw error;

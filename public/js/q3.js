@@ -1,6 +1,6 @@
 $(document).ready(function () {
     //might change the line below
-    $("#btn-enter").click(function (e) { 
+    $("#btn-enter").click(() => { 
         
         var category = $("#category").val();
         var path = "/query3output-" + category;
