@@ -21,3 +21,9 @@
 <li>Type "npm run dev"
 <li>Open a browser and type "localhost:9000" in the url bar
 </ul>
+
+### Error fixing
+<ul>
+<li>https://stackoverflow.com/questions/51008807/nodejs-mysql-client-does-not-support-authentication-protocol 51063951</li>
+<li>https://stackoverflow.com/questions/51147964/errno-1251-sqlmessage-client-does-not-support-authentication-protocol-reques</li>
+</ul>
