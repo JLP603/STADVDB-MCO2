@@ -7,22 +7,14 @@ const bodyParser = require("body-parser");
 const mysql = require("mysql");
 
 
-
+//Please change the credentials below to your MySQL database connection credentials
+//after importing the tables with CLEAN in the ETL folder into a MySQL Schema
 var db = mysql.createConnection({
-  host: "us-cdbr-east-03.cleardb.com",
-  user: "b171c289217746",
-  password: "878eba92",
-  database: "heroku_8a9100e8b8937ad",
+  host: "localhost",
+  user: "root",
+  password: "Jereme33649",
+  database: "test",
 });
-/*
-database:STADVDB MCO2 or heroku_8a9100e8b8937ad
-mysql://
-username:b171c289217746
-:
-password:878eba92
-hostname:us-cdbr-east-03.cleardb.com
-/heroku_8a9100e8b8937ad?reconnect=true
-*/
 
 db.connect(function (err) {
   if (err) throw err;
@@ -93,11 +85,7 @@ app.get("/query1output-:param1", function (req, res) {
     "SELECT b.state, b.city, AVG(b.stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE c.category = '" +
     category +
     "' AND b.active = 'true' GROUP BY b.state, b.city WITH ROLLUP;";
-    /*
-    "SELECT SUM(time_" +
-    ctime +
-    ") / (SELECT MAX(sumtime) FROM (SELECT sum(time_0) sumtime FROM YelpDataset3.Checkins UNION ALL SELECT sum(time_1) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_2) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_3) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_4) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_5) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_6) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_7) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_8) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_9) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_10) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_11) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_12) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_13) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_14) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_15) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_16) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_17) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_18) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_19) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_20) FROM YelpDataset3.Checkins  UNION ALL  SELECT sum(time_21) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_22) FROM YelpDataset3.Checkins  UNION ALL SELECT sum(time_23) FROM YelpDataset3.Checkins) z)* 100 AS BusyChance FROM YelpDataset3.Checkins;";
-  */
+    
     db.query(query1, function (error, result) {
     if (error) throw error;
     console.log(result);
@@ -139,11 +127,7 @@ app.get("/query2output-:param1-:param2-:param3", function (req, res) {
   day_of_week+
   "' AND a.attribute_name = 'Accepts Credit Cards' AND a.attribute_value = 'true' ORDER BY b.city, b.business_name;";
   
-  /*
-    "SELECT day_of_week, SUM((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23)) / (SELECT SUM((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 + time_20 + time_21 + time_22 + time_23)) FROM YelpDataset3.Checkins) * 100 AS Busy_Percentage FROM YelpDataset3.Checkins WHERE day_of_week = '" +
-    day_input+
-    "' GROUP BY day_of_week;";
-  */
+  
   db.query(query, function (error, result) {
     if (error) throw error;
 
@@ -178,13 +162,7 @@ app.get("/query3output-:param1", function (req, res) {
     "SELECT category, city, AVG(stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = '"+
     category+
     "' GROUP BY city, category;";
-  /*
-    "SELECT business_name, day_of_week, (time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23) checkinsN FROM YelpDataset3.Checkins a, Business b WHERE a.business_id = b.business_id AND business_name = '"
-     +business_name+
-     "' AND (time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23) = (SELECT MAX((time_0 + time_1 + time_2 + time_3 + time_4 + time_5 + time_6 + time_7 + time_8 + time_9 + time_10 + time_11 + time_12 + time_13 + time_14 + time_15 + time_16 + time_17 + time_18 + time_19 +time_20 + time_21 + time_22 + time_23)) AS timemax FROM YelpDataset3.Checkins a, Business b WHERE a.business_id = b.business_id AND business_name = '"
-     +business_name+
-     "');";
-  */
+  
   db.query(query,function (error, result) {
       if (error) throw error;
       console.log(result);
@@ -233,11 +211,7 @@ app.get("/query4output-:param1-:param2-:param3-:param4", function (req, res) {
       time +
       " AND opening_time_hours > closing_time_hours) OR (opening_time_hours = closing_time_hours));";
 
-  /*
-    "SELECT business_name, r.stars, review_text FROM YelpDataset3.Business b, YelpDataset3.Reviews r WHERE b.business_id = r.business_id AND business_name = '"
-    +business_name+
-    "';";
-    */
+  
   db.query(query,function (error, result) {
       if (error) throw error;
       console.log(result);
