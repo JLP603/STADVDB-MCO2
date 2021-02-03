@@ -159,6 +159,7 @@ app.get("/query3output-:param1", function (req, res) {
   var category = req.params.param1;
   console.time();
   var query =
+  //might need to make it b.categories
     "SELECT category, city, AVG(stars) AS avgStars FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id WHERE category = '"+
     category+
     "' GROUP BY city, category;";
