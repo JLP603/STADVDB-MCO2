@@ -121,7 +121,7 @@ app.get("/query2output-:param1-:param2-:param3", function (req, res) {
   var query =
   "SELECT b.city, b.business_name FROM business_yelp_clean b INNER JOIN business_categories_yelp_clean c ON b.business_id = c.business_id INNER JOIN business_hours_yelp_clean h ON b.business_id = h.business_id INNER JOIN business_attributes_yelp_clean a ON b.business_id = a.business_id WHERE b.state = '"+
   state+
-  " AND c.category = '"+
+  "' AND c.category = '"+
   category+ 
   "' AND h.day_of_week = '"+ 
   day_of_week+
